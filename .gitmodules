@@ -1,0 +1,3 @@
+[submodule "themes/afterdark"]
+	path = themes/afterdark
+	url = https://github.com/comfusion/after-dark.git
