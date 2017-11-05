@@ -34,3 +34,6 @@ theme = "afterdark"
   identifier = "supportme"
   url = "/supportme"
 
+[permalinks]
+  post = "/:year/:month/:title/"
+  
