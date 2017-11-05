@@ -35,5 +35,5 @@ theme = "afterdark"
   url = "/supportme"
 
 [permalinks]
-  post = "/:year/:month/:title/"
+  post = "/:year/:month/:day/:title/"
   
