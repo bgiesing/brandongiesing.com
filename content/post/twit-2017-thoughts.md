@@ -1,6 +1,6 @@
 +++
 author = "Brandon Giesing"
-date = 2017-10-03T01:40:52Z
+date = 2017-10-02T01:40:52Z
 description = "My thoughts on TWiT's changes for Fall 2017."
 draft = false
 slug = "twit-2017-thoughts"

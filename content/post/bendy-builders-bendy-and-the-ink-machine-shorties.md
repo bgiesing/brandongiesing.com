@@ -1,7 +1,7 @@
 +++
 author = "Brandon Giesing"
 categories = ["video-post-format", "CosiCast Shorties", "CosiCast"]
-date = 2017-05-04T04:19:00Z
+date = 2017-05-03T04:19:00Z
 description = ""
 draft = false
 slug = "bendy-builders-bendy-and-the-ink-machine-shorties"

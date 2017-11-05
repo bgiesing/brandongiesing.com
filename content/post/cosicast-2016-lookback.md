@@ -1,7 +1,7 @@
 +++
 author = "Brandon Giesing"
 categories = ["video-post-format", "CosiCast Lookback", "CosiCast", "YouTube"]
-date = 2016-12-12T05:11:39Z
+date = 2016-12-11T05:11:39Z
 description = "A lookback at how my video content improved in 2016."
 draft = false
 slug = "cosicast-2016-lookback"

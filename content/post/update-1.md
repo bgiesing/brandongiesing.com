@@ -1,7 +1,7 @@
 +++
 author = "Brandon Giesing"
 categories = ["Updates & Stuff", "announcements"]
-date = 2017-05-23T01:52:30Z
+date = 2017-05-22T01:52:30Z
 description = ""
 draft = false
 slug = "update-1"

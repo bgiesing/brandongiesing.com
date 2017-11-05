@@ -1,7 +1,7 @@
 +++
 author = "Brandon Giesing"
 categories = ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
-date = 2017-08-28T04:51:30Z
+date = 2017-08-27T04:51:30Z
 description = ""
 draft = false
 slug = "updates-stuff"
