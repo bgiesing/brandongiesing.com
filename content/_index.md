@@ -1,8 +1,7 @@
 ---
 title: "BrandonGiesing.com"
+description: "Welcome to the new BrandonGiesing.com! The "Inky Abyss" Update."
 ---
-
-# Welcome to the new BrandonGiesing.com! The "Inky Abyss" Update.
 
 Welcome to the brand-new website! Now way faster and simplier than before!
 
@@ -12,7 +11,7 @@ If you can't find something from the old site, [an Outdated copy of old Ghost si
 
 Just like last time (The Nepdate), I'm continuing the tradition of naming major updates in reference to fandoms (Hyperdimension Neptunia). This time is The "Inky Abyss" Update which is in reference to Bendy and the Ink Machine, a really good horror game that unlike others doesn't just overload with jumpscares. I chose the reference based on the new look being way darker as if the site was coated in the Black Ink used for old-timey cartoons like Bendy is based around.
 
-# New Engine: Hugo vs Ghost
+## New Engine: Hugo vs Ghost
 
 Ghost is pretty good for blogs but not as much for full websites. It also requires a full VPS to host it on which is expensive.
 
