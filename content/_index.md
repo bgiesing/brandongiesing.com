@@ -1,6 +1,6 @@
 ---
 title: "BrandonGiesing.com"
-description: "Welcome to the new BrandonGiesing.com! The "Inky Abyss" Update."
+description: "Welcome to the new BrandonGiesing.com! The 'Inky Abyss' Update."
 ---
 
 Welcome to the brand-new website! Now way faster and simplier than before!
