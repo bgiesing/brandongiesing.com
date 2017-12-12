@@ -42,9 +42,155 @@
       <script async src="/js/bpgdec8.js"></script>
       <script async src="/js/bpgdec.js"></script>
     {{ end }}
+    <style>body.hot-page:not(:lang(nt)) {
+          margin-top: 100vh;
+        }
+
+        body.hot-page:not(:lang(nt)):before {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100vh;
+          background-color: #FC0D1E;
+          content: "";
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100vh;
+          padding: 0;
+          margin: 0;
+          border: 0;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote p {
+          font-size: 32px;
+          text-align: center;
+          font-family: "Helvetica";
+          font-weight: 400;
+          color: #fff;
+          width:80%;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote > p a {
+          color: #ff3434;
+          text-transform: uppercase;
+          font-weight:bold;
+          background-color: white;
+          padding: 5px 15px 5px 15px;
+          border-radius: 5px;
+          font-size: 28px;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote > p stron em a {
+          background-color: none;
+        }
+
+
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote > p:first-of-type, 
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote > p:nth-of-type(2) {
+          animation: fadein 0.6s ease-in-out 2s both;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote > p:last-of-type {
+          animation: fadein 0.6s ease-in-out 3s both;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote blockquote {
+          position: relative;
+          height: 96px;
+          border: 0;
+          padding: 0;
+          margin: 0;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote blockquote p {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          width: 96px;
+          height: 96px;
+          margin: -48px 0 0 -48px;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote blockquote p * {
+          display: block;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote blockquote p strong {
+          position: absolute;
+          left: 1px;
+          top: 1px;
+          width: 94px;
+          height: 94px;
+          animation: spin 0.8s cubic-bezier(0.75, 0.3, 0.3, 0.75) infinite;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote blockquote p em {
+          width: 48px;
+          height: 48px;
+          overflow: hidden;
+        }
+
+        body.hot-page:not(:lang(nt)) .side .md h6 + h6 + blockquote blockquote p a {
+          width: 94px;
+          height: 94px;
+          border-radius: 88px;
+          border: 10px solid #FFF;
+          box-sizing: border-box;
+        }
+
+        @keyframes spin {
+          from {
+            transform: rotate(0deg);
+          }
+          to {
+            transform: rotate(360deg);
+          }
+        }
+
+        @keyframes fadein {
+          from {
+            opacity: 0;
+          }
+          to {
+            opacity: 1;
+          }
+        }
+    </style>
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
   <body class="{{ $theme_variant }} main container hot-page">
+    <div class="side">
+        <div class="md">
+            <h6><a href="#a"></a></h6>
+
+            <h6><a href="#a"></a></h6>
+
+            <blockquote>
+            <p>We're sorry, but you've exceeded your allotted bandwidth for <a href="https://brandongiesing.com">https://brandongiesing.com</a>. </p>
+
+            <p>Please update your internet plan to continue browsing.</p>
+
+            <blockquote>
+            <p><strong><em><a href="#l"></a></em></strong></p>
+            </blockquote>
+
+            <p>Loading...</p>
+
+            <p>The FCC will end net neutrality on Dec 14th if we don't convince Congress to stop them. <a href="https://www.battleforthenet.com/breaktheinternet/">Join the Protest</a> and <a href="https://www.battleforthenet.com/">Contact Congress</a> to save net neutrality.</p>
+            </blockquote>
+        </div>
+    </div>
     <header>{{ block "header" . }}{{ end }}</header>
     <main>{{ block "main" . }}{{ end }}</main>
     <footer>{{ block "footer" . }}{{ end }}</footer>
