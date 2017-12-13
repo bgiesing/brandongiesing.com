@@ -46,7 +46,7 @@ times but here's the basics of what I do.
 
 If they are linked, it's my referral link! Otherwise, just search for them.
 
- * Swagbucks (Web+Apps) [http://www.swagbucks.com/refer/dotmaniac39] * Run as
+ * Swagbucks (Web+Apps) [http://www.swagbucks.com/refer/BrandonGiesing] * Run as
       many of the Swagbucks apps as I can. Some days only SBTV and Lifestylez on
       2 devices since they often give me non-stop bonus rounds but sometimes I
       do the rest also, usually max 3 devices (The 2013 Nexus and BLU for 2, my
