@@ -9,9 +9,10 @@ title = "CosiMine | Support the site!"
 +++
 
 I want to keep this website (and most of what I do) availiable without really
-shitty ads. At the bottom left of every page (bottom bar on mobile) is a Crypto
-miner that will let you help by using a tiny bit of your CPU usage to make me
-some Cryptocurrency.
+shitty ads. Below is a Crypto miner that will let you help by using a tiny bit
+of your CPU usage to make me some Cryptocurrency.
+
+<center><iframe scrolling="no" frameborder="0"  class="lazyload" src="https://coinpot.co/mine/litecoin/?ref=0622613A3A04&mode=widget" style="overflow:hidden;width:324px;height:470px;"></iframe><center>
 
 # FAQ
 Is this bad for my machine? Can I adjust it to use more or less of my PCs power?

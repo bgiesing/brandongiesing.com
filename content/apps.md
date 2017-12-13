@@ -13,7 +13,7 @@ The following is a list of apps/sites I use or have used in the past divided int
 #### Variety
 To qualify as a "Variety" site/app, these ones have to include any combination of Videos, OfferWalls, Surveys, Search, Downloads, etc and some of the features have to be made by themselves, not a third-party (like EngageMe for instance for videos). These usually pay big cause the vast amount of stuff you can do and the unique exclusive features.
 
-- [Swagbucks (Web+Apps)](http://www.swagbucks.com/refer/dotmaniac39)
+- [Swagbucks (Web+Apps)](http://www.swagbucks.com/refer/BrandonGiesing)
   - Probably the best to start off with if you only have one or two devices, high earner.
   - [Tips](/swagbucks-tips/)
 - [MyPoints (Web+Apps)](https://www.mypoints.com?rb=31543473)
@@ -109,11 +109,18 @@ Faucets are sites that pay you for completing a captcha every so many minutes or
   - Buy a Time Boost for 1,000 Blocks and claim every 10 minutes for 2 hours. Buy them till you get capped (1 to 4 a day) and then claim at the normal 30 mins the rest of the day.
 - [CoinPot (Web)](https://coinpot.co) Sites
   - All of these can pay to a shared balance with a CoinPot account (aka faster withdraws as multiple sites earn faster) which can be cashed out at any time if over minimums or without an account once a week.
-  - Supports Bitcoin, Dogecoin, and Litecoin
+  - Supports Bitcoin, Bitcoin Cash, Dogecoin, Dash, and Litecoin
   - Withdrawal at 0.0001 BTC, 50 DOGE, and 0.001 LTC
   - All of them also have offerwalls which includes VideoLab by OfferToro and EngageMe
-  - [Moonbit.co.in (Web)](http://moonbit.co.in/?ref=302251460c30)
+  - Moon Sites
+     - These are part of the CoinPot family of sites
      - Claim once a day (by UTC time) as when it's built up, you will get a bigger mystery bonus and a daily bonus
+     - Can do offers to make the bonus bigger and earn more.
+     - [MoonBitcoin (Web)](http://moonbit.co.in/?ref=302251460c30)
+          - [MoonBitcoin Only] Can do CoinHive Mining to increase the bonus
+     - [MoonLitecoin (Web)](http://moonliteco.in/?ref=fc77d3842e7b)
+     - [MoonDogecoin (Web)](http://moondoge.co.in/?ref=ea495a9cb972)
+     - [MoonDashcoin (Web)](http://moondash.co.in/?ref=03A76891F0E4)
   - [BitFun (Web)](http://bitfun.co/?ref=64002ECDDE0D)
      - The longer you wait the bigger the claim will be, no bonus though so claim whenever you want.
   - [BonusBitcoin (Web)](http://bonusbitcoin.co/?ref=459A9F8098E6)
@@ -129,6 +136,7 @@ These sites/apps require more effort but (usually) pay high amounts each day by 
 - Google Opinion Rewards (Apps)
   - Super easy surveys that are usually at most 5 questions and take a minute
   - Get Play Store credit for Android apps/games or media like movies, music, books, magazines, TV Shows, etc.
+  - [Currently iOS only] Get PayPal when you get to $2
 - FreeEats.com (SMS)
   - Sign up and get text messages, click the link and get paid instantly to PayPal
 - CitizenMe (Apps)

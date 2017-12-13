@@ -8,7 +8,7 @@ title = "Swagbucks Tips"
 
 +++
 
-Swagbucks is one of the best earners as they give large amounts and have many
+[Swagbucks](http://www.swagbucks.com/refer/BrandonGiesing) is one of the best earners as they give large amounts and have many
 things you can do to earn those points (called Swagbucks/SBs). Here's a few tips
 for how to maximize your earnings without doing tons of surveys you won't
 qualify for and with any purchasing optional!
@@ -38,7 +38,7 @@ qualify for and with any purchasing optional!
       not available right now.
  * v2: December 26th, 2016
     * Info about downgrading apps
-    * Added EngageMe.TV [http://EngageMe.TV]  and Search tips
+    * Added [EngageMe.TV](http://EngageMe.TV) and Search tips
     * Moved Watch to a new Old Tips section since I no
       longer do it.
     * nCrave tips now mention Chrome disabling Flash by
@@ -165,7 +165,7 @@ SwagCodes are easy points if you get them in time! They usually are 1-5 SB and
 only require typing the code in the SwagCode redeem box at the top of every
 page, the SwagButton extension, or the App.
 
-http://sbcodez.com and the Swagbucks Subreddit posts them as soon as they come
+[SBCodez](http://sbcodez.com) and the [/r/Swagbucks Subreddit](https://reddit.com/r/SwagBucks) posts them as soon as they come
 out and they have ways to get SMS/Push notifications of new codes.
 
 Swagbucks has multiple different code types:

@@ -5,10 +5,11 @@ date = 2017-05-03T04:19:00Z
 description = ""
 draft = false
 slug = "bendy-builders-bendy-and-the-ink-machine-shorties"
-tags = ["video-post-format", "CosiCast Shorties", "CosiCast"]
+tags = ["CosiCast Shorties", "CosiCast"]
 title = "Bendy Builders | Bendy and the Ink Machine"
 
 +++
+{{< privacytube mAbuDh5d9zI >}}
 
 I've been listening to this song a lot cause it's so freaking catchy! So I
 decided to edit some cool fan animations/artwork together. I didn't want to
@@ -19,17 +20,18 @@ CREDITS
 Bendy and the Ink Machine belongs to theMeatly Games.
 
 MUSIC
-Build Our Machine - DAGames https://www.youtube.com/watch?v=ZstsPUKT5CI
+Build Our Machine - DAGames
+{{< privacytube ZstsPUKT5CI >}}
 
 CLIPS
 (If I forgot one, please let me know)
 
-https://www.youtube.com/watch?v=8kkCYCL_W84
-https://www.youtube.com/watch?v=tI3Up2kzwNk
-https://www.youtube.com/watch?v=__bWA3qKLS4
-https://www.youtube.com/watch?v=SnLXzG1G8NA
-https://www.youtube.com/watch?v=tkzSF31GZwM
-https://www.youtube.com/watch?v=c_OHECDFv1Y
+{{< privacytube 8kkCYCL_W84 >}}
+{{< privacytube tI3Up2kzwNk >}}
+{{< privacytube __bWA3qKLS4 >}}
+{{< privacytube SnLXzG1G8NA >}}
+{{< privacytube tkzSF31GZwM >}}
+{{< privacytube c_OHECDFv1Y >}}
 
 And various fan/official art found via Google Images. (again let me know if you
 know the exact artist)

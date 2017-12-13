@@ -29,18 +29,11 @@ If you use Bitcoin or other crypto-currencies, click the "Pay with ShapeShift" b
 
 <center><script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=1CdfqBGAndvSmesb3Q7Kf6sBg8gHbqh6si&amp;output=BTC"><img src="https://shapeshift.io/images/shifty/large_dark_ss.png" class="ss-button"></a></center>
 
-## Other Ways
-- Tipping or Subscribing to my <a class="external" href="https://vid.me/CosiCast">Vid.me</a>
-  - Click "Tip CosiCast" underneath one of my videos.
-  - Click "Subscribe" on the main channel page.
-
 # Buying Stuff
 You can also buy stuff from or for me!
 
 ## Amazon
-Go to the [Cosi's Commerce Store](/store) where you can buy products I like or use securely from Amazon and I'll receive a small commission back.
-
-You can also buy stuff for me as a gift from my <a class="external" href="http://a.co/24eU8Dn">Amazon Wishlist</a>.
+You can buy stuff for me as a gift from my <a class="external" href="http://a.co/24eU8Dn">Amazon Wishlist</a>.
 
 ## [Wallpaper Collection](/wallpaper-collection/)
 - You can buy my Wallpaper Collection to get some cool wallpapers I designed and support both me and charity in the process! 50% of all proceeds go to either the EFF or Wikimedia Foundation.

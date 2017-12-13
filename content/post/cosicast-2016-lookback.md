@@ -1,14 +1,16 @@
 +++
 author = "Brandon Giesing"
-categories = ["video-post-format", "CosiCast Lookback", "CosiCast", "YouTube"]
+categories = ["CosiCast Lookback", "CosiCast", "YouTube"]
 date = 2016-12-11T05:11:39Z
 description = "A lookback at how my video content improved in 2016."
 draft = false
 slug = "cosicast-2016-lookback"
-tags = ["video-post-format", "CosiCast Lookback", "CosiCast", "YouTube"]
+tags = ["CosiCast Lookback", "CosiCast", "YouTube"]
 title = "CosiCast 2016 Lookback"
 
 +++
+
+{{< privacytube af6yzzJTR7s >}}
 
 From all the tragedies, YouTube's crap, Trump, and more, this year has been one
 with many problems... However, there's been good things also including great new
@@ -22,7 +24,7 @@ NOTE: Not all videos of 2016 are included for a few reasons.
 
  1. Some are just too big to try to edit like the Undertale Anniversary video.
  2. None of the videos I upload for archival purposes are included as they
-    aren't my content. This includes things like the Pluto.TV [http://Pluto.TV] 
+    aren't my content. This includes things like the [Pluto.TV](http://Pluto.TV)
     Bumpers and Election News Opens.
  3. None of the channel updates are included. Only the 4 main series (Shorties,
     Promo Promotions, In 60 Seconds, and Fan Music Videos)
@@ -103,7 +105,7 @@ video or others from that series.
 
 Also I decided to change the name again from CosiTube to CosiCast to make it
 less "YouTube-focused". Alongside this, I started using other sites alongside
-YouTube including Vid.me [http://Vid.me]  as a mirror for videos (in case #WTFU
+YouTube including [Vid.me](http://Vid.me) as a mirror for videos (in case #WTFU
 strikes), Coub, Instagram, Twitter, and Rabadaba for video previews and even
 sometimes Early Access.
 
