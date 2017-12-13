@@ -1,14 +1,16 @@
 +++
 author = "Brandon Giesing"
-categories = ["video-post-format", "CosiCast Shorties", "CosiCast", "Glitchtale"]
+categories = ["CosiCast Shorties", "CosiCast", "Glitchtale"]
 date = 2017-06-29T13:49:53Z
 description = ""
 draft = false
 slug = "glitchtale-love-shorties"
-tags = ["video-post-format", "CosiCast Shorties", "CosiCast", "Glitchtale"]
+tags = ["CosiCast Shorties", "CosiCast", "Glitchtale"]
 title = "No Love In This Timeline | Glitchtale Season 2"
 
 +++
+
+{{< privacytube hsreiXIJEDw >}}
 
 For once, nobody died! I applaud you Camila for holding back this one episode!
 Then again, it is only Part 1 so if Part 2 has deaths I guess someone did die,
