@@ -8,7 +8,7 @@ title = "Swagbucks Tips"
 
 +++
 
-Swagbucks is one of the best earners as they give large amounts and have many
+[Swagbucks](http://www.swagbucks.com/refer/BrandonGiesing) is one of the best earners as they give large amounts and have many
 things you can do to earn those points (called Swagbucks/SBs). Here's a few tips
 for how to maximize your earnings without doing tons of surveys you won't
 qualify for and with any purchasing optional!
