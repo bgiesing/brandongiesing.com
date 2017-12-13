@@ -1,14 +1,16 @@
 +++
 author = "Brandon Giesing"
-categories = ["video-post-format", "CosiCast Shorties", "CosiCast"]
+categories = ["CosiCast Shorties", "CosiCast"]
 date = 2017-05-30T16:15:00Z
 description = ""
 draft = false
 slug = "glitchtale-do-or-die-shorties"
-tags = ["video-post-format", "CosiCast Shorties", "CosiCast"]
+tags = ["CosiCast Shorties", "CosiCast"]
 title = "Ready, Set, DIE! | Glitchtale Season 2"
 
 +++
+
+{{< privacytube -Y1DHqDeJ-Y >}}
 
 With the new episode of Glitchtale, Love Part 1, being released today, I
 realized I completely forgot to do my usual edit for each episode!
