@@ -5,7 +5,7 @@ title: "Ways To Support Me"
 If you like the various projects I do (or have done in the past), a donation would be appreciated!
 
 # No money? No problem!
-Do you want to help me but have nothing yourself? Fear not, you still can! 
+Do you want to help me but have nothing yourself? Fear not, you still can!
 
 ## Money Routine
 One of the easiest ways is to signup for the "beermoney" services using the referral links on [my Money Making Routine page](/money/) and I'll make a bit of money while you make money. A Win-Win for both of us!
@@ -25,9 +25,18 @@ If you are willing to let a webpage stay open and use a small portion of your CP
 You can pay me with good old fashioned cash at <a class="external" href="https://paypal.me/bgiesing" >my PayPal.me page</a> or with Dwolla by sending it to <me@brandongiesing.com>.
 
 ## Cryptocoins
-If you use Bitcoin or other crypto-currencies, click the "Pay with ShapeShift" button below to send your coin to me. 
+If you use Bitcoin or other crypto-currencies, click the "Pay with ShapeShift" or "Donate with Coinbase Commerce" button below to send your coin to me.
 
-<center><script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=1CdfqBGAndvSmesb3Q7Kf6sBg8gHbqh6si&amp;output=BTC"><img src="https://shapeshift.io/images/shifty/large_dark_ss.png" class="ss-button"></a></center>
+<center><script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=1CdfqBGAndvSmesb3Q7Kf6sBg8gHbqh6si&amp;output=BTC"><img src="https://shapeshift.io/images/shifty/large_dark_ss.png" class="ss-button"></a>
+
+<div>
+  <a class="donate-with-crypto"
+     href="https://commerce.coinbase.com/checkout/095f55f4-8e5c-4706-ab27-41d7052681c6">
+    <span>Donate with Coinbase Commerce</span>
+  </a>
+  <script src="https://commerce.coinbase.com/v1/checkout.js">
+  </script>
+</div></center>
 
 # Buying Stuff
 You can also buy stuff from or for me!
@@ -36,7 +45,7 @@ You can also buy stuff from or for me!
 You can buy stuff for me as a gift from my <a class="external" href="http://a.co/24eU8Dn">Amazon Wishlist</a>.
 
 ## [Wallpaper Collection](/wallpaper-collection/)
-- You can buy my Wallpaper Collection to get some cool wallpapers I designed and support both me and charity in the process! 50% of all proceeds go to either the EFF or Wikimedia Foundation.
+You can buy my Wallpaper Collection to get some cool wallpapers I designed and support both me and charity in the process! 50% of all Gumroad proceeds go to either the EFF or Wikimedia Foundation.
 
 ## Art Commissions
 I can also do some Graphic Design work (mostly Wallpapers but Logos also)!
