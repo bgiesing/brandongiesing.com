@@ -23,8 +23,8 @@ not as many options.
     * Added more detail to EngageMe.tv [http://EngageMe.tv]  info
  * v0: December 26th, 2016
     * Moved from main Money page.
-   
-   
+
+
 
 # Apps
 ## Passive Apps
@@ -61,7 +61,7 @@ usually 11 points.
     * Choose Low Quality mode under the menu (click your avatar)
 
 ## [EngageMe.TV](http://EngageMe.TV)
-Just like InstaGC and Swagbucks, you can do any of the EngageMe.TV
+Just like InstaGC, you can do any of the EngageMe.TV
 offers under the Adscend Media Offer Wall. (otherwise
 known as AdWall) Go to Perk's site and find Adscend Media
 under Complete Offers

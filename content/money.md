@@ -20,10 +20,12 @@ Here I'll mention what updates I made to this page.
 
 <p class="note">If you are wondering what the "version number" for each update means... 1st number is for major updates (major page structure changes), the second is for other big changes (new tips, websites, devices), and the third is mostly for very minor things like spelling.</p>
 
+- v6.1: Feburary 16, 2018:
+    - Removed Swagbucks since I got banned
 - v6: August 23rd, 2017:
     - Apps
       - Reorganized a lot of sections
-         - Divide up Videos into Offerwall sites (sites that merely wraparound 3rd-party providers including Offerwalls like Adwall and Video providers like EngageMe) and Videos (sites that use their own video provider without other site features like surveys, search, etc.) 
+         - Divide up Videos into Offerwall sites (sites that merely wraparound 3rd-party providers including Offerwalls like Adwall and Video providers like EngageMe) and Videos (sites that use their own video provider without other site features like surveys, search, etc.)
          - Rename Bitcoin section to Faucets to account for posible Faucets in non-Bitcoin currencies and to put sites that aren't faucets but still Bitcoin focused in the right category.
       - Add Search Category
       - Added many new apps including Steem, Qmee, ShopTracker, CitizenMe, etc.
@@ -53,7 +55,7 @@ Here I'll mention what updates I made to this page.
      - Added new Passive Interest section for savings accounts and moved the stocks section there.
 - v5: May 29th, 2017:
   - Page Split!
-     - The previous sections are now split into multiple pages. 
+     - The previous sections are now split into multiple pages.
      - Currently mostly moved the current sections to separate pages but will eventually add new sections and make it more into a guide with more detailed tips and info.
   - Devices
      - Updated some Primary/Secondary apps stuff
