@@ -114,7 +114,8 @@ Faucets are sites that pay you for completing a captcha every so many minutes or
           - [MoonBitcoin Only] Can do CoinHive Mining to increase the bonus
      - [MoonLitecoin (Web)](http://moonliteco.in/?ref=fc77d3842e7b)
      - [MoonDogecoin (Web)](http://moondoge.co.in/?ref=ea495a9cb972)
-     - [MoonDashcoin (Web)](http://moondash.co.in/?ref=03A76891F0E4)
+     - [MoonDash (Web)](http://moondash.co.in/?ref=03A76891F0E4)
+     - [MoonCash (Web)](http://moonb.ch/?ref=86770F67F495)
   - [BitFun (Web)](http://bitfun.co/?ref=64002ECDDE0D)
      - The longer you wait the bigger the claim will be, no bonus though so claim whenever you want.
   - [BonusBitcoin (Web)](http://bonusbitcoin.co/?ref=459A9F8098E6)
