@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "updates-2-2"
 tags = ["Updates & Stuff", "announcements"]
-title = "Store, Secure, Speed, Splitting, and more S words! | Updates & Stuff #2"
+title = "Store, Secure, Speed, Splitting, and more S words! | Updates & Stuff 2"
 
 +++
 
