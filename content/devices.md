@@ -31,37 +31,22 @@ These run the occasional app but aren't running 24/7 like my dedicated devices.
   - Lockscreen Apps and quick polling apps (like Opinion Rewards) only run on here
   - Some Bitcoin apps like BitMaker
   - Other apps run occasionally.
-- Xiaomi Mi Box Android TV
-  - When not watching TV/YouTube/Twitch, I use this also.
-  - Primary App: Rewardable TV
 
 #### Current
-- (1) LG Optimus Zone 3
-  - Primary App: Perk TV
-  - Secondary App(s): None
 - (2) ZTE Citrine
   - Primary App: YooRewards
   - Secondary App(s): None
-- (1) Google Nexus 7 (2013 model)
-  - Primary App: SwagBucks Apps
-  - Secondary App(s): EngageMe App
 - (1) Moto E (2015)
-  - Primary App: AppTrailers 
+  - Primary App: CheckPoints
   - Secondary App(s): Rewardable TV
-- (1) iPhone 5S
-  - Primary App: AppTrailers 
-  - Secondary App(s): CheckPoints
-- (1) Google Nexus 7 (2012 model)
-  - Primary App: OfferToro VideoLab on InstaGC
-  - Secondary App(s): None
 - (1) Amazon Fire 7 (2017)
-  - Primary App: Undecided
+  - Primary App: Perk TV
   - Secondary App(s): None
 
 #### Former
 - (1) BLU Energy X Plus
   - Sold to buy 3 of the 4 LG Zone 3
-- (3) LG Optimus Zone 3
+- (4) LG Optimus Zone 3
   - Broke via Battery bloat and bootloops
   - Primary App: YooRewards or Rewardable TV
   - Secondary App(s): Swagbucks Apps
@@ -69,22 +54,32 @@ These run the occasional app but aren't running 24/7 like my dedicated devices.
   - Battery Bloat strikes again
   - Primary App: AppLike
   - Secondary App(s): YooRewards
+- (1) Google Nexus 7 (2012 model)
+  - Primary App: OfferToro VideoLab on InstaGC
+  - Secondary App(s): None
+- (1) Google Nexus 7 (2013 model)
+  - Primary App: SwagBucks Apps
+  - Secondary App(s): EngageMe App
+- (1) iPhone 5S
+  - Broke via Battery bloat
+  - Primary App: AppTrailers
+  - Secondary App(s): CheckPoints
 
 ## PCs
 #### Main Devices
 These run the occasional app but aren't running 24/7 like my dedicated devices.
 
 - Custom-built PC
-  - AMD Ryzen 5 1400 CPU & NVIDIA GTX 1050 Ti GPU on Manjaro Linux: i3 Edition
-  - Primary App: Minergate
-  - Secondary App(s): KoinMe, Bitcoin sites, etc.
+  - AMD Ryzen 5 1400 CPU & NVIDIA GTX 1050 Ti GPU on Windows 10 Pro Insider
+  - Primary App: MultiPoolMiner
+  - Secondary App(s): Bitcoin sites, etc.
 
 
 #### Current
 - ASUS Chromebook Flip (Chrome OS)
   - This Chromebook is one of the few to also support Android apps! This means you can also use most of the mobile apps in addition to websites.
   - Primary App: EngageMe
-  - Secondary App(s): None
+  - Secondary App(s): InstaGC Watch, VideoLoyalty
 - Acer Aspire R11 (Windows 10 S)
   - NOTE: The normal version, not the R11 Chromebook
   - Primary App: Bitcoin Miner by GroupFabric
