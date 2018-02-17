@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "updates-stuff"
 tags = ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
-title = "Here Comes The Steem Train! | Updates & Stuff #5"
+title = "Here Comes The Steem Train! | Updates & Stuff 5"
 
 +++
 
