@@ -1,4 +1,15 @@
+[build]
+  publish = "public"
+  command = "hugo"
+# build a preview of the site [hugo --buildFuture]
+[context.deploy-preview]
+  command = "hugo --buildFuture"
+# The default version you use for production if you don't use context
+[build.environment]
+  HUGO_VERSION = "0.31.1"
+# The version you use for production
 [context.production.environment]
   HUGO_VERSION = "0.31.1"
+# you can lock a version of hugo for a deploy preview
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.35.0"
+  HUGO_VERSION = "0.35"
