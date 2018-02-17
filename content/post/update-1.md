@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "update-1"
 tags = ["Updates & Stuff", "announcements"]
-title = "New Host, Same Site | Updates & Stuff #1"
+title = "New Host, Same Site | Updates & Stuff 1"
 
 +++
 
