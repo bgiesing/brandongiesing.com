@@ -6,7 +6,7 @@ description = "Time for more Updates & Stuff! This one covers a big website upgr
 draft = false
 slug = "updates-stuff-4"
 tags = ["Updates & Stuff", "announcements", "Website"]
-title = "Ghost 1.0, Apps, and More! | Updates & Stuff #4"
+title = "Ghost 1.0, Apps, and More! | Updates & Stuff 4"
 
 +++
 
