@@ -14,14 +14,14 @@ When buying dedicated money devices, don't just go straight for the most inexpen
 
 A good example here is the LG Lucky/Sunrise ($10) vs the Optimus Zone 3/Rebel LTE ($20). Both can run most apps fine but the first one has had many "bricking" issues for money makers.
 
-<p class="note">Bricking is when a device becomes completely unusable (won't turn on or connect to internet) essentially making it a "brick" on your desk.</p>
+> Bricking is when a device becomes completely unusable (won't turn on or connect to internet) essentially making it a "brick" on your desk.
 
 Make sure you also don't spend too much however otherwise you'll lose money instead of make it. When beginning, $30 should be the max and then later on, you can buy some slightly more expensive devices up to about $50. One exception to the rule is iOS devices which will cost more being Apple. Ideally spend between $50-120 for these tops if you do need one eventually.
 
 # What I Use
 I currently use 8 dedicated mobile devices and 3 dedicated PCs plus occasionally my main phone, Android TV, and PC for money making. [You can visit the store to buy these from Amazon while also supporting me!](https://brandongiesing.com/store)
 
-<p class="note">Primary App is the app I run first (usually apps that require more interaction like AppTrailers or Swagbucks) while Secondary App(s) are ran after that's completed and are the more passive app requiring less interaction.</p>
+> Primary App is the app I run first (usually apps that require more interaction like AppTrailers) while Secondary App(s) are ran after that's completed and are the more passive app requiring less interaction.
 
 ## Mobile Devices
 #### Main Devices

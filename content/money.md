@@ -18,7 +18,7 @@ If you are wondering how I making money with devices passively running while I m
 # Changelog
 Here I'll mention what updates I made to this page.
 
-<p class="note">If you are wondering what the "version number" for each update means... 1st number is for major updates (major page structure changes), the second is for other big changes (new tips, websites, devices), and the third is mostly for very minor things like spelling.</p>
+> If you are wondering what the "version number" for each update means... 1st number is for major updates (major page structure changes), the second is for other big changes (new tips, websites, devices), and the third is mostly for very minor things like spelling.
 
 - v6.1: Feburary 16, 2018:
     - Removed Swagbucks/MyPoints since I got banned
