@@ -7,7 +7,7 @@ title = "Projects"
 
 +++
 
-Over the years, I  have done (or contributed to) a variety of projects. 
+Over the years, I  have done (or contributed to) a variety of projects.
 
 ## Key
 To not be so repetitive, here's a key of abbreviations for what states projects are in
@@ -45,8 +45,8 @@ To not be so repetitive, here's a key of abbreviations for what states projects 
 
 
 ## Personal Projects
-### Pravox Networks (DISC)
-![Pravox Logo](/content/images/2017/01/pravox-networks.png)
+### Pravox Networks (DISC) / CASTchannel (CUR)
+{{< figure src="https://cdn-images-1.medium.com/max/2000/1*_7QN_nCp8QzNMBRuGinKPw.png" alt="Pravox Logo" width="100%" >}}
 A very passionate project of mine whose goal was to make linear TV-like stations for online content.
 
 It was similar to Pluto.tv with a few differences:
@@ -59,9 +59,13 @@ Ultimately, shut down because almost nobody ever watched and the few who didn't 
 
 <a class="btn external" href="https://bgiesing.github.io/pravox.net/" >Archived Website on GitHub Pages</a>
 
+{{< figure src="https://i.imgur.com/4Ztd3Jo.png" alt="CASTchannel" width="100%" >}}
+
+CASTchannel is my 2nd try at the idea, I'm currently working on it.
+
 ### Vox Variety (DISC)
-![Vox Variety Logo](https://www.sideprojectors.com/img/projects/3539-0-original.jpg)
-Before Pravox Networks, Vox Variety tried to be an internet radio station mixing popular music with small indie artists who can't get on radio. 
+{{< figure src="https://www.sideprojectors.com/img/projects/3539-0-original.jpg" alt="Vox Variety Logo" width="100%" >}}
+Before Pravox Networks, Vox Variety tried to be an internet radio station mixing popular music with small indie artists who can't get on radio.
 
 Shutdown because Radionomy (the hoster) got sued and shut it down.
 
@@ -123,8 +127,20 @@ I made these Playboard channels to share ones I found to make it easier for othe
 <a class="btn external" href="http://playboard.me/editors/526bf1dcefb6a62d79787d6f/android" >Playboard Profile</a>
 
 ## Contributed Projects
+### The Eternal Jukebox (AC)
+{{< figure src="https://eternal.abimon.org/files/jukebox.png" alt="EternalJuke" width="100%" >}}
+Website that allows you to listen to a song infinitely without the repetitiveness of just looping by detecting multiple cut points. Was formally The Infinite Jukebox by EchoNest before Spotify bought EchoNest and a fan of the site took over with official blessing of the original creator.
+
+I've made two big contributions to the upcoming rewrite on the frontend side:
+
+- [Complete UI Overhaul (Updated dependencies, new look, etc.))](https://github.com/UnderMybrella/EternalJukebox/pull/18)
+- [Modularizing the site with Jekyll (WIP)](https://github.com/UnderMybrella/EternalJukebox/pull/28)
+
+<a class="btn external" href="https://eternal.abimon.org" >Official Website</a>
+<a class="btn external" href="https://github.com/UnderMybrella/EternalJukebox" >GitHub Source Code</a>
+
 ### Open GApps (NAC)
-![Open GApps Banner](/content/images/2017/01/roundedbanner.png)
+{{< figure src="https://i.imgur.com/2PScISc.png" alt="Open GApps Banner" width="100%" >}}
 
 My biggest contribution was porting the site to Jekyll and adding a blog. Also updated app sources, fixed some bugs (mostly with the AROMA package), and helped start the Android TV Stock package.
 
@@ -133,8 +149,8 @@ After a dispute, I left the team but have no grudges against them and I still us
 <a class="btn external" href="http://opengapps.org" >Official Website</a>
 <a class="btn external" href="https://github.com/OpenGApps" >GitHub Source Code</a>
 
-### Cumulus TV (AC)
-![Not my Logo](https://raw.githubusercontent.com/Fleker/CumulusTV/master/store/banner.jpg)
+### Cumulus TV (NAC)
+{{< figure src="https://raw.githubusercontent.com/Fleker/CumulusTV/master/store/banner.jpg" alt="Not my Logo" width="100%" >}}
 Android TV app to add IPTV streams to Google's Live Channels app.
 
 - [Made some graphics for the app (later replaced with the above image)](https://github.com/Fleker/CumulusTV/issues/18)
@@ -149,7 +165,7 @@ Sometimes I send tips to news websites and they mention me as the source. All li
 ### Chrome Story
 A website for news on Google's Chrome, Chrome OS, Chromebooks, Chromecast, and more.
 
-- [File Manager on NTP & New Chromoting UI (6/5/2011)](http://goo.gl/31XK7K) 
+- [File Manager on NTP & New Chromoting UI (6/5/2011)](http://goo.gl/31XK7K)
 - [Your Chromebook and Windows (9/13/2011)](http://goo.gl/CjhJ8R)
 - [Ssssh!! Secret: Try This Mystery Keyboard (11/2/2011)](http://goo.gl/IVQrfo)
 - [Is This a Bug or an Easter Egg? (11/22/2011)](http://goo.gl/6IiTBj)
@@ -169,4 +185,3 @@ A website for news on all Google products.
 - [Google Payments (6/10/2015)](http://googlesystem.blogspot.com/2015/06/google-payments.html)
 - [Inline Search Results in Mobile Google Search (8/19/2015)](http://googlesystem.blogspot.com/2015/08/inline-search-results-in-mobile-google.html)
 - [Google Album Archive (7/30/2016)](http://googlesystem.blogspot.com/2016/07/google-album-archive.html)
-

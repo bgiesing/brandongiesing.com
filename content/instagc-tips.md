@@ -51,20 +51,17 @@ Find it on the OfferToro offer wall.
  * Weekly Bonus based on how many videos you watch and the "quality".
     * "Quality" includes things like users muting videos for example and it's
       based on every user combined, not just you.
-   
-   
+
+
 
 ## [EngageMe.TV](http://EngageMe.TV)
-Under the AdWall Offer Wall (otherwise known as Adscend Media), do any of the 
-EngageMe.TV  offers. The "videos watched to earnings ratio"
-isn't as good as Swagbucks but InstaGC does some other things good that still
-makes EngageMe.TV good to do here.
+Under the AdWall Offer Wall (otherwise known as Adscend Media), do any of the
+EngageMe.TV  offers.
 
  * You can make an account directly on EngageMe.TV and
    link it to your InstaGC account. This means you can just go to EngageMe.TV
    to earn which is faster than digging through AdWall.
-   Swagbucks doesn't offer this.
- * With InstaGC having instant cashout compared to SB, the fast earnings you
+ * With InstaGC having instant cashout, the fast earnings you
    make with EngageMe.TV can be very quickly redeemed if
    you need a dollar in a pinch.
 
@@ -89,7 +86,7 @@ apply
  * hyperMX/Volume11
     * Both of these involve either watching a full video or
       opening a window that requires you to hit "Next" once a timer ends.
-   
+
 # Point Booster Codes
 Like other sites, InstaGC also has codes but it works a bit differently.
 
@@ -97,8 +94,8 @@ There's 3 types of codes:
 
  * Staff-provided
     * Almost everyday, InstaGC will post a code on their Social Media that anybody can enter for so many points
-    * Unlike SB, these aren't time-limited by an hour. They are usually available until the next day when they post a new code.
-    * http://sbcodez.com  (who also does the SB codes) posts them as soon as they come out in their chat box and on a 2nd Twitter account (which you can use to get SMS/Push notifications.) 
+    * These aren't time-limited by an hour. They are usually available until the next day when they post a new code.
+    * [SBCodez](http://sbcodez.com) (who also does the SB codes) posts them as soon as they come out in their chat box and on a 2nd Twitter account (which you can use to get SMS/Push notifications.)
  * Chat codes
     * Once you hit $50 redeemed, you get access to the chat. Every hour or so a random code is posted.
     * Only so many people can use these codes so you have to be fast.
@@ -116,5 +113,5 @@ There's 3 types of codes:
    really easy to get credit from.
  * Similarly, check the chat! Often users will post quick and easy surveys or
    offers they found.
- * Like Swagbucks, you can use InstaGC as your search engine to have a chance to
+ * You can use InstaGC as your search engine to have a chance to
    get some points on your normal searches.

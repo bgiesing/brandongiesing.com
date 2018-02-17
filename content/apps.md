@@ -13,12 +13,6 @@ The following is a list of apps/sites I use or have used in the past divided int
 #### Variety
 To qualify as a "Variety" site/app, these ones have to include any combination of Videos, OfferWalls, Surveys, Search, Downloads, etc and some of the features have to be made by themselves, not a third-party (like EngageMe for instance for videos). These usually pay big cause the vast amount of stuff you can do and the unique exclusive features.
 
-- [Swagbucks (Web+Apps)](http://www.swagbucks.com/refer/BrandonGiesing)
-  - Probably the best to start off with if you only have one or two devices, high earner.
-  - [Tips](/swagbucks-tips/)
-- [MyPoints (Web+Apps)](https://www.mypoints.com?rb=31543473)
-  - Owned by same company as Swagbucks
-  - Unlike SBs, GCs are instant, To-Do List can be completed easier (you can get all 5 with a single click assuming you have a BonusEmail that day and if not, you just need to do 1 nCrave), etc. Basically Swagbucks but a bit easier.
 - [InstaGC (Web)](https://www.instagc.com/bgiesing)
   - Instant cashouts, great if you need to quickly get an extra dollar or so.
   - [Tips](/instagc-tips/)
@@ -100,7 +94,7 @@ Faucets are sites that pay you for completing a captcha every so many minutes or
 <p class="warning">These won't be included in the earnings below because of Bitcoin's constant price changes.</p>
 
 - [FreeBitco.in (Web)](http://freebitco.in/?r=1974584)
-  - Fill out the CAPATCHA and claim once an hour. 
+  - Fill out the CAPATCHA and claim once an hour.
   - Disable Lottery in Settings and try to stock up on Reward Points (RP) by redeeming RP for a RP bonus on each roll. Once you have a nice stock of RPs where you can buy both an RP bonus and Free BTC bonus while still being able to regain the RP, do it for maximum BTC.
   - Disable Automatic Withdrawals and use their Earn tab to earn interest. The amount of interest you earn each day will grow as you continue to claim.
      - TIP: Use the Deposit feature to get a BTC wallet address and use that address for all the below sites to combine all the BTC withdrawals into FreeBitco.in and earn intrest!
@@ -120,7 +114,8 @@ Faucets are sites that pay you for completing a captcha every so many minutes or
           - [MoonBitcoin Only] Can do CoinHive Mining to increase the bonus
      - [MoonLitecoin (Web)](http://moonliteco.in/?ref=fc77d3842e7b)
      - [MoonDogecoin (Web)](http://moondoge.co.in/?ref=ea495a9cb972)
-     - [MoonDashcoin (Web)](http://moondash.co.in/?ref=03A76891F0E4)
+     - [MoonDash (Web)](http://moondash.co.in/?ref=03A76891F0E4)
+     - [MoonCash (Web)](http://moonb.ch/?ref=86770F67F495)
   - [BitFun (Web)](http://bitfun.co/?ref=64002ECDDE0D)
      - The longer you wait the bigger the claim will be, no bonus though so claim whenever you want.
   - [BonusBitcoin (Web)](http://bonusbitcoin.co/?ref=459A9F8098E6)
@@ -184,7 +179,7 @@ These sites/apps allow you to earn ad revenue either by actual ads on your site 
   - Unique link tracker that you earn more the longer the person stays on the page.
   - Banner Ads
   - Earn credits by clicking others Ads
-  - Exchange credits to money via Payza or use them to advertise. 
+  - Exchange credits to money via Payza or use them to advertise.
 
 #### Search
 These apps pay you for searching like you would normally on Google, Bing, etc.
@@ -195,7 +190,7 @@ These apps pay you for searching like you would normally on Google, Bing, etc.
   - Complete Dashboard tasks
 - Qmee (Web)
   - Search the web normally and some results will give you coupon codes or actual money.
-  - Check their Reddit and Discord for what others got paid for, you might get lucky and get paid for the same search too. 
+  - Check their Reddit and Discord for what others got paid for, you might get lucky and get paid for the same search too.
 
 #### Others
 - ReceiptHog (Apps)
