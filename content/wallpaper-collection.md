@@ -29,7 +29,7 @@ There are 9 total wallpapers available divided into 4 groups:
 - Check It Collection: Based on Cartoon Network's Check It colors. Includes Check It Material and Check It Glass (Glass is what I use for CosiCast as the outro and branding!)
 - Nextbit Collection: Based on the colors of the Nextbit Robin. Includes the winning #Robinwall Contest entry, Fiery Nights, and a remixed version called Vivid Nights.
 
-<p class="note">Sometimes I'll add new wallpapers to the collection! If you previously bought it, let me know your order number and I'll see if you are eligible to get the new additions for no extra cost!</p>
+> Sometimes I'll add new wallpapers to the collection! If you previously bought it, let me know your order number and I'll see if you are eligible to get the new additions for no extra cost!
 
 ## The Charities
 I'll donate 50% of all Gumroad sales (after processing fees) to the EFF and Wikipedia Foundation (half to each). I'll be doing this once a month or so depending on how big each purchase is (cause I have to do it manually and smaller purchases are harder to divide to donate) and then post proofs here so you guys know I'm actually doing it.

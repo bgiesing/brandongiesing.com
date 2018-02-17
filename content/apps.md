@@ -7,7 +7,7 @@ slug: "/money-apps"
 
 The following is a list of apps/sites I use or have used in the past divided into sections of what type of stuff you do to earn. Each one includes some basic info and tips plus some even have dedicated pages full of tips for them.
 
-<p class="note">If they are linked or include a code, it's my referral link! Plus, they are shortened with Shorte.st which shows an ad redirect. So if they don't have a link or you don't want to use my referrals/paid links, just search for them with your favorite search engine instead.</p>
+> If they are linked or include a code, it's my referral link! Plus, they are shortened with Shorte.st which shows an ad redirect. So if they don't have a link or you don't want to use my referrals/paid links, just search for them with your favorite search engine instead.
 
 # Current
 #### Variety

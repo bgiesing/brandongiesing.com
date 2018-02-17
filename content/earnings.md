@@ -10,22 +10,23 @@ This page shows what I've made from what I described on the past few pages. As I
 <p class="note">All earnings are my own on most sites. The only sites I have active referrals on currently are InstaGC, Swagbucks, and FreeBitcoin</p>
 
 ## 2018 Earnings
-<p class="note">Like last year, I'm continuing to use a spreadsheet to auto-update earnings here. This year I added the Summary tab (which also shows expense categories) to the public embed. I'm still keeping the specific expenses private however.</p>
+> Like last year, I'm continuing to use a spreadsheet to auto-update earnings here. This year I added the Summary tab (which also shows expense categories) to the public embed. I'm still keeping the specific expenses private however.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXXvdC_nt8zmAEXwdY0Xkxgb1liubRD9PvFVdiEKUh5T3otyIU7clCEV50PnuA47MaqjSkQvOJbQe/pubhtml?gid=636621524&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="480px" class="lazyload"></iframe>
 
 ## 2017 Earnings
-<p class="note">Starting April 2017, I'm now tracking earnings each month instead of All-Time like I was doing. I went back to get 99.99% of earnings from January to now before I started tracking but it might be slightly inaccurate for earnings before then cause I might have missed stuff.</p>
+> Starting April 2017, I'm now tracking earnings each month instead of All-Time like I was doing. I went back to get 99.99% of earnings from January to now before I started tracking but it might be slightly inaccurate for earnings before then cause I might have missed stuff.
 
-<p class="warning">Since it's updated live from a Google Sheet I use to track Income and Expenses, it also contains any Income I receive including non-Beermoney earnings. 99% of Earnings are from Beermoney however.</p>
+> Since it's updated live from a Google Sheet I use to track Income and Expenses, it also contains any Income I receive including non-Beermoney earnings. 99% of Earnings are from Beermoney however.
 
 <iframe src="https://docs.google.com/spreadsheets/d/1OWhIacVX-3vljYiWP_IF0NCGQ5Af8unj9hv7e4eRD7g/pubhtml?gid=636621524&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="480px" class="lazyload"></iframe>
 
 <p><span><h2><a href="#hsnjrs" id="4_arrows" class="arrows" onclick="expand_collapse('4');">&#9660</a>  Pre-2017 Earnings Archive</h2></span>
 <div id="4" style="display:none;"><p>
-<p class="note">April 2017 Update: The previous All-Time Earnings below includes anything from August 24th, 2016 to March 3rd, 2017 and won't be updated due to how hard it was to maintain. Instead I'll track earnings per month each year and combine each year.</p>
 
-<p class="warning">Some of the things (like Google Opinion and Microsoft Rewards) I did before then. If a site above isn't here, it's because I don't include most sites that haven't paid out yet as I primarily track this via the cashouts I received, not the point balances. One exception is if the site tells me it in dollar value instead of points as it's easy to calculate it. I will say if it hasn't paid yet.</p>
+> April 2017 Update: The previous All-Time Earnings below includes anything from August 24th, 2016 to March 3rd, 2017 and won't be updated due to how hard it was to maintain. Instead I'll track earnings per month each year and combine each year.
+
+> Some of the things (like Google Opinion and Microsoft Rewards) I did before then. If a site above isn't here, it's because I don't include most sites that haven't paid out yet as I primarily track this via the cashouts I received, not the point balances. One exception is if the site tells me it in dollar value instead of points as it's easy to calculate it. I will say if it hasn't paid yet.
 
 ### Current
 #### Videos

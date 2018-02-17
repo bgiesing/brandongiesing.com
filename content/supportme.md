@@ -22,9 +22,23 @@ If you are willing to let a webpage stay open and use a small portion of your CP
 
 # Donations
 ## Cash
-You can pay me with good old fashioned cash at <a class="external" href="https://paypal.me/bgiesing" >my PayPal.me page</a> or with Dwolla by sending it to <me@brandongiesing.com>.
+You can pay me with good old fashioned cash at [my PayPal.me page](https://paypal.me/bgiesing) or with Dwolla by sending it to <me@brandongiesing.com>.
 
 You can also use [StreamElements](https://streamelements.com/brandongiesing/tip) if you want an alert to appear while I'm livestreaming.
+
+## Monthly contributions
+If you want to support me on an on-going basis, there's two separate ways you can do it:
+
+- [Patreon](https://www.patreon.com/BrandonGiesing)
+- [GameWisp](http://gamewisp.com/channel/brandongiesing)
+
+Both get you extra benefits at various tiers based on how much you choose to give:
+- Exclusive Updates and Behind the scenes posts
+- Early Access to new Videos
+- Extra Cast Cash to use on my Twitch stream for song requests and more
+- 1 free priority song bump a week.
+- Custom art like Wallpapers
+- Vote on Video ideas
 
 ## Cryptocoins
 If you use Bitcoin or other crypto-currencies, click the "Pay with ShapeShift" or "Donate with Coinbase Commerce" button below to send your coin to me.
@@ -44,7 +58,7 @@ If you use Bitcoin or other crypto-currencies, click the "Pay with ShapeShift" o
 You can also buy stuff from or for me!
 
 ## Amazon
-You can buy stuff for me as a gift from my <a class="external" href="http://a.co/24eU8Dn">Amazon Wishlist</a>.
+You can buy stuff for me as a gift from my [Amazon Wishlist](http://a.co/24eU8Dn).
 
 ## [Wallpaper Collection](/wallpaper-collection/)
 You can buy my Wallpaper Collection to get some cool wallpapers I designed and support both me and charity in the process! 50% of all Gumroad proceeds go to either the EFF or Wikimedia Foundation.
@@ -52,8 +66,8 @@ You can buy my Wallpaper Collection to get some cool wallpapers I designed and s
 ## Art Commissions
 I can also do some Graphic Design work (mostly Wallpapers but Logos also)!
 
-Just contact me at <me@brandongiesing.com> or on my <a class="external" href="https://twitter.com/BrandonGiesing">Twitter</a> for more details.
+Just contact me at <me@brandongiesing.com> or on my [Twitter](https://twitter.com/BrandonGiesing) for more details.
 
 ## Other Stuff
-- My (shitty) Remixes on <a class="external" href="https://bgiesing.bandcamp.com" >Bandcamp</a>
-- Clothing, Stickers, and other merch products on <a class="external" href="http://www.redbubble.com/people/bgiesing">RedBubble</a>
+- My (shitty) Remixes on [Bandcamp](https://bgiesing.bandcamp.com)
+- Clothing, Stickers, and other merch products on [Redbubble](http://www.redbubble.com/people/bgiesing)

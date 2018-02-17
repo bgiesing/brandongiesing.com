@@ -12,37 +12,13 @@ Over the years, I  have done (or contributed to) a variety of projects.
 ## Key
 To not be so repetitive, here's a key of abbreviations for what states projects are in
 
-<table>
-<thead>
-<tr>
-<th>Abbreviation</th>
-<th>Meaning</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>DISC</td>
-<td>Discontinued</td>
-</tr>
-<tr>
-<td>CUR</td>
-<td>Current (actively working on)</td>
-</tr>
-<tr>
-<td>HIA</td>
-<td>Hiatus (not discontinued but also not being actively worked on)</td>
-</tr>
-<tr>
-<td>AC</td>
-<td>Actively Contributing To</td>
-</tr>
-<tr>
-<td>NAC</td>
-<td>Not Actively Contributing To</td>
-</tr>
-</tbody>
-</table>
-
+| Abbreviation |  Meaning                                                         |
+| -----------: | ---------------------------------------------------------------- |
+| DISC         |  Discontinued                                                    |
+| CUR          |  Current (actively working on)                                   |
+| HIA          |  Hiatus (not discontinued but also not being actively worked on) |
+| AC           | 	Actively Contributing To                                        |
+| NAC          |  Not Actively Contributing To                                    |
 
 ## Personal Projects
 ### Pravox Networks (DISC) / CASTchannel (CUR)
@@ -131,10 +107,10 @@ I made these Playboard channels to share ones I found to make it easier for othe
 {{< figure src="https://eternal.abimon.org/files/jukebox.png" alt="EternalJuke" width="100%" >}}
 Website that allows you to listen to a song infinitely without the repetitiveness of just looping by detecting multiple cut points. Was formally The Infinite Jukebox by EchoNest before Spotify bought EchoNest and a fan of the site took over with official blessing of the original creator.
 
-I've made two big contributions to the upcoming rewrite on the frontend side:
+I've made two big contributions to the upcoming rewrite on the frontend side (not live on the site yet):
 
 - [Complete UI Overhaul (Updated dependencies, new look, etc.))](https://github.com/UnderMybrella/EternalJukebox/pull/18)
-- [Modularizing the site with Jekyll (WIP)](https://github.com/UnderMybrella/EternalJukebox/pull/28)
+- [Modularizing the site with Jekyll](https://github.com/UnderMybrella/EternalJukebox/pull/28)
 
 <a class="btn external" href="https://eternal.abimon.org" >Official Website</a>
 <a class="btn external" href="https://github.com/UnderMybrella/EternalJukebox" >GitHub Source Code</a>
