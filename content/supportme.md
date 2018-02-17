@@ -24,6 +24,8 @@ If you are willing to let a webpage stay open and use a small portion of your CP
 ## Cash
 You can pay me with good old fashioned cash at <a class="external" href="https://paypal.me/bgiesing" >my PayPal.me page</a> or with Dwolla by sending it to <me@brandongiesing.com>.
 
+You can also use [StreamElements](https://streamelements.com/brandongiesing/tip) if you want an alert to appear while I'm livestreaming.
+
 ## Cryptocoins
 If you use Bitcoin or other crypto-currencies, click the "Pay with ShapeShift" or "Donate with Coinbase Commerce" button below to send your coin to me.
 
