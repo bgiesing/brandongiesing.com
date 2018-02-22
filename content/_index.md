@@ -2,7 +2,7 @@
 title: "Welcome to BrandonGiesing.com!"
 ---
 
-{{< figure src="https://i.imgur.com/7pMGaKX.jpg" alt="BrandonGiesing.com" width="100%" >}}
+{{< figure src="/images/uploads/homepage-header.jpg" alt="BrandonGiesing.com" width="100%" >}}
 
 Welcome to the brand-new BrandonGiesing.com! The home of Brandon Giesing and various projects like CosiCast, CASTchannel, and the Beermoney Guide.
 

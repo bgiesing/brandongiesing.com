@@ -1,9 +1,17 @@
 ---
-title: Bendy Builders | Bendy and the Ink Machine
-date: 2017-05-03T04:19:00.000Z
+author: "Brandon Giesing"
+categories: ["video-post-format", "CosiCast Shorties", "CosiCast"]
+date: 2017-05-03T04:19:00Z
 thumbnail: /images/uploads/bendy.png
+description: ""
 draft: false
+slug: "bendy-builders-bendy-and-the-ink-machine-shorties"
+tags: ["CosiCast Shorties", "CosiCast"]
+title: "Bendy Builders | Bendy and the Ink Machine"
+layout: blog
+
 ---
+
 {{< privacytube mAbuDh5d9zI >}}
 
 I've been listening to this song a lot cause it's so freaking catchy! So I

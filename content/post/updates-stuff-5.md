@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
-date = 2017-08-27T04:51:30Z
-description = ""
-draft = false
-slug = "updates-stuff"
-tags = ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
-title = "Here Comes The Steem Train! | Updates & Stuff 5"
+---
+author: "Brandon Giesing"
+categories: ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
+date: 2017-08-27T04:51:30Z
+description: ""
+draft: false
+slug: "updates-stuff"
+tags: ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
+title: "Here Comes The Steem Train! | Updates & Stuff 5"
+layout: blog
 
-+++
+---
 
 Time for more updates! This one focuses a bit less on the website for once and
 more on other various projects!
@@ -58,8 +59,8 @@ Website Updates
       myself)
     * Telegram Notification Channel now linked in
       header (icon is broken, waiting on dev to fix)
-   
-   
+
+
  * Money Routine updated, way more sites and earnings spreadsheet is improved.
 
 

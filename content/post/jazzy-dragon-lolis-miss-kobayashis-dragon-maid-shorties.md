@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["CosiCast Shorties", "CosiCast"]
-date = 2017-04-28T21:24:54Z
-description = ""
-draft = false
-slug = "jazzy-dragon-lolis-miss-kobayashis-dragon-maid-shorties"
-tags = ["CosiCast Shorties", "CosiCast"]
-title = "Jazzy Dragon Lolis | Miss Kobayashi's Dragon Maid"
+---
+author: "Brandon Giesing"
+categories: ["CosiCast Shorties", "CosiCast"]
+date: 2017-04-28T21:24:54Z
+description: ""
+draft: false
+slug: "jazzy-dragon-lolis-miss-kobayashis-dragon-maid-shorties"
+tags: ["CosiCast Shorties", "CosiCast"]
+title: "Jazzy Dragon Lolis | Miss Kobayashi's Dragon Maid"
+layout: blog
 
-+++
+---
 
 {{< privacytube qvnDeppZ3W8 >}}
 

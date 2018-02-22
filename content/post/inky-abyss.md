@@ -1,12 +1,13 @@
-+++
-author = "Brandon Giesing"
-date = 2018-02-17T15:00:00Z
-description = "New Website updates!"
-draft = false
-slug = "inky-abyss"
-title = "BrandonGiesing.com: The 'Inky Abyss' Update."
+---
+author: "Brandon Giesing"
+date: 2018-02-17T15:00:00Z
+description: "New Website updates!"
+draft: false
+slug: "inky-abyss"
+title: "BrandonGiesing.com: The 'Inky Abyss' Update."
+layout: blog
 
-+++
+---
 
 ## Welcome to the new BrandonGiesing.com! The 'Inky Abyss' Update.
 

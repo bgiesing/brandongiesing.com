@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["CosiCast Lookback", "CosiCast", "YouTube"]
-date = 2016-12-11T05:11:39Z
-description = "A lookback at how my video content improved in 2016."
-draft = false
-slug = "cosicast-2016-lookback"
-tags = ["CosiCast Lookback", "CosiCast", "YouTube"]
-title = "CosiCast 2016 Lookback"
+---
+author: "Brandon Giesing"
+categories: ["CosiCast Lookback", "CosiCast", "YouTube"]
+date: 2016-12-11T05:11:39Z
+description: "A lookback at how my video content improved in 2016."
+draft: false
+slug: "cosicast-2016-lookback"
+tags: ["CosiCast Lookback", "CosiCast", "YouTube"]
+title: "CosiCast 2016 Lookback"
+layout: blog
 
-+++
+---
 
 {{< privacytube af6yzzJTR7s >}}
 

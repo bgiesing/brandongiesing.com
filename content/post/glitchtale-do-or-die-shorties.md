@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["CosiCast Shorties", "CosiCast"]
-date = 2017-05-30T16:15:00Z
-description = ""
-draft = false
-slug = "glitchtale-do-or-die-shorties"
-tags = ["CosiCast Shorties", "CosiCast"]
-title = "Ready, Set, DIE! | Glitchtale Season 2"
+---
+author: "Brandon Giesing"
+categories: ["CosiCast Shorties", "CosiCast"]
+date: 2017-05-30T16:15:00Z
+description: ""
+draft: false
+slug: "glitchtale-do-or-die-shorties"
+tags: ["CosiCast Shorties", "CosiCast"]
+title: "Ready, Set, DIE! | Glitchtale Season 2"
+layout: blog
 
-+++
+---
 
 {{< privacytube -Y1DHqDeJ-Y >}}
 

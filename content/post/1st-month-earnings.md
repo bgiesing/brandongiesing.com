@@ -1,12 +1,13 @@
-+++
-author = "Brandon Giesing"
-date = 2016-09-21T06:03:33Z
-description = ""
-draft = false
-slug = "1st-month-earnings"
-title = "1st Month of Money Making | My Earnings and What I Do"
+---
+author: "Brandon Giesing"
+date: 2016-09-21T06:03:33Z
+description: ""
+draft: false
+slug: "1st-month-earnings"
+title: "1st Month of Money Making | My Earnings and What I Do"
+layout: blog
 
-+++
+---
 
 EDIT: See my new dedicated money page for constantly updated info!
 [http://brandongiesing.com/money/]
@@ -51,18 +52,18 @@ If they are linked, it's my referral link! Otherwise, just search for them.
       2 devices since they often give me non-stop bonus rounds but sometimes I
       do the rest also, usually max 3 devices (The 2013 Nexus and BLU for 2, my
       Robin also if 3)
-    * 
+    *
       ToolbarTV/Swagbutton videos is always running on my Laptop. Since it now
       works passively, it's just always there while I'm doing other stuff.
     * Swag
       codes and Inbox videos also if I remember them or they are not expired by
       time I get to them.
-   
-   
+
+
  * InstaGC (Web) [https://www.instagc.com/bgiesing] * Watch section running on
       desktop 24/7 unless Playlist runs out while asleep.
-   
-   
+
+
  * Perk (Apps) [http://perk.fm/4utfk] * Perk TV is always running on the LG
       Optimus and Moto E 24/7. The BLU joins it overnight since Swagbucks is
       always messing up with the ads and the Nexus 7 (2012) joins after
@@ -74,28 +75,28 @@ If they are linked, it's my referral link! Otherwise, just search for them.
       TV
     * Perk.tv [http://Perk.tv]  and Viggle.tv [http://Viggle.tv]  get used some
       but they run like crap on my computers.
-   
-   
+
+
  * Checkpoints (Apps) * Runs on Nexus 7 (2012) overnight because what I said
       above under Perk.
     * First check in to the one business that appears nearby
       my house and then I play all the videos.
-   
-   
+
+
  * S'more and SlideJoy (Apps) * Lockscreen apps that pay each time you unlock
       your screen. Only use on my main (was BLU, now Robin)
-   
-   
+
+
  * Microsoft Rewards [formally Bing Rewards] (Web) * Search with Bing
     * Run Microsoft Edge for the
       browse and earn
     * Complete Dashboard tasks
-   
-   
+
+
  * EarnHoney (Web) * Ran the videos, don't anymore as the site is really prone
       to crashing my computers.
-   
-   
+
+
 
 In addition, I run use Rabadaba, Foap, and Flii.by [http://Flii.by]  which pays
 for making posts. I haven't got anything yet so they aren't in the earnings
@@ -122,23 +123,23 @@ With that said, here's my earnings this month:
  * S'more: * All-time since May 15th, every day except 5/23-6/29 as I forgot to
       reinstall when phone got reset: 955 points or $9.55
     * This month: 270 points or $2.70
-   
-   
+
+
  * SlideJoy: * All time since October 2015 (can't remember exact date). Again
       every day except when I forgot to reinstall sometime between December 2015
       and March 2016: $16 (their point values have changed since I started so
       don't have points for this one)
     * This month: 2,943 SlideJoy Carats or $2.94
-   
-   
+
+
  * Microsoft/Bing Rewards * All time, on and off since May 2014. Everyday since
       August 24th: 15,740 Microsoft Points aka 1574 Bing Credits before the
       rebrand or ~$15 for 2 Amazon gift cards, 1 Windows Store card, and 50
       points donation to my old school.
     * This month: 7240 Microsoft Points or 1 $5 Amazon
       Gift Cards and 3240 points left to another one.
-   
-   
+
+
 
 Total:  ~$100.01 (some values might be slightly off like the Microsoft Rewards
 as they are harder to calculate but at least $100, possibly higher by a couple

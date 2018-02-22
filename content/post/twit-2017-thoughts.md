@@ -1,12 +1,13 @@
-+++
-author = "Brandon Giesing"
-date = 2017-10-02T01:40:52Z
-description = "My thoughts on TWiT's changes for Fall 2017."
-draft = false
-slug = "twit-2017-thoughts"
-title = "TWiT Schedule Fall 2017: My Thoughts"
+---
+author: "Brandon Giesing"
+date: 2017-10-02T01:40:52Z
+description: "My thoughts on TWiT's changes for Fall 2017."
+draft: false
+slug: "twit-2017-thoughts"
+title: "TWiT Schedule Fall 2017: My Thoughts"
+layout: blog
 
-+++
+---
 
 Dear [TWiT](https://twit.tv):
 
@@ -27,7 +28,7 @@ In 2016, you changed to those two hosts (replacing Mike Elgan who wasn't bad but
 
 I feel a bit conflicted with this one. Often there's weeks that have such little news that a daily show isn't needed but also there's weeks with so much you might not be able to pack it into one weekly episode.
 
-The bigger issue I have though is the interview part. Your other big flagship show is This Week in Tech (TWiT), a show that's has a panel discussing the weeks news in depth. So what's the difference if both are in-depth and often have interviews? I think a weekly headlines show that goes a tiny bit more in depth is fine but a show that's mostly in-depth and interviews is basically the exact same as TWiT so why even bother having both? 
+The bigger issue I have though is the interview part. Your other big flagship show is This Week in Tech (TWiT), a show that's has a panel discussing the weeks news in depth. So what's the difference if both are in-depth and often have interviews? I think a weekly headlines show that goes a tiny bit more in depth is fine but a show that's mostly in-depth and interviews is basically the exact same as TWiT so why even bother having both?
 
 I'm gonna wait to see what happens before calling judgement here but as of right now, I think this move doesn't make much sense.
 
@@ -68,7 +69,7 @@ So what changes am I suggesting this time around? Well in addtion to the 3 Nopes
     - Give some shows proper intros. Most are just a stock background with the podcast art and title/date. TWiT, TNT, All About Android, and TNSS are great examples of great intros and more shows should be like that.
 2. Bring back something like Game On. Maybe not the exact show but gaming is a big part of Tech so having some kind of gaming show would greatly enhance the lineup.
 3. Update the Bumper at the beginning of each show. You guys have a new logo animation you've been using for channel promos (like the one for the new Tech News Weekly) so why not use it at the beginning of each show instead of the old 3D animation you've been using since you moved to the Brick House studios back in 2011-12
-4. Bring back Tech News 2Night. Okay this one needs a bit of explaining. While it was good that you got rid of it in 2016, that was considering you had two daily tech newscasts. If you are moving Tech News Today into a weekly show, bring back a super short headlines show that's 10 minutes or less for each day. Doesn't have to be called TN2, heck it doesn't even have to be a show, it could just be exclusive to TWiT Live since you guys always talk about becoming the CNN of Tech. 
+4. Bring back Tech News 2Night. Okay this one needs a bit of explaining. While it was good that you got rid of it in 2016, that was considering you had two daily tech newscasts. If you are moving Tech News Today into a weekly show, bring back a super short headlines show that's 10 minutes or less for each day. Doesn't have to be called TN2, heck it doesn't even have to be a show, it could just be exclusive to TWiT Live since you guys always talk about becoming the CNN of Tech.
 
 ---
 

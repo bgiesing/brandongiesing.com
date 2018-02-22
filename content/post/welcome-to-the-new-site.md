@@ -1,12 +1,13 @@
-+++
-author = "Brandon Giesing"
-date = 2016-09-19T10:01:12Z
-description = ""
-draft = false
-slug = "welcome-to-the-new-site"
-title = "Welcome to the new BrandonGiesing.com!"
+---
+author: "Brandon Giesing"
+date: 2016-09-19T10:01:12Z
+description: ""
+draft: false
+slug: "welcome-to-the-new-site"
+title: "Welcome to the new BrandonGiesing.com!"
+layout: blog
 
-+++
+---
 
 So if you know me, I have a "habit" of constantly moving my site cause
 "reasons". This time, hopefully this will be permanent now that I got great
@@ -80,8 +81,8 @@ Well here's how the site is going to work.
    Whether it be about tech products, talking about new food items, or anything
    else, if it needs lots of words, it will most likely be here. * I'll share
       links to them on existing social accounts like my Twitter.
-   
-   
+
+
  * Want to find info about my projects? I'll have dedicated pages in the Menu.
    Currently I have a "Support Me" page where you can find ways to support me
    via donations or using my referral links.
@@ -97,5 +98,5 @@ The site is currently being actively worked on so please be patient as things
 could be wonky, stuff missing/broken, or offline at times! So for the meantime,
 you can find the old website at http://old.brandongiesing.com
 
-Please tell me any feedback by commenting below with Disqus or emailing me at 
+Please tell me any feedback by commenting below with Disqus or emailing me at
 me@brandongiesing.com! Thanks!

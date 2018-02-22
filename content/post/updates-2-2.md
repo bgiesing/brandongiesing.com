@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["Updates & Stuff", "announcements"]
-date = 2017-05-29T10:53:38Z
-description = ""
-draft = false
-slug = "updates-2-2"
-tags = ["Updates & Stuff", "announcements"]
-title = "Store, Secure, Speed, Splitting, and more S words! | Updates & Stuff 2"
+---
+author: "Brandon Giesing"
+categories: ["Updates & Stuff", "announcements"]
+date: 2017-05-29T10:53:38Z
+description: ""
+draft: false
+slug: "updates-2-2"
+tags: ["Updates & Stuff", "announcements"]
+title: "Store, Secure, Speed, Splitting, and more S words! | Updates & Stuff 2"
+layout: blog
 
-+++
+---
 
 Another Update so soon! :O Yep, I've made more changes since the move to the new
 server so I want to make another Update post!
@@ -58,14 +59,14 @@ don't want to make something just to get something out so be patient. If any of
 you has ideas, please let me know! I would love to hear them!
 
 Other Stuff
- * Updated the Support Me [https://brandongiesing.com/supportme/]  page * 
+ * Updated the Support Me [https://brandongiesing.com/supportme/]  page *
       Coinbase Pages Discontinued
     * Info
       about the new Store I mentioned above
     * Divide
       sections better
-   
-   
+
+
 
 
 --------------------------------------------------------------------------------

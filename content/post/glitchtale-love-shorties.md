@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["CosiCast Shorties", "CosiCast", "Glitchtale"]
-date = 2017-06-29T13:49:53Z
-description = ""
-draft = false
-slug = "glitchtale-love-shorties"
-tags = ["CosiCast Shorties", "CosiCast", "Glitchtale"]
-title = "No Love In This Timeline | Glitchtale Season 2"
+---
+author: "Brandon Giesing"
+categories: ["CosiCast Shorties", "CosiCast", "Glitchtale"]
+date: 2017-06-29T13:49:53Z
+description: ""
+draft: false
+slug: "glitchtale-love-shorties"
+tags: ["CosiCast Shorties", "CosiCast", "Glitchtale"]
+title: "No Love In This Timeline | Glitchtale Season 2"
+layout: blog
 
-+++
+---
 
 {{< privacytube hsreiXIJEDw >}}
 
