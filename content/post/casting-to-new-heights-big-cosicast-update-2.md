@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["announcements", "CosiCast", "video-post-format"]
-date = 2017-06-27T14:52:43Z
-description = ""
-draft = false
-slug = "casting-to-new-heights-big-cosicast-update-2"
-tags = ["announcements", "CosiCast"]
-title = "Casting to new heights! | Big CosiCast Update!"
+---
+author: "Brandon Giesing"
+categories: ["announcements", "CosiCast", "video-post-format"]
+date: 2017-06-27T14:52:43Z
+description: ""
+draft: false
+slug: "casting-to-new-heights-big-cosicast-update-2"
+tags: ["announcements", "CosiCast"]
+title: "Casting to new heights! | Big CosiCast Update!"
+layout: blog
 
-+++
+---
 
 {{< privacytube GGjEiO02ki4 >}}
 
@@ -98,26 +99,26 @@ program divided into the following segments:
       my fave topics since the last episode inside of Cosi Conversations.
     * Basically going to be the same format as before but of course,
       with the addition of my voice.
-   
-   
+
+
  * Deep Discussions * I'm going to provide more detail and discuss a topic or
       two (could be one from The Prime or not)
-   
-   
+
+
  * Creator Casting * Showcasing new shows/videos/songs/channels/etc I like.
-   
-   
+
+
  * TechHouse * Reviving my TechHouse brand I had a long time ago for a segment
       about Technology
     * May include some sub-segments for Tutorials, Tips, news, etc.
-   
-   
+
+
  * Cosi's Corner * Basically your standard fan mailbag segment. I'll answer
       questions and stuff
     * If you have made fan-work of the channel mascot Cosi, I'll
       show it off also.
-   
-   
+
+
 
 Not every episode is going to include every segment of course and they can
 change in the future. Also, the show is going to be scripted unlike past shows
@@ -218,8 +219,8 @@ Recap
       coming back
     * The two new CosiCast shows will be
       included.
-   
-   
+
+
  * Ad Breaks that include fun retro ads but no actual paid ads
  * CAST Promos are a merge of the old Promo Promotions and VARIETY ads with some
    new tweaks.

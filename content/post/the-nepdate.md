@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["announcements", "image-post-format", "Website"]
-date = 2017-01-23T17:52:52Z
-description = ""
-draft = false
-slug = "the-nepdate"
-tags = ["announcements", "image-post-format", "Website"]
-title = "BrandonGiesing.com: The Nepdate!"
+---
+author: "Brandon Giesing"
+categories: ["announcements", "image-post-format", "Website"]
+date: 2017-01-23T17:52:52Z
+description: ""
+draft: false
+slug: "the-nepdate"
+tags: ["announcements", "image-post-format", "Website"]
+title: "BrandonGiesing.com: The Nepdate!"
+layout: blog
 
-+++
+---
 
 Funny titles aside, welcome to a new year with a new redesign for the site! Keep
 reading to learn about the changes or skip to the bottom for a tl;dr changelog.
@@ -102,8 +103,8 @@ over or redone.
  * New Pages
     * About Me/Bio
     * My Projects (Current/Past)
-   
-   
+
+
 
 
 --------------------------------------------------------------------------------

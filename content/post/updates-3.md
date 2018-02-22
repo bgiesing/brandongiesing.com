@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["Updates & Stuff", "announcements"]
-date = 2017-06-27T11:28:02Z
-description = ""
-draft = false
-slug = "updates-3"
-tags = ["Updates & Stuff", "announcements"]
-title = "More, More, More, and most importantly, MORE! | Updates & Stuff 3"
+---
+author: "Brandon Giesing"
+categories: ["Updates & Stuff", "announcements"]
+date: 2017-06-27T11:28:02Z
+description: ""
+draft: false
+slug: "updates-3"
+tags: ["Updates & Stuff", "announcements"]
+title: "More, More, More, and most importantly, MORE! | Updates & Stuff 3"
+layout: blog
 
-+++
+---
 
 Another week and more updates! This week's focus is doing more of various
 things.
@@ -31,7 +32,7 @@ I currently have many different kind of ways to help me on my support page:
 
  2. Commissions
 
- * When you buy stuff on my Store page, click the ads on the site, or view 
+ * When you buy stuff on my Store page, click the ads on the site, or view
    Shorte.st [http://Shorte.st]  links.
  * Also includes Money Routine Referral Links
 

@@ -1,14 +1,15 @@
-+++
-author = "Brandon Giesing"
-categories = ["Updates & Stuff", "announcements"]
-date = 2017-05-22T01:52:30Z
-description = ""
-draft = false
-slug = "update-1"
-tags = ["Updates & Stuff", "announcements"]
-title = "New Host, Same Site | Updates & Stuff 1"
+---
+author: "Brandon Giesing"
+categories: ["Updates & Stuff", "announcements"]
+date: 2017-05-22T01:52:30Z
+description: ""
+draft: false
+slug: "update-1"
+tags: ["Updates & Stuff", "announcements"]
+title: "New Host, Same Site | Updates & Stuff 1"
+layout: blog
 
-+++
+---
 
 Welcome to the first of a series of update posts I'll be doing occasionally!
 This week, the site and email has been migrated to a new host
@@ -102,8 +103,8 @@ Other Stuff
     * Modified the Mapache theme to remove
       some unneeded stuff and load things async-ly if possible
     * Reduced ads
-   
-   
+
+
  * Still need to work on posting more
 
 

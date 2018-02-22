@@ -43,11 +43,23 @@
       <script async src="/js/bpgdec.js"></script>
     {{ end }}
     <meta name="flattr:id" content="z7o6xx">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
   <body class="{{ $theme_variant }} main container">
     <header>{{ block "header" . }}{{ end }}</header>
     <main>{{ block "main" . }}{{ end }}</main>
     <footer>{{ block "footer" . }}{{ end }}</footer>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
