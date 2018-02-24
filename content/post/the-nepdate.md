@@ -1,14 +1,9 @@
 ---
-author: "Brandon Giesing"
-categories: ["announcements", "image-post-format", "Website"]
-date: 2017-01-23T17:52:52Z
-description: ""
-draft: false
-slug: "the-nepdate"
-tags: ["announcements", "image-post-format", "Website"]
-title: "BrandonGiesing.com: The Nepdate!"
 layout: blog
-
+title: 'BrandonGiesing.com: The Nepdate!'
+date: 2017-01-23T17:52:52.000Z
+thumbnail: /images/uploads/nepdate.jpg
+draft: false
 ---
 
 Funny titles aside, welcome to a new year with a new redesign for the site! Keep
@@ -26,15 +21,12 @@ Mapache does it with Ghost's simple Code injection making it easier to update.
 Also it adds some cool extras! See that fancy box above that I used for the
 example? That's one of the them but here's some others:
 
- * Special layouts for image and video posts * This post is using the image
-      layout for the giant header image.
-    * The video layout (Example here
-      [http://brandongiesing.com/cosicast-2016-lookback/]) adds a YouTube sub
-      button and a play icon to the post thumbnail in addition to making the
-      video big like the image layout.
+* Special layouts for image and video posts
+* This post is using the image layout for the giant header image.
+    * The video layout ([Example here](http://brandongiesing.com/cosicast-2016-lookback)) adds a YouTube sub button and a play icon to the post thumbnail in addition to making the video big like the image layout.
  * Buttons with special icons (example below)
 
-Check out Mapache [https://github.com/godofredoninja/Mapache]
+Check out [Mapache](https://github.com/godofredoninja/Mapache)
 
 Also like all my other social media profiles, I changed the header/cover and
 profile image to match. No longer does it have the wallpaper that won Nextbit's
@@ -53,7 +45,6 @@ That said, I do want to post more so here's a few ideas to start with.
    Vidme but it might be nice to do this as I can use it to link other sites
    that don't have descriptions or really short lengths to videos easier
    (Instagram, Coub, Twitter, etc.)
-
  2. Do more review/tutorial/longform things in general.
     * I eat a lot of limited time food items so why not talk about them for
    example.
@@ -98,14 +89,11 @@ over or redone.
      * Reviews: Food, Tech, etc.
      * Tutorials
      * Money Routine
-           * In Progress: Moving Tips to separate posts
-           * Not Started: Reorganize into multiple pages
+        * In Progress: Moving Tips to separate posts
+        * Not Started: Reorganize into multiple pages
  * New Pages
     * About Me/Bio
     * My Projects (Current/Past)
-
-
-
 
 --------------------------------------------------------------------------------
 
