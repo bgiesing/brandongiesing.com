@@ -1,12 +1,1 @@
-<img class="lazyload blur-up" src="{{ .Params.thumbnail }}" data-sizes="auto" width="100%" />
-<style media="screen">
-  .blur-up {
-    -webkit-filter: blur(5px);
-    filter: blur(5px);
-    transition: filter 400ms, -webkit-filter 400ms;
-  }
-  .blur-up.lazyloaded {
-    -webkit-filter: blur(0);
-    filter: blur(0);
-  }
-</style>
+<img class="lazyload" data-src="{{ .Params.thumbnail }}" data-sizes="auto" width="100%" />
