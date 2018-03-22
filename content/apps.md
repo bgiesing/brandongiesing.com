@@ -258,4 +258,7 @@ For Bitcoin, you can use FreeBitco.in as mentioned above.
   - Free (as in no fees, not no money entirely) to do stock market trading
   - By joining with someone's Referral (mine above), you will get a completely free share (so both no fees and no money from you) on join and a free share for anyone who signs up under you! So if you want to try stocks with basically no risk as it's all profit, this is a great way to do it.
 
-<span><a class="btn btn-primary" href="/money-tips" >Previous Page: Tips</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money-earnings" >Next Page: Earnings</a></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-tips" >}}Previous Page: Tips{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-earnings" >}}Next Page: Earnings{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}

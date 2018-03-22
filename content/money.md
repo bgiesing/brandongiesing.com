@@ -227,3 +227,8 @@ Here I'll mention what updates I made to this page.
 <style type="text/css">
 .arrows{text-decoration:none;color:silver;}
 </style>
+
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-earnings" >}}Jump Directly To Earnings{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-devices" >}}Start with Devices{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}

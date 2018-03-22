@@ -33,4 +33,7 @@ A lot of the beermoney sites only offer Amazon but what do you do with that GC b
 
 It works similarly to those trades I mentioned above, you agree to give up a small percentage of what you spend because you really need the cash instead of GC. So if the person you are buying for asked for a 20% discount on a $50 item, you would pay the $50 to buy the item for them while they give you $40. Even though you do lose some money... if you really needed it, it's still worth it.
 
-<span><a class="btn btn-primary" href="/money-devices" >Previous Page: Devices</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money-apps" >Next Page: Apps & Sites</a></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-devices" >}}Previous Page: Devices{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-apps" >}}Next Page: Apps & Sites{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}

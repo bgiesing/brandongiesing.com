@@ -114,4 +114,7 @@ These run the occasional app but aren't running 24/7 like my dedicated devices.
   - 50% of the capacity of the Seagate's 500 GB drive (rest is my backups)
   - 100% of the 250 GB drive I put in the enclosure
 
-<span><a class="btn btn-primary" href="/money" >Previous Page: Introduction & Changelog</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money-tips" >Next Page: Tips</a></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money" >}}Previous Page: Introduction & Changelog{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-tips" >}}Next Page: Tips{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
