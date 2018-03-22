@@ -1,9 +1,14 @@
 ---
 title: "Tips | Money Routine"
 slug: "/money-tips"
+prev: "/money-devices"
+next: "/money-apps"
 ---
 
-<span><a class="btn btn-primary" href="/money-devices" >Previous Page: Devices</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money-apps" >Next Page: Apps & Sites</a></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button text="Previous Page: Devices" action="/money-devices" />}}
+  {{< hackcss-button text="Next Page: Apps & Sites" action="/money-apps" />}}
+{{< /hackcss-buttongroup >}}
 
 While a lot of these things with very little intervention or setup, there's various ways you can maximize your earnings and keep your devices running smooth!
 

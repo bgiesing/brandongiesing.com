@@ -1,11 +1,14 @@
 ---
 title: "Devices | Money Routine"
 slug: "/money-devices"
+prev: "/money"
+next: "/money-tips"
 ---
 
-<span><a class="btn btn-primary" href="/money" >Previous Page: Introduction & Changelog</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money-tips" >Next Page: Tips</a></span>
-
-
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button text="Previous Page: Introduction & Changelog" action="/money" />}}
+  {{< hackcss-button text="Next Page: Tips" action="/money-tips" />}}
+{{< /hackcss-buttongroup >}}
 
 To earn like this, you are gonna need devices to earn a decent amount. You can start with either old ones you have laying around or buy really inexpensive options. This page contains some tips on choosing devices and what I use myself.
 
