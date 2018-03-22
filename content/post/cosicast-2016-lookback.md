@@ -37,11 +37,11 @@ NOTE: Not all videos of 2016 are included for a few reasons.
 
 --------------------------------------------------------------------------------
 
-Timeline
+# Timeline
 Anyway back to the point at hand... Let's recap how I've improved my content
 this year!
 
-Winter Early 2016
+## Winter Early 2016
 Early in the year I was using an editor named Adobe Premiere Clip on a BLU
 Energy X Plus.This was a problem for a couple of reasons... First, Premire Clip
 had many bugs and the videos weren't as polished. Second, that phone had little
@@ -52,7 +52,7 @@ The first video of the year in January was the 3rd version of my Stamp on the
 Ground mashup. 1st one had just Gravity Falls, 2nd added Star vs the Forces of
 Evil, and the 3rd one added many other things I liked to make a "life mashup".
 
-Spring 2016
+## Spring 2016
 Jump to April and I recieved early access to an Android version of an iOS only
 app named Replay. This was awesome as it made way fancier videos than Clip and
 it had less bugs. The main issue was it had a forced watermark but that was only
@@ -65,7 +65,7 @@ with the Star vs Bad Times FMV, Replay updated making those fancy effects work
 better on devices like mine and removed the watermark as it got renamed to GoPro
 Quik which I am still using currently.
 
-Summer 2016
+## Summer 2016
 Jump to June and I started using another app by the same people as Quik called
 Legend to make animated text titles. The first use was in the Stranger in the
 Stars FMV. This video was also the first I made a custom thumbnail for which I
@@ -76,7 +76,7 @@ started to do less comedy or music mashups and instead do more promos for either
 creators or Pravox VARIETY itself. This was when I made the first "Now on
 Pravox" promos which evolved into Promo Promotions.
 
-Fall 2016
+## Fall 2016
 Jump to September and this is when a big shift occured! First I got a new phone
 (the Nextbit Robin) so I could finally used 1080p footage with no issues or
 render bugs. Second, I introduced the first of the 4 series with the Turbo
@@ -92,7 +92,7 @@ it.
 This was also around the time I switched from using my name (Brandon Giesing) to
 CosiTube as the channel name to give it a brand.
 
-Winter Late 2016
+## Winter Late 2016
 Finally, we are now at the end of November with the Hyperdimension Neptunia
 Shorties! This is when I started to not just improve the content itself but how
 my content is viewed!

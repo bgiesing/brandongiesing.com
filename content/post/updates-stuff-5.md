@@ -17,7 +17,7 @@ more on other various projects!
 
 --------------------------------------------------------------------------------
 
-Steem
+# Steem
 I'm now on this blogging platform called Steem [https://steem.io]  which you get
 paid to post. If that sounds familar, you might remember multiple platforms in
 the past that promised the same (Tsu, Rabadaba, etc.) but this one is quite a
@@ -52,26 +52,22 @@ Check me out on Steem! [https://steemit.com/@brandongiesing]
 
 --------------------------------------------------------------------------------
 
-Website Updates
+# Website Updates
  * Updated site to Ghost 1.7.1
- * Updated Mapache theme to 2.0.9 * Tweets now displayed on the Homepage Sidebar
-    * Native Vid.me [http://Vid.me]  support (no longer have to modify the code
-      myself)
-    * Telegram Notification Channel now linked in
-      header (icon is broken, waiting on dev to fix)
-
-
+ * Updated Mapache theme to 2.0.9
+    * Tweets now displayed on the Homepage Sidebar
+    * Native [Vid.me](http://vid.me) support (no longer have to modify the code myself)
+    * Telegram Notification Channel now linked in header (icon is broken, waiting on dev to fix)
  * Money Routine updated, way more sites and earnings spreadsheet is improved.
-
 
 --------------------------------------------------------------------------------
 
-CosiCast
+# CosiCast
 CosiCast recently celebrated it's 2 Year Anniversary! Thanks everyone for all
 the support over the past two years, if you haven't seen the 2 year video it's
 embedded below.
 
-DTube
+## DTube
 Also I mentioned DTube above, I'm now using it in addition to YouTube and Vidme
 for CosiCast! So far it's working pretty great and I even got to help out the
 creator of DTube, @heimindanger, with a Linux Bash Script for the upcoming
@@ -81,5 +77,3 @@ update. (Will edit with his announcement when it goes live tomorrow)
 --------------------------------------------------------------------------------
 
 Thanks again for all the support and I'll see you guys next time!
-
-Token: df7fdb454b83f313

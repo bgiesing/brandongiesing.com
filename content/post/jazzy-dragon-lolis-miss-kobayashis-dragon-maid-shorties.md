@@ -23,12 +23,12 @@ to an instrumental of the show's awesome, jazzy theme song!
 Also, since I have been away so long. Enjoy a new Thumbnail Style, Outro Style
 and Song, and a new version of Cosi!
 
-CREDITS
-MUSIC
+## CREDITS
+### MUSIC
 Rhapsody of Blue Sky (Instrumental) - fhana (aka the Theme Song)
 
-CLIPS
+### CLIPS
 Miss Kobayashi's Dragon Maid
 
-OUTRO MUSIC
+### OUTRO MUSIC
 Energy - Michael Craig & Oliver Godfrey

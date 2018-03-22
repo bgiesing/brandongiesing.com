@@ -24,7 +24,7 @@ So that brings us to now. [You just announced some big changes for this Fall](ht
 
 First off might be one of the biggest change you've ever done. For anyone whose not TWiT, Tech News Today is one of their biggest shows. Hosted currently by Jason Howell and Megan Morrone, this show is exactly what it sounds like, a daily newscast of Tech. Think like NBC Nightly News but all tech oriented.
 
-In 2016, you changed to those two hosts (replacing Mike Elgan who wasn't bad but you completely changed the show from a fun, lighthearted newscast to a super serious boring one) and cancelled a compaign show called Tech News 2Night. Now, you are changing it from a daily show to a weekly show, becoming Tech News Weekly and are also focusing more on interviews and in-depth discussion instead of headlines.
+In 2016, you changed to those two hosts (replacing Mike Elgan who wasn't bad but you completely changed the show from a fun, lighthearted newscast to a super serious boring one) and cancelled a campaign show called Tech News 2Night. Now, you are changing it from a daily show to a weekly show, becoming Tech News Weekly and are also focusing more on interviews and in-depth discussion instead of headlines.
 
 I feel a bit conflicted with this one. Often there's weeks that have such little news that a daily show isn't needed but also there's weeks with so much you might not be able to pack it into one weekly episode.
 
@@ -33,7 +33,7 @@ The bigger issue I have though is the interview part. Your other big flagship sh
 I'm gonna wait to see what happens before calling judgement here but as of right now, I think this move doesn't make much sense.
 
 ## Home Theater Geeks (HTG)
-HTG is a show hosted by Scott Wilkinson about Audo/Video equipment and other theater things, today you canceled it. Gonna be honest here, wasn't ever a big fan of this but it did have a decent following.
+HTG is a show hosted by Scott Wilkinson about Audio/Video equipment and other theater things, today you canceled it. Gonna be honest here, wasn't ever a big fan of this but it did have a decent following.
 
 For this one, I can see why it was cancelled as it's a bit more niche and Scott will still be doing segments on The Tech Guy and possibly The New Screen Savers. Plus Scott could easily restart it on his own site via crowdfunding or find a new network like Dick DeBartolo did with The GizWiz and Tom Merrit with Cordcutters.
 
@@ -43,7 +43,7 @@ KH is a show that has tutorials for tech. A few years ago it was mostly beginner
 Today you announced it's going back to one day. You didn't say if it's going back to only or mostly drone stuff but if it does, I'm definitely gonna stop watching. Bad move imho.
 
 # Suggestions and 2016 Recap
-Okay so let's start by recaping what suggestions I made last time:
+Okay so let's start by recapping what suggestions I made last time:
 
 1. Merge iOS Today and MacBreak Weekly into an Apple Today/Weekly
 2. Rename This Week in Google since it's always more than Google
@@ -61,11 +61,11 @@ So out of those, which happened?
 
 So 2 out of 5, not really good but then again a lot of these were personal nitpicks more than actually bad. Like even though This Week in Google is named badly, it's still a good show despite name.
 
-So what changes am I suggesting this time around? Well in addtion to the 3 Nopes above:
+So what changes am I suggesting this time around? Well in addition to the 3 Nopes above:
 
 1. Update more shows to a more professional style like you did with TNSS and TNT. It doesn't have to be full on but here's an example of a couple of small tweaks:
     - Don't show the lower third at all times. TNSS and TNT are good about this (still not perfect), only show the show logo unless a lower third is needed.
-    - Give some shows updated logos. Their flagship show, This Week in Tech, has had the same ugly gradient logo for 10+ years and the logo is different from the intro to the lower third to the podcast art. Make them consistant also.
+    - Give some shows updated logos. Their flagship show, This Week in Tech, has had the same ugly gradient logo for 10+ years and the logo is different from the intro to the lower third to the podcast art. Make them consistent also.
     - Give some shows proper intros. Most are just a stock background with the podcast art and title/date. TWiT, TNT, All About Android, and TNSS are great examples of great intros and more shows should be like that.
 2. Bring back something like Game On. Maybe not the exact show but gaming is a big part of Tech so having some kind of gaming show would greatly enhance the lineup.
 3. Update the Bumper at the beginning of each show. You guys have a new logo animation you've been using for channel promos (like the one for the new Tech News Weekly) so why not use it at the beginning of each show instead of the old 3D animation you've been using since you moved to the Brick House studios back in 2011-12
@@ -73,6 +73,6 @@ So what changes am I suggesting this time around? Well in addtion to the 3 Nopes
 
 ---
 
-Back in 2016, the changes sounded great and ended up being great. This time, I'm comflicted. The changes don't sound too terrible but they also sound like mostly a step back in my humble opinion. I can tell you guys are greatly trying to improve and sometimes changes that sound bad might be good. For now, I'll give you guys the benefit of the doubt and try them out but I might not end up not liking them.
+Back in 2016, the changes sounded great and ended up being great. This time, I'm conflicted. The changes don't sound too terrible but they also sound like mostly a step back in my humble opinion. I can tell you guys are greatly trying to improve and sometimes changes that sound bad might be good. For now, I'll give you guys the benefit of the doubt and try them out but I might not end up not liking them.
 
 Sincerely, Brandon Giesing

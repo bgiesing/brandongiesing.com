@@ -17,7 +17,7 @@ This week, the site and email has been migrated to a new host
 
 --------------------------------------------------------------------------------
 
-New Host
+# New Host
 I've moved the site off of Ghosted and my Email off of ProtonMail. Now I'm using
 NearlyFreeSpeech and Gmail. Overall this should allow me to provide the same
 site for way less money and have more control over it.
@@ -77,7 +77,7 @@ unlike many others and:
 
 --------------------------------------------------------------------------------
 
-Money Routine
+# Money Routine
 Since the Nepdate [http://brandongiesing.com/2017/01/23/the-nepdate/], I've
 split out Perk to a separate tips page like I said I would but otherwise, I've
 not done all I said:
@@ -96,7 +96,7 @@ including:
 
 --------------------------------------------------------------------------------
 
-Other Stuff
+# Other Stuff
  * I added the project page like I said in the Nepdate
    [http://brandongiesing.com/2017/01/23/the-nepdate/]
  * Worked on optimizing the site a lot. * Compressed Images

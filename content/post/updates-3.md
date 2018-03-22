@@ -17,7 +17,7 @@ things.
 
 --------------------------------------------------------------------------------
 
-Support Me Page Updated!
+# Support Me Page Updated!
 If you love what I do, it would be really nice if you helped me to make more!
 That's why I have a page with ways you guys can help me continue to do what I
 do. A lot of the options don't even require you to have to spend money to do it.
@@ -83,7 +83,7 @@ Button! This will open in a new window and allow you to send me basically any
 altcoin you have (they support basically all) and it will get converted and
 deposited into my Bitcoin wallet!
 
-Layout Updates: Contributors Page and More!
+## Layout Updates: Contributors Page and More!
 In addition to new ways to support me, I'm now gonna start recognizing people
 who have helped me (when/if somebody ever does!). There's currently nobody so
 the page isn't up but it will be linked in the header once somebody does!
@@ -101,7 +101,7 @@ As for other various changes:
 
 --------------------------------------------------------------------------------
 
-Speed Updates
+# Speed Updates
 I did some more optimizations on images and other things to hopefully speed up
 the site even more.
 
@@ -115,14 +115,14 @@ the site even more.
 
 --------------------------------------------------------------------------------
 
-CosiCast
-New Videos
+# CosiCast
+## New Videos
 I finally released a Shorties for Glitchtale Do or Die like I've been meaning to
 get around to. (One on the newer episode "Love (Part 1)" is coming soon.)
 
 Also released a Channel Trailer!
 
-Post Updates
+## Post Updates
 I forgot to make posts for some of the newer videos here so I went back to make
 them and changed them to use Vid.me [http://Vid.me]  embeds since YouTube has
 been having so many issues.
