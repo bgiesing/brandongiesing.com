@@ -15,11 +15,6 @@ If you are wondering how I making money with devices passively running while I m
 {{< /hackcss-buttongroup >}}
 
 ---
-## Ad
-
-<span><script data-cfasync='false' type='text/javascript' src='//p109955.clksite.com/adServe/banners?tid=109955_209722_3'></script></span>
-
----
 
 # Changelog
 Here I'll mention what updates I made to this page.
