@@ -33,6 +33,7 @@
     {{ end }}
     {{ partial "head/favicon.html" . }}
     {{ partial "global-styles.html" . }}
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
     {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}<!-- http://regexr.com/3f9d1 -->
     {{ if ge (len $lazylist) 1 }}
       <script async src="/js/lazysizes.min.js"></script>
