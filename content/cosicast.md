@@ -19,7 +19,7 @@ I like to split my content into various shows to organize everything better.
 |               CosiCast Live | Live streams ranging from Gameplay to basically anything else I want to do                                                                                                    |
 | Promo Promotions | Fan ads to promote Internet creators, TV Shows, Games, and more! (Moved to CAST Channel as CAST Promos, coming soon) |
 
-## Upcoming Shows
+## Canceled Shows
 |              Shows | Description                                    |
 | ------------------:| ---------------------------------------------- |
 | Cosi Conversations | Variety Show with news, music, tips, and more. |
