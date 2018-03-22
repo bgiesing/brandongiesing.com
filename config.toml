@@ -1,7 +1,7 @@
 baseURL = "https://brandongiesing.com/"
 languageCode = "en-US"
 title = "BrandonGiesing.com"
-theme = "afterdark"
+theme = "hack solarized-dark"
 disqusShortname = "brandongiesing"
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 enableRobotsTXT = true # Suggested, enable robots.txt file
