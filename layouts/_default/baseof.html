@@ -46,7 +46,7 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
-  <body class="{{ $theme_variant }} main container">
+  <body class="hack solarized-dark main container">
     <header>{{ block "header" . }}{{ end }}</header>
     <main>{{ block "main" . }}{{ end }}</main>
     <footer>{{ block "footer" . }}{{ end }}</footer>
