@@ -49,7 +49,7 @@
   <body class="hack solarized-dark main container">
     <header>{{ block "header" . }}{{ end }}</header>
     <main>{{ block "main" . }}{{ end }}</main>
-    <footer>{{ block "footer" . }}{{ end }}</footer>
+    <footer>{{ block "footer" . }}{{ end }}{{ partial "social.html" . }}</footer>
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {

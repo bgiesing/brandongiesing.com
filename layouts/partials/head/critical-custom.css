@@ -1,0 +1,14 @@
+.btn-primary {
+	color: #fff;
+	background-color: #ff9800;
+	border: 4px solid #ff2e88;
+}
+
+.btn-primary:focus:not(.btn-ghost), .btn-primary:hover {
+	background-color: #ff2e88;
+	border-color: #ff2e88;
+}
+
+.solarized-dark h1, .solarized-dark h2, .solarized-dark h3, .solarized-dark h4, .solarized-dark h5, .solarized-dark h6 {
+	color: #ff9800;
+}
