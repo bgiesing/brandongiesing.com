@@ -6,8 +6,8 @@ next: "/money-apps"
 ---
 
 {{< hackcss-buttongroup >}}
-  {{< hackcss-button text="Previous Page: Devices" action="/money-devices" />}}
-  {{< hackcss-button text="Next Page: Apps & Sites" action="/money-apps" />}}
+  {{< hackcss-button type="primary" action="/money-devices" >}}Previous Page: Devices{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-apps" >}}Next Page: Apps & Sites{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
 While a lot of these things with very little intervention or setup, there's various ways you can maximize your earnings and keep your devices running smooth!

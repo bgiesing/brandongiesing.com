@@ -6,8 +6,8 @@ next: "/money-tips"
 ---
 
 {{< hackcss-buttongroup >}}
-  {{< hackcss-button text="Previous Page: Introduction & Changelog" action="/money" />}}
-  {{< hackcss-button text="Next Page: Tips" action="/money-tips" />}}
+  {{< hackcss-button type="primary" action="/money" >}}Previous Page: Introduction & Changelog{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-tips" >}}Next Page: Tips{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
 To earn like this, you are gonna need devices to earn a decent amount. You can start with either old ones you have laying around or buy really inexpensive options. This page contains some tips on choosing devices and what I use myself.

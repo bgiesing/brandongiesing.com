@@ -3,7 +3,10 @@ title: "Apps & Sites | Money Routine"
 slug: "/money-apps"
 ---
 
-<span><a class="btn btn-primary" href="/money-tips" >Previous Page: Tips</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money-earnings" >Next Page: Earnings</a></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-tips" >}}Previous Page: Tips{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-earnings" >}}Next Page: Earnings{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 The following is a list of apps/sites I use or have used in the past divided into sections of what type of stuff you do to earn. Each one includes some basic info and tips plus some even have dedicated pages full of tips for them.
 

@@ -6,8 +6,8 @@ next: "/money"
 ---
 
 {{< hackcss-buttongroup >}}
-  {{< hackcss-button text="Previous Page: Apps & Sites" action="/money-apps" />}}
-  {{< hackcss-button text="Back to Beginning" action="/money" />}}
+  {{< hackcss-button type="primary" action="/money-apps" >}}Previous Page: Apps & Sites{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
 This page shows what I've made from what I described on the past few pages. As I said on the 1st page disclaimer, your results may vary tons so don't blame me if you don't earn as much.

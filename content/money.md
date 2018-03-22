@@ -10,8 +10,8 @@ If you are wondering how I making money with devices passively running while I m
 <p class="warning">Disclaimer: I have no job because very few people want to hire an autistic teen who has weight, sight, sleep, and knee issues. So I'm here doing this all day and most likely make more than an average person would doing this. Your results may very.</p>
 
 {{< hackcss-buttongroup >}}
-  {{< hackcss-button text="Jump Directly To Earnings" action="/money-earnings" />}}
-  {{< hackcss-button text="Start with Devices" action="/money-devices" />}}
+  {{< hackcss-button type="primary" action="/money-earnings" >}}Jump Directly To Earnings{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-devices" >}}Start with Devices{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
 ---
