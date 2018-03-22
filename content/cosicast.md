@@ -14,20 +14,16 @@ I like to split my content into various shows to organize everything better.
 ## Current Shows
 |                       Shows | Description                                                                                                                                                                   |
 | ---------------------------:| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                       Edits | Short random videos covering a range of things from music edits to memes. (formally called Shorties and not mentioned in the thumbnail/title since this is my normal content) |
+|   Normal Videos (aka Edits) | Short random videos covering a range of things from music edits to memes. (formally called Shorties and not mentioned in the thumbnail/title since this is my normal content) |
 | Fan Music Videos (aka FMVs) | Music edits based on a topic or specific fandom using a full length song.                                                                                                     |
 |               CosiCast Live | Live streams ranging from Gameplay to basically anything else I want to do                                                                                                    |
+| Promo Promotions | Fan ads to promote Internet creators, TV Shows, Games, and more! (Moved to CAST Channel as CAST Promos, coming soon) |
 
-## Upcoming Shows
+## Canceled Shows
 |              Shows | Description                                    |
 | ------------------:| ---------------------------------------------- |
 | Cosi Conversations | Variety Show with news, music, tips, and more. |
 |    Cosi Commentary | Reactions with an analytical twist!            |
-
-## Moved Shows
-|            Shows | Description                                                                                                          |
-| ----------------:| -------------------------------------------------------------------------------------------------------------------- |
-| Promo Promotions | Fan ads to promote Internet creators, TV Shows, Games, and more! (Moved to CAST Channel as CAST Promos, coming soon) |
 
 ## Past Shows
 |             Shows | Description                                                                                                                             |

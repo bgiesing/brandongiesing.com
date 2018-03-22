@@ -13,29 +13,25 @@ layout: blog
 
 {{< privacytube GGjEiO02ki4 >}}
 
-CosiCast is getting a major overhaul with some HUGE  changes!
+CosiCast is getting a major overhaul with some HUGE changes!
 
-Redefining Current Shows
+# Redefining Current Shows
 At the end of last year, I made some changes to CosiCast to divide my content up
 into Shows based on the content.
 
 These included:
 
- * Shorties: Short random videos covering a range of things from music edits to
-   memes.
- * In 60 Seconds: A topic presented at a fast pace, visual only way! No text or
-   talking, only images, videos, and music!
- * Promo Promotions: Fan ads to promote Internet creators from YouTube, Twitch,
-   and more!
- * Fan Music Videos (aka FMVs): Music edits based on a topic or specific fandom
-   using a full-length song.
+ * Shorties: Short random videos covering a range of things from music edits to memes.
+ * In 60 Seconds: A topic presented at a fast pace, visual only way! No text or talking, only images, videos, and music!
+ * Promo Promotions: Fan ads to promote Internet creators from YouTube, Twitch, and more!
+ * Fan Music Videos (aka FMVs): Music edits based on a topic or specific fandom using a full-length song.
 
 You might have noticed here recently that I've done a lot of Shorties, very few
 In 60 Seconds and FMVs, and no new Promo Promotions... You also might have
 noticed that each type is very similar and doesn't have that clear of a divide.
 Today I'm making some changes to simplify and enhance them.
 
-Shorties/In 60 Seconds
+## Shorties/In 60 Seconds
 Shorties are going to stay mostly the same as it is now since it's pretty clear
 what it is and I do a lot of them. However, In 60 Seconds is gonna be merged
 into Shorties as most of them weren't exactly 60 seconds and Shorties are also
@@ -47,7 +43,7 @@ you remember that) but now it's all been music mashups basically. I'm going to
 try and do more of the meme ones but don't worry, music ones are still going to
 happen and they are likely going to be the majority still.
 
-Fan Music Videos (FMVs)
+## Fan Music Videos (FMVs)
 These are also going to be staying mostly the same as before with 2 big
 differences:
 
@@ -61,7 +57,7 @@ differences:
    can also open it up to more songs as I previously tried to only use
    royalty-free music for these because of the DMCA crap.
 
-Promo Promotions
+## Promo Promotions
 The changes to Promo Promotions are going to be a bit later down in the post.
 You'll see why shortly.
 
@@ -76,11 +72,11 @@ So to recap all the changes above:
 
 --------------------------------------------------------------------------------
 
-New Shows!
+# New Shows!
 In addition to the changes to the existing shows to streamline them, I'm
 introducing two new shows!
 
-Cosi Conversations
+## Cosi Conversations
 So do you remember back in April 2016 when I uploaded Episode 1 of a new series
 called "The Weekly Prime" before I even made the above 4 shows and that I never
 uploaded an episode 2 even though the show was supposed to be weekly? Do you
@@ -95,30 +91,22 @@ going to be video and audio instead of audio-only.
 So what is the show going to be like? It's going to be a 30 minute to 1-hour
 program divided into the following segments:
 
- * The Prime: * I'm reprising the role of The Weekly Prime as a quick top 5 of
-      my fave topics since the last episode inside of Cosi Conversations.
-    * Basically going to be the same format as before but of course,
-      with the addition of my voice.
-
-
- * Deep Discussions * I'm going to provide more detail and discuss a topic or
-      two (could be one from The Prime or not)
-
-
- * Creator Casting * Showcasing new shows/videos/songs/channels/etc I like.
-
-
- * TechHouse * Reviving my TechHouse brand I had a long time ago for a segment
+ * The Prime:
+    * I'm reprising the role of The Weekly Prime as a quick top 5 of my fave topics since the last episode inside of Cosi Conversations.
+    * Basically going to be the same format as before but of course, with the addition of my voice.
+ * Deep Discussions
+    * I'm going to provide more detail and discuss a topic or two (could be one from The Prime or not)
+ * Creator Casting
+    * Showcasing new shows/videos/songs/channels/etc I like.
+ * TechHouse
+    * Reviving my TechHouse brand I had a long time ago for a segment
       about Technology
     * May include some sub-segments for Tutorials, Tips, news, etc.
-
-
- * Cosi's Corner * Basically your standard fan mailbag segment. I'll answer
+ * Cosi's Corner
+    * Basically your standard fan mailbag segment. I'll answer
       questions and stuff
     * If you have made fan-work of the channel mascot Cosi, I'll
       show it off also.
-
-
 
 Not every episode is going to include every segment of course and they can
 change in the future. Also, the show is going to be scripted unlike past shows
@@ -130,7 +118,7 @@ also don't go months on end without posting it effectively canceling it. Audio
 versions will be on Anchor and SoundCloud while Video versions will be Vidme
 Exclusive.
 
-Cosi Commentary
+## Cosi Commentary
 Obviously, by now, everyone has seen Reaction videos where people watch a video
 and well, react to what they saw. Cosi Commentary is a twist on the standard
 reaction concept! Not only will I be watching the video and giving my first
@@ -143,15 +131,13 @@ Like Cosi Conversations above, these are also going to be Vidme Exclusives.
 
 --------------------------------------------------------------------------------
 
-CAST Channel
+# CAST Channel
 Now time for the biggest announcement of them all, Pravox VARIETY is coming back
 as CAST Channel! Like before, CAST Channel is going to be a linear web-based TV
 channel but with some changes to not only make it easier for me to manage but
 also more varied.
 
-
-
-Shows
+## Shows
 Instead of relying on YouTube Videos and all user submissions, I'm going to make
 edit together blocks of programs. The big advantage of this is I can make
 perfectly curated shows that I can replay exactly and schedule better. For
@@ -174,7 +160,7 @@ Current shows are to be determined (TBD) but you can expect Pravox PRESENTS (now
 CAST Presents), Pravox TUNE (CAST Tune) and Pravox TECH (CAST TechHouse) to come
 back and for the two new CosiCast shows to be a part of it.
 
-Ad Breaks
+## Ad Breaks
 So you know I mentioned above to keep reading for more info on Promo Promotions?
 Well, they are going to be a part of CAST alongside some other stuff in the ad
 breaks.
@@ -184,7 +170,7 @@ will not include any actually paid ads!!  This is of course cause I'm playing
 others content of course and don't want to monetize it. The retro ads are
 included for fun basically.
 
-CAST Promos
+## CAST Promos
 CAST Promos are going to be like a mix of Promo Promotions and the previous
 Pravox VARIETY Presents ads with some additional changes.
 
@@ -215,12 +201,9 @@ And some new things:
 Recap
  * Pravox VARIETY is back as CAST Channel
  * More professional now with legit voice-overs, promos, etc.
- * Going to make actual edited shows * Pravox PRESENTS, TUNE, and TECH are
-      coming back
-    * The two new CosiCast shows will be
-      included.
-
-
+ * Going to make actual edited shows
+    * Pravox PRESENTS, TUNE, and TECH are coming back
+    * The two new CosiCast shows will be included.
  * Ad Breaks that include fun retro ads but no actual paid ads
  * CAST Promos are a merge of the old Promo Promotions and VARIETY ads with some
    new tweaks.
@@ -228,10 +211,10 @@ Recap
 CAST Channel isn't ready yet so make sure to check back here or follow me on
 social media for more info!
 
-
 --------------------------------------------------------------------------------
 
 Final Recap
+
  * Simplifying existing shows by merging Shorties and In 60 Seconds
  * Making two new shows which are going to be the first on-camera shows by me
  * Reviving Pravox VARIETY as CAST Channel

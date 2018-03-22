@@ -33,6 +33,7 @@
     {{ end }}
     {{ partial "head/favicon.html" . }}
     {{ partial "global-styles.html" . }}
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
     {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}<!-- http://regexr.com/3f9d1 -->
     {{ if ge (len $lazylist) 1 }}
       <script async src="/js/lazysizes.min.js"></script>
@@ -46,10 +47,10 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
-  <body class="{{ $theme_variant }} main container">
+  <body class="hack solarized-dark main container">
     <header>{{ block "header" . }}{{ end }}</header>
     <main>{{ block "main" . }}{{ end }}</main>
-    <footer>{{ block "footer" . }}{{ end }}</footer>
+    <footer>{{ block "footer" . }}{{ end }}{{ partial "social.html" . }}</footer>
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {

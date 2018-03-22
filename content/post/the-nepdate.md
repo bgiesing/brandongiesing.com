@@ -39,15 +39,10 @@ post, I don't have a schedule of posts and they will come at any time.
 
 That said, I do want to post more so here's a few ideas to start with.
 
- 1. Since the theme has a video layout, I might start posting all videos as a
-    post here like I did with the Lookback video.
-    * I mostly did that because the description was too long for both YouTube and
-   Vidme but it might be nice to do this as I can use it to link other sites
-   that don't have descriptions or really short lengths to videos easier
-   (Instagram, Coub, Twitter, etc.)
+ 1. Since the theme has a video layout, I might start posting all videos as a post here like I did with the Lookback video.
+    * I mostly did that because the description was too long for both YouTube and Vidme but it might be nice to do this as I can use it to link other sites that don't have descriptions or really short lengths to videos easier (Instagram, Coub, Twitter, etc.)
  2. Do more review/tutorial/longform things in general.
-    * I eat a lot of limited time food items so why not talk about them for
-   example.
+    * I eat a lot of limited time food items so why not talk about them for example.
 
 Either way, keep in mind that this is still a "personal website" and not really
 a "blog" so content can be anything really.
@@ -58,8 +53,7 @@ info here:
 
  * I update it when I feel like it. (Not every week, month, etc.) so be patient.
  * I'm still trying to move tips to separate pages to simplify the page.
- * I will also likely split the page up into a multi-page post and add some more
-   tutorial like info instead of just listing stuff
+ * I will also likely split the page up into a multi-page post and add some more tutorial like info instead of just listing stuff
     1. Introduction and
        Changelog
     2. How to get started
@@ -67,9 +61,7 @@ info here:
     4. Earnings List
 
 ## New Pages
-I'm planning on adding more pages to the site to fill some gaps. Currently the
-two pages are the Money Routine and the Support Me/Donate page but there's some
-more that need added.
+I'm planning on adding more pages to the site to fill some gaps. Currently the two pages are the Money Routine and the Support Me/Donate page but there's some more that need added.
 
  * About Me/Bio
  * My Projects (Current/Past)

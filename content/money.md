@@ -1,17 +1,18 @@
 ---
 title: "Money Routine"
+prev: "/money-earnings"
+next: "/money-devices"
+
 ---
 
 If you are wondering how I making money with devices passively running while I mostly do nothing, this page will describe what services and devices I use plus links to blog posts with tips!
 
 <p class="warning">Disclaimer: I have no job because very few people want to hire an autistic teen who has weight, sight, sleep, and knee issues. So I'm here doing this all day and most likely make more than an average person would doing this. Your results may very.</p>
 
-<span><a class="btn btn-primary" href="/money-devices" >Start with Devices</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money-earnings" >Jump Directly To Earnings</a></span>
-
----
-## Ad
-
-<span><script data-cfasync='false' type='text/javascript' src='//p109955.clksite.com/adServe/banners?tid=109955_209722_3'></script></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-earnings" >}}Jump Directly To Earnings{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-devices" >}}Start with Devices{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 ---
 
@@ -226,3 +227,8 @@ Here I'll mention what updates I made to this page.
 <style type="text/css">
 .arrows{text-decoration:none;color:silver;}
 </style>
+
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-earnings" >}}Jump Directly To Earnings{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money-devices" >}}Start with Devices{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}

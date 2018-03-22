@@ -1,9 +1,14 @@
 ---
 title: "Earnings | Money Routine"
 slug: "/money-earnings"
+prev: "/money-apps"
+next: "/money"
 ---
 
-<span><a class="btn btn-primary" href="/money-apps" >Previous Page: Apps & Sites</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money" >Back to Beginning</a></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-apps" >}}Previous Page: Apps & Sites{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 This page shows what I've made from what I described on the past few pages. As I said on the 1st page disclaimer, your results may vary tons so don't blame me if you don't earn as much.
 
@@ -94,4 +99,7 @@ All of that is merely from what I mentioned above! No referral earnings on any o
 .arrows{text-decoration:none;color:silver;}
 </style>
 
-<span><a class="btn btn-primary" href="/money-apps" >Previous Page: Apps & Sites</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a class="btn btn-primary" href="/money" >Back to Beginning</a></span>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="/money-apps" >}}Previous Page: Apps & Sites{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}

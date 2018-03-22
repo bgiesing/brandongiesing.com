@@ -13,10 +13,9 @@ So if you know me, I have a "habit" of constantly moving my site cause
 "reasons". This time, hopefully this will be permanent now that I got great
 software and money to keep it alive!
 
-
 --------------------------------------------------------------------------------
 
-Great Software: Ghost
+# Great Software: Ghost
 In the past I have done many different CMS, Blog, and Static services for my
 sites. Wordpress, Blogger, Weebly, Webs, and even Tumblr are some of those many.
 
@@ -36,7 +35,7 @@ Now I'm using Ghost [https://ghost.org]  which is different in a few ways!
 
 The major issue with Ghost though has to do with that first point some...
 
-Let's Talk About The $$$
+## Let's Talk About The $$$
 PHP has lots of hosts that are free. (Yes they maybe really limited but for a
 simple personal site with rarely any views, not a big deal) Node.js however
 basically has none. Heroku and OpenShift exists but are super complicated to set
@@ -73,24 +72,14 @@ I have to do is make the content.
 
 --------------------------------------------------------------------------------
 
-About The New Site
+# About The New Site
 Now that all that is out of the way... What about my side of it? The content?
 Well here's how the site is going to work.
 
- * Occasionally I post long-form content here about things I'm interested in.
-   Whether it be about tech products, talking about new food items, or anything
-   else, if it needs lots of words, it will most likely be here. * I'll share
-      links to them on existing social accounts like my Twitter.
-
-
- * Want to find info about my projects? I'll have dedicated pages in the Menu.
-   Currently I have a "Support Me" page where you can find ways to support me
-   via donations or using my referral links.
- * More may happen but the main thing is unlike my past personal sites, I will
-   not do a scheduled post series!  I always forget about them or don't have
-   enough things to make one each week! So I may do post series but they won't
-   be "Every Sunday" or something, just when I get to them!
-
+ * Occasionally I post long-form content here about things I'm interested in. Whether it be about tech products, talking about new food items, or anything else, if it needs lots of words, it will most likely be here.
+     * I'll share links to them on existing social accounts like my Twitter.
+ * Want to find info about my projects? I'll have dedicated pages in the Menu. Currently I have a "Support Me" page where you can find ways to support me via donations or using my referral links.
+ * More may happen but the main thing is unlike my past personal sites, I will not do a scheduled post series! I always forget about them or don't have enough things to make one each week! So I may do post series but they won't be "Every Sunday" or something, just when I get to them!
 
 --------------------------------------------------------------------------------
 

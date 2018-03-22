@@ -21,7 +21,7 @@ To not be so repetitive, here's a key of abbreviations for what states projects 
 | NAC          |  Not Actively Contributing To                                    |
 
 ## Personal Projects
-### Pravox Networks (DISC) / CASTchannel (CUR)
+### Pravox Networks (DISC) / CASTchannel (HIA)
 {{< figure src="https://cdn-images-1.medium.com/max/2000/1*_7QN_nCp8QzNMBRuGinKPw.png" alt="Pravox Logo" width="100%" >}}
 A very passionate project of mine whose goal was to make linear TV-like stations for online content.
 
@@ -33,7 +33,9 @@ It was similar to Pluto.tv with a few differences:
 
 Ultimately, shut down because almost nobody ever watched and the few who didn't want to contribute making it impossible to continue.
 
-<a class="btn external" href="https://bgiesing.github.io/pravox.net/" >Archived Website on GitHub Pages</a>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="https://bgiesing.github.io/pravox.net/" >}}Archived Website on GitHub Pages{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 {{< figure src="https://i.imgur.com/4Ztd3Jo.png" alt="CASTchannel" width="100%" >}}
 
@@ -45,8 +47,9 @@ Before Pravox Networks, Vox Variety tried to be an internet radio station mixing
 
 Shutdown because Radionomy (the hoster) got sued and shut it down.
 
-<a class="btn external" href="https://bgiesing.github.io/vox-variety-site/" >Archived Website on GitHub Pages</a>
-
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="https://bgiesing.github.io/vox-variety-site/" >}}Archived Website on GitHub Pages{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 ### Famigo/Voxive Android Tools (DISC)
 A set of tools for Android devices that I released over the years, all are currently discontinued.
@@ -60,7 +63,9 @@ Based on PA GApps remover by TKRuzze, it added:
 - AROMA Interface (for on the fly config)
 - One zip for multiple OSes (GApps Remover had one for each)
 
-<a class="btn external" href="http://forum.xda-developers.com/showthread.php?t=2870264" >XDA Thread (Unsupported)</a>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="http://forum.xda-developers.com/showthread.php?t=2870264" >}}XDA Thread (Unsupported){{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 #### GApps
 A GApps package based on PA GApps that added:
@@ -70,7 +75,9 @@ A GApps package based on PA GApps that added:
 
 Discontinued with some functionality merged into Open GApps' AROMA package.
 
-<a class="btn external" href="https://forum.xda-developers.com/showthread.php?t=2558177" >XDA Thread (Unsupported)</a>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="https://forum.xda-developers.com/showthread.php?t=2558177" >}}XDA Thread (Unsupported){{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 #### Famigo and Vox ROMs
 Two different ROMs here:
@@ -95,13 +102,6 @@ Famigo was discontinued because it was a crappy mod not based on source while Vo
 - [Grunify (HIA)](https://github.com/bgiesing/grun): Chrome Extension to change every word to Grun (made for Spagoots and based on Hodorify extension by Steven Dunn)
 - [.vimrc (HIA)](https://github.com/bgiesing/vimrc): My VIM config file forked from amix's ultimate vimrc and including some keybindings for tips from VimCasts.
 
-### Playboard Channels (HIA)
-I was frustrated with trying find to certain types of new and interesting Android apps (Keyboards, Launchers, etc) because the Play Store was cluttered with a boatload of themes (mostly from Go apps) so you couldn't really find actual apps, just themes for one of those apps.
-
-I made these Playboard channels to share ones I found to make it easier for others. I don't actively update it much anymore but I may come back eventually.
-
-<a class="btn external" href="http://playboard.me/editors/526bf1dcefb6a62d79787d6f/android" >Playboard Profile</a>
-
 ## Contributed Projects
 ### The Eternal Jukebox (AC)
 {{< figure src="https://eternal.abimon.org/files/jukebox.png" alt="EternalJuke" width="100%" >}}
@@ -112,8 +112,10 @@ I've made two big contributions to the upcoming rewrite on the frontend side (no
 - [Complete UI Overhaul (Updated dependencies, new look, etc.))](https://github.com/UnderMybrella/EternalJukebox/pull/18)
 - [Modularizing the site with Jekyll](https://github.com/UnderMybrella/EternalJukebox/pull/28)
 
-<a class="btn external" href="https://eternal.abimon.org" >Official Website</a>
-<a class="btn external" href="https://github.com/UnderMybrella/EternalJukebox" >GitHub Source Code</a>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="https://eternal.abimon.org" >}}Official Website{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="https://github.com/UnderMybrella/EternalJukebox" >}}GitHub Source Code{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 ### Open GApps (NAC)
 {{< figure src="https://i.imgur.com/2PScISc.png" alt="Open GApps Banner" width="100%" >}}
@@ -122,8 +124,10 @@ My biggest contribution was porting the site to Jekyll and adding a blog. Also u
 
 After a dispute, I left the team but have no grudges against them and I still use it personally.
 
-<a class="btn external" href="http://opengapps.org" >Official Website</a>
-<a class="btn external" href="https://github.com/OpenGApps" >GitHub Source Code</a>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="https://opengapps.org" >}}Official Website{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="https://github.com/OpenGApps" >}}GitHub Source Code{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 ### Cumulus TV (NAC)
 {{< figure src="https://raw.githubusercontent.com/Fleker/CumulusTV/master/store/banner.jpg" alt="Not my Logo" width="100%" >}}
@@ -132,8 +136,10 @@ Android TV app to add IPTV streams to Google's Live Channels app.
 - [Made some graphics for the app (later replaced with the above image)](https://github.com/Fleker/CumulusTV/issues/18)
 - [Suggested to add TWiT.tv as a built-in preset](https://github.com/Fleker/CumulusTV/issues/32)
 
-<a class="btn external" href="http://cumulustv.herokuapp.com/" >Official Website</a>
-<a class="btn external" href="https://github.com/Fleker/CumulusTV" >GitHub Source Code</a>
+{{< hackcss-buttongroup >}}
+  {{< hackcss-button type="primary" action="http://cumulustv.herokuapp.com" >}}Official Website{{< /hackcss-button >}}
+  {{< hackcss-button type="primary" action="https://github.com/Fleker/CumulusTV" >}}GitHub Source Code{{< /hackcss-button >}}
+{{< /hackcss-buttongroup >}}
 
 ## News Articles
 Sometimes I send tips to news websites and they mention me as the source. All links below will be formatted like so: `Article Name (Date of Publish MM/DD/YYYY)`.

@@ -20,19 +20,19 @@ So for Do or Die, I decided to change things up slightly with my edit. I really
 tried to make it faster pace and cram more stuff in to seem more action packed.
 My other two edits for My Sunshine and Dust were both slower paced.
 
-CREDITS
-MUSIC
+## CREDITS
+### MUSIC
 Vantablack (Gaster's Theme) from Glitchtale OST - NyxTheShield
 
 Music by NyxTheShield: https://youtube.com/channel/UC9QBo6agq3a34UsiYfMtKGA
 
-CLIPS
+### CLIPS
 Glitchtale Season 2, Episode 3: Do or Die.
 
-OUTRO MUSIC
+### OUTRO MUSIC
 Energy - Michael Craig & Oliver Godfrey
 
-CAMILA & THE GLITCHTALE CAST/CREW
+### CAMILA & THE GLITCHTALE CAST/CREW
 Facebook: https://www.facebook.com/CamiAnimations/
 DeviantArt: http://camilaanims.deviantart.com/
 Tumblr: http://camilaart.tumblr.com/

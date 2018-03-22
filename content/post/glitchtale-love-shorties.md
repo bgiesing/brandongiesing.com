@@ -17,17 +17,17 @@ For once, nobody died! I applaud you Camila for holding back this one episode!
 Then again, it is only Part 1 so if Part 2 has deaths I guess someone did die,
 in that case, NotLikeThis Camila!
 
-CREDITS
-MUSIC
+## CREDITS
+### MUSIC
 The Undying - NyxTheShield (from Glitchtale OST)
 
-CLIPS
+### CLIPS
 Glitchtale S2 E4 - Love (Part 1)
 
-OUTRO MUSIC
+### OUTRO MUSIC
 Energy - Michael Craig & Oliver Godfrey
 
-CHECK OUT CAMILA AND THE GLITCHTALE CAST/CREW
+### CHECK OUT CAMILA AND THE GLITCHTALE CAST/CREW
 Facebook: https://www.facebook.com/CamiAnimations/
 DeviantArt: http://camilaanims.deviantart.com/
 Tumblr: http://camilaart.tumblr.com/

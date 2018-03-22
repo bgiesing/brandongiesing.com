@@ -1,0 +1,5 @@
+<form class="btn-group">
+  {{ range .Site.Data.social }}
+  <button formaction="{{ .url | safeURL }}" class="btn btn-primary"><img src="{{ .icon }}" alt="{{ .name }}"></button>
+  {{ end }}
+</form>
