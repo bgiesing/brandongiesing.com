@@ -1,7 +1,10 @@
 baseURL = "https://brandongiesing.com/"
-languageCode = "en-us"
+languageCode = "en-US"
 title = "BrandonGiesing.com"
 theme = "afterdark"
+disqusShortname = "brandongiesing"
+footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
+enableRobotsTXT = true # Suggested, enable robots.txt file
 
 [[menu.main]]
   name = "Home"
@@ -36,4 +39,9 @@ theme = "afterdark"
 
 [permalinks]
   post = "/:year/:month/:day/:title/"
-  
+
+[params]
+  author = "Brandon Giesing" # Optional, controls author name display on posts
+  hide_author = true # Optional, set true to hide author name on posts
+  show_menu = true # Optional, set true to enable section menu
+  powered_by = false # Optional, set false to disable credits
