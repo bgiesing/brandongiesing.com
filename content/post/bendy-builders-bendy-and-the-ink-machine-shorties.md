@@ -20,14 +20,17 @@ spend too much time so it's not a full blown Fan Music Video but if you guys
 want it, let me know and maybe I'll extend it later!
 
 ## CREDITS
+
 Bendy and the Ink Machine belongs to theMeatly Games.
 
 ## MUSIC
+
 Build Our Machine - DAGames
 
 {{< privacytube ZstsPUKT5CI >}}
 
 ## CLIPS
+
 (If I forgot one, please let me know)
 
 {{< privacytube 8kkCYCL_W84 >}}
@@ -46,4 +49,5 @@ And various fan/official art found via Google Images. (again let me know if you
 know the exact artist)
 
 ## OUTRO MUSIC
+
 Energy - Michael Craig & Oliver Godfrey

@@ -11,4 +11,8 @@ layout: blog
 
 ---
 
-I launched a cool new variety radio show/podcast on [Anchor.fm](https://anchor.fm)! Check it out at the [show page](http://brandongiesing.com/cwcshow).
+I launched a cool new variety radio show/podcast on [Anchor.fm][anchor]! Check
+it out at the [show page][cwc].
+
+[anchor]: https://anchor.fm
+[cwc]: http://brandongiesing.com/cwcshow

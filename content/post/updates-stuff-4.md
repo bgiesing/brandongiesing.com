@@ -14,18 +14,20 @@ layout: blog
 A lot has changed since the last post but a lot of it isn't visible so lets
 discuss it!
 
-
 --------------------------------------------------------------------------------
 
-# Website Updates
-## New Server
+## Website Updates
+
+### New Server
+
 As much as I loved using NearlyFreeSpeech, there was some issues with it
 involving Ghost. Ghost 1.0 just came out and now requires more stuff to install
 which NearlyFreeSpeech doesn't allow being a shared host.
 
-So to upgrade to Ghost 1.0, I've moved over to DigitalOcean
-[https://m.do.co/c/48175f5b14f3]  instead. This will cost a bit more ($5/month
-vs pay-per-usage which averaged $3/month) but will be better in the long run:
+So to upgrade to Ghost 1.0, I've moved over to
+[DigitalOcean][digitalocean] instead. This will cost a bit
+more ($5/month vs pay-per-usage which averaged $3/month) but will be better in
+the long run:
 
  1. A full private server meaning no matter what changes Ghost makes, it will
     work.
@@ -34,36 +36,40 @@ vs pay-per-usage which averaged $3/month) but will be better in the long run:
  3. Still cheaper than most VPS' and DO is super highly praised for their
     support and service.
 
-## Ghost 1.0
+### Ghost 1.0
+
 Speaking of Ghost 1.0, this site is now running on it! I had to rebuild the
 entire site from scratch and manually move stuff over so if you notice any
 issues, please let me know. Currently one bug is the video posts don't display
-the Vid.me [http://Vid.me]  embeds right, this is gonna be fixed soon. (Getting
-the theme dev to add it natively so I don't have to redo it each theme upgrade)
-With the change, everything should be faster and more stable.
+the [Vid.me][vidme] embeds right, this is gonna be fixed soon. (Getting the
+theme dev to add it natively so I don't have to redo it each theme upgrade) With
+the change, everything should be faster and more stable.
 
-## CloudFlare Apps
+### CloudFlare Apps
+
 I've installed some CloudFlare apps to make the site a tiny bit better!
 
- * PACE: Adds a cool progress bar to the top of every page.
- * A Better Browser: Warns you if your browser is out of date (And may be
-   incompatible with the site)
- * Reading Time: Shows you how long it will take to read a post
- * AutoLink: Automatically fixes links that were just text and links Twitter
-   usernames and hashtags automatically (like @BrandonGiesing and #CosiCast)
- * Typist: Provides that cool typing animation on the homepage.
+* PACE: Adds a cool progress bar to the top of every page.
+* A Better Browser: Warns you if your browser is out of date (And may be
+  incompatible with the site)
+* Reading Time: Shows you how long it will take to read a post
+* AutoLink: Automatically fixes links that were just text and links Twitter
+  usernames and hashtags automatically (like @BrandonGiesing and #CosiCast)
+* Typist: Provides that cool typing animation on the homepage.
 
-## Ads
+### Ads
+
 I've replaced the LeadsLeap ads with RevenueHits cause I wasn't earning much and
 added the RevenueHits toolbar at the bottom. I know these new ads aren't the
 best (fake Download buttons usually) but they do earn more and at least they
 aren't slow or virus filled like some others.
 
-
 --------------------------------------------------------------------------------
 
-# Other Stuff
-## CosiCast
+## Other Stuff
+
+### CosiCast
+
 Since the last Updates & Stuff, I released 3 new videos!
 
  1. A preview of what a CAST Channel Promo could look like
@@ -71,13 +77,17 @@ Since the last Updates & Stuff, I released 3 new videos!
     few weeks!!)
  3. A Shorties on AntiSepticEye's newest hijacking.
 
-## Social Media
-I made a Telegram to send notifications about new stuff! Think of it like these
-posts but in realtime instead of as a recap later on. You can join here!
-[https://t.me/CosiCorner]
+### Social Media
 
+I made a Telegram to send notifications about new stuff! Think of it like these
+posts but in realtime instead of as a recap later on. [You can join
+here!][telegram]
 
 --------------------------------------------------------------------------------
 
 Overall the site should be running way better now! If you notice any issues, let
 me know. See you guys next time!
+
+[digitalocean]: https://m.do.co/c/48175f5b14f3
+[vidme]: http://vid.me
+[telegram]: https://t.me/CosiCorner

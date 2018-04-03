@@ -1,0 +1,11 @@
+default=true
+MD024=false
+MD033=false
+MD034=false
+MD041=false
+
+[MD002]
+level=2
+
+[MD029]
+style=ordered

@@ -24,11 +24,15 @@ Also, since I have been away so long. Enjoy a new Thumbnail Style, Outro Style
 and Song, and a new version of Cosi!
 
 ## CREDITS
+
 ### MUSIC
+
 Rhapsody of Blue Sky (Instrumental) - fhana (aka the Theme Song)
 
 ### CLIPS
+
 Miss Kobayashi's Dragon Maid
 
 ### OUTRO MUSIC
+
 Energy - Michael Craig & Oliver Godfrey

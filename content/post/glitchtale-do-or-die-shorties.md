@@ -21,31 +21,38 @@ tried to make it faster pace and cram more stuff in to seem more action packed.
 My other two edits for My Sunshine and Dust were both slower paced.
 
 ## CREDITS
-### MUSIC
-Vantablack (Gaster's Theme) from Glitchtale OST - NyxTheShield
 
-Music by NyxTheShield: https://youtube.com/channel/UC9QBo6agq3a34UsiYfMtKGA
+### MUSIC
+
+Vantablack (Gaster's Theme) (from the Glitchtale OST) - [NyxTheShield][nyx]
 
 ### CLIPS
+
 Glitchtale Season 2, Episode 3: Do or Die.
 
 ### OUTRO MUSIC
+
 Energy - Michael Craig & Oliver Godfrey
 
-### CAMILA & THE GLITCHTALE CAST/CREW
-Facebook: https://www.facebook.com/CamiAnimations/
-DeviantArt: http://camilaanims.deviantart.com/
-Tumblr: http://camilaart.tumblr.com/
-Twitter: @camilacuevaszu
-Twitch: https://www.twitch.tv/camila2929
-Patreon: https://www.patreon.com/camilacuevas
+### CAMILA CUEVAS
 
-Strelok (Sound Designer & Asgore/Frisk/Kumu) - https://youtube.com/carmelo580
-Zedrin (Sans/Gaster) - https://youtube.com/ZombieZephyr
-Courtney (Betty) - https://youtube.com/ProjectSNT
-Jen (Jessica/Orange girl: Robin) - https://youtube.com/MEMJ0123
-Adox0graphist (Asriel/Undyne) - https://adoxtalks.tumblr.com/
-Lumisau (Green boy: Cam) - https://soundcloud.com/lumisau
-Meredith (Light-Blue Girl: Abigail): https://youtube.com/Emichwan88
-KateMarie999 (Alphys) - https://katemarie999.tumblr.com/
-Citrus (Papyrus) https://citrusstorm.tumblr.com/
+- [Facebook](https://www.facebook.com/CamiAnimations/)
+- [DeviantArt](http://camilaanims.deviantart.com/)
+- [Tumblr](http://camilaart.tumblr.com/)
+- [Twitter](https://twitter.com/camilacuevaszu)
+- [Twitch](https://www.twitch.tv/camila2929)
+- [Patreon](https://www.patreon.com/camilacuevas)
+
+### THE GLITCHTALE CAST/CREW
+
+- [Strelok (Sound Designer & Asgore/Frisk/Kumu)](https://youtube.com/carmelo580)
+- [Zedrin (Sans/Gaster)](https://youtube.com/ZombieZephyr)
+- [Courtney (Betty)](https://youtube.com/ProjectSNT)
+- [Jen (Jessica/Orange girl: Robin)](https://youtube.com/MEMJ0123)
+- [Adox0graphist (Asriel/Undyne)](https://adoxtalks.tumblr.com)
+- [Lumisau (Green boy: Cam)](https://soundcloud.com/lumisau)
+- [Meredith (Light-Blue Girl: Abigail)](https://youtube.com/Emichwan88)
+- [KateMarie999 (Alphys)](https://katemarie999.tumblr.com)
+- [Citrus (Papyrus)](https://citrusstorm.tumblr.com)
+
+[nyx]: https://youtube.com/channel/UC9QBo6agq3a34UsiYfMtKGA
