@@ -62,9 +62,7 @@ Here I'll mention what updates I made to this page.
 
 ## Previous Changes
 
-<p><span><h4><a href="#bgpeg" id="5_arrows" class="arrows"
-<onclick="expand_collapse('5');">&#9660</a> v5</h4></span> div id="5"
-<style="display:none;">
+### v5
 
 - v5.2: July 6th, 2017:
   - Apps/Sites
@@ -94,11 +92,7 @@ Here I'll mention what updates I made to this page.
   - Apps/Sites
     - Add LeadsLeap to Link Shortners/Ad Monetization
 
-</div><p></p>
-
-<p><span><h4><a href="#agfdt" id="4_arrows" class="arrows"
-<onclick="expand_collapse('4');">&#9660</a> v4</h4></span> div id="4"
-<style="display:none;">
+### v4
 
 - v4.4: May 13th, 2017:
   - Apps/Sites
@@ -155,83 +149,105 @@ Here I'll mention what updates I made to this page.
       - Added tip about cooling devices because of the OZ3 battery issue
       - Add Tip about replacing Windows on old PCs
 
-</div><p></p>
+### v3
 
-<p><span><h4><a href="#iqiuwy" id="1_arrows" class="arrows"
-<onclick="expand_collapse('1');">&#9660</a> v3</h4></span> div id="1"
-<style="display:none;"><p><ul> li>v3: March 3rd, 2017 ul><li>Finally Updated
-<Earnings (first time since end of December)</li> li>Devices ul><li>Swapped
-<TOSHIBA laptop to former and HP Stream to current.</li> li>Flip is now a
-<dedicated device.</li> li>List what each device does (usually, can
-<vary)</li></ul></li> li>Accessories ul><li>Added info about the drives I use
-<with Storj Share</li></ul></li> li>Tips ul><li>Updated SB, Perk, and IGC Tip
-<pages.</li> li>Add point about not overspending for devices.</li></ul></li>
-<li>Apps/Sites ul><li>Add Fronto Referral Code</li> li>Add AppLike and Storj
-<Share</li> li>Sorted by the ones I use the most
-<often</li></ul></li></ul></li></p></div><p></p>
+- v3: March 3rd, 2017
+  - Finally Updated Earnings (first time since end of December)
+  - Devices
+    - Swapped TOSHIBA laptop to former and HP Stream to current.
+    - Flip is now a dedicated device.
+    - List what each device does (usually, can vary)
+  - Accessories
+    - Added info about the drives I use with Storj Share
+  - Tips
+    - Updated SB, Perk, and IGC Tip pages.
+    - Add point about not overspending for devices.
+  - Apps/Sites
+    - Add Fronto Referral Code
+    - Add AppLike and Storj Share
+    - Sorted by the ones I use the most often
 
-<p><span><h4><a href="#uwuyqt" id="2_arrows" class="arrows"
-<onclick="expand_collapse('2');">&#9660</a> v2</h4></span> div id="2"
-<style="display:none;"><p><li>v2.3: Feburary 18th, 2017 ul><li>Changelog
-<ul><li>Move Changes for tip pages to tip page itself.</li> li>Changed
-<versioning scheme. Now first number is for major updates (aka update the
-<earnings), the second is for other big changes (like adding tons of info
-<without updating earnings), and the third is mostly for very minor things like
-<spelling.</li></ul></li> li>Tips Pages ul><li>Added changelogs like mentioned
-<above</li> li>Updated SB, IGC, and Perk</li></ul></li> li>Apps and Sites
-<ul><li>Moved SlideJoy to former and added Fronto instead.</li></ul></li>
-<li>Devices ul><li>Moved one of the LG Zone 3 devices to Former cause the
-<battery bloated (a very bad thing) and waiting for
-<replacement.</li></ul></li></ul></li> li>v2.2.1: January 25th, 2017 ul><li>Add
-<Earn.gg</li></ul></li> li>v2.2: January 24th, 2017 ul><li>Fix year in changelog
-<for v2.0.1</li> li>Apps and Sites ul><li>Add Shorte.st and Niume</li> li>Add
-<referral links/codes to Rabadaba, Flii.by, and S'more.</li> li>Update Referral
-<Disclaimer with to mention the links shortened with an ad redirect for
-<transparency.</li></ul></li></ul></li> li>v2.1: January 23rd, 2017
-<ul><li>Devices ul><li>Added BLU R1 HD</li> li>Moved HP Stream to
-<Former</li></ul></li> li>Updated page formatting for new website design.</li>
-<li>Reordered changelog with newest first instead of oldest.</li></ul></li>
-<li>v2: December 26th, 2016 ul><li>Added this Changelog!</li> li>Sections have
-<more details</li> li>Devices ul><li>Separated Main Devices from Dedicated
-<Devices</li> li>Added 3 more Zone 3's, 1 HP Stream 8, 1 Xiaomi Mi Box, and 1
-<ASUS Chromebook Flip</li> li>Grouped both Nexus 7's as one device even though
-<they are different year models.</li> li>Give additional info about each device
-<including alternatives for some of them.</li></ul></li> li>Tips ul><li>Added
-<tip section for me to provide some helpful tools.</li> li>Moved InstaGC and
-<Perk Tips in App list to separate pages like I did with Swagbucks and add more
-<tips to each</li> li>Updated Swagbucks tips</li></ul></li> li>Apps and Sites
-<ul><li>Former section now divided by the same categories as the Current
-<ones.</li> li>Added YooLotto and AdFun</li> li>Moved InboxDollars, Adlove,
-<Adme, FreeBitco.in, and FeaturePoints to Former</li></ul></li> li>All Time
-<Earnings ul><li>Only show USD amount now instead of the site's points and
-<USD.</li> li>Now only including amounts I have actually redeemed unless the
-<site already pays in USD or does the point-to-USD conversion. This is so I'm
-<not estimating how much I've gotten.</li> li>Now divided in the same categories
-<as the app list.</li> li>Added the difference since the last
-<update.</li></ul></li></ul></li></p></div><p></p>
+### v2
 
-<p><span><h4><a href="#owoieu" id="3_arrows" class="arrows"
-<onclick="expand_collapse('3');">&#9660</a> v1</h4></span> div id="3"
-<style="display:none;"><p><li>v1.2: November 1st, 2016 ul><li>Separated device
-<list into mobile devices and PC categories with current and former
-<sections</li> li>Apps/Site List ul><li>Separated into Passive Videos, Social
-<Networking, Panels, and Other categories</li> li>Added tons, some new and
-<others I forgot to add</li> li>Added Former category and moved some to
-<it</li></ul></li> li>Updated Swagbucks Tip Page</li> li>Some misc page
-<tweaks</li></ul></li> li>v1.1: October 22nd, 2016 ul><li>Sold BLU and bought
-<iPhone 5S</li> li>Moved Swagbucks info to separate tips page</li></ul></li>
-<li>v1: October 13th, 2016 ul><li>Moved to this separate page</li> li>Updated
-<and added All-Time Earnings</li></ul></li> li>v0: September 21st, 2016
-<ul><li>Initial Version as <a
-<href="http://brandongiesing.com/1st-month-earnings/">my 1st Month of Money
-<Making post</a></li></ul></li> /ul></p></div><p></p>
+- v2.3: Feburary 18th, 2017
+  - Changelog
+    - Move Changes for tip pages to tip page itself.
+    - Changed versioning scheme. Now first number is for major updates (aka
+      update the earnings), the second is for other big changes (like adding
+      tons of info without updating earnings), and the third is mostly for very
+      minor things like spelling.
+  - Tips Pages
+      - Added changelogs like mentioned above
+      - Updated SB, IGC, and Perk
+  - Apps and Sites
+      - Moved SlideJoy to former and added Fronto instead.
+  - Devices
+      - Moved one of the LG Zone 3 devices to Former cause the battery bloated
+        (a very bad thing) and waiting for replacement.
+- v2.2.1: January 25th, 2017
+  - Add Earn.gg
+- v2.2: January 24th, 2017
+  - Fix year in changelog for v2.0.1
+  - Apps and Sites
+    - Add Shorte.st and Niume
+    - Add referral links/codes to Rabadaba, Flii.by, and S'more.
+    - Update Referral Disclaimer with to mention the links shortened with an ad
+      redirect for transparency.
+- v2.1: January 23rd, 2017
+  - Devices
+    - Added BLU R1 HD
+    - Moved HP Stream to Former
+  - Updated page formatting for new website design.
+  - Reordered changelog with newest first instead of oldest.
+- v2: December 26th, 2016
+  - Added this Changelog!
+  - Sections have more details
+  - Devices
+    - Separated Main Devices from Dedicated Devices
+    - Added 3 more Zone 3's, 1 HP Stream 8, 1 Xiaomi Mi Box, and 1 ASUS
+      Chromebook Flip
+    - Grouped both Nexus 7's as one device even though they are different year
+      models.
+    - Give additional info about each device including alternatives for some of
+      them.
+  - Tips
+    - Added tip section for me to provide some helpful tools.
+    - Moved InstaGC and Perk Tips in App list to separate pages like I did with
+      Swagbucks and add more tips to each
+    - Updated Swagbucks tips
+  - Apps and Sites
+    - Former section now divided by the same categories as the Current ones.
+    - Added YooLotto and AdFun
+    - Moved InboxDollars, Adlove, Adme, FreeBitco.in, and FeaturePoints to
+      Former
+  - All Time Earnings
+    - Only show USD amount now instead of the site's points and USD.
+    - Now only including amounts I have actually redeemed unless the site
+      already pays in USD or does the point-to-USD conversion. This is so I'm
+      not estimating how much I've gotten.
+    - Now divided in the same categories as the app list.
+    - Added the difference since the last update.
 
-<script type="text/javascript"> <!-- function expand_collapse(id) { var e =
-document.getElementById(id); var f = document.getElementById(id+"_arrows");
-if(e.style.display == 'none'){ e.style.display = 'block'; f.innerHTML =
-'&#9650'; } else { e.style.display = 'none'; f.innerHTML = '&#9660'; } } //-->
-</script> <style type="text/css"> .arrows{text-decoration:none;color:silver;}
-</style>
+### v1
+
+- v1.2: November 1st, 2016
+  - Separated device list into mobile devices and PC categories with current and
+    former sections
+  - Apps/Site List
+    - Separated into Passive Videos, Social Networking, Panels, and Other
+      categories
+    - Added tons, some new and others I forgot to add
+    - Added Former category and moved some to it
+  - Updated Swagbucks Tip Page
+  - Some misc page tweaks
+- v1.1: October 22nd, 2016
+  - Sold BLU and bought iPhone 5S
+  - Moved Swagbucks info to separate tips page
+- v1: October 13th, 2016
+  - Moved to this separate page
+  - Updated and added All-Time Earnings
+- v0: September 21st, 2016
+  - Initial Version as my 1st Month of Money
 
 {{< hackcss-buttongroup >}}
     {{< hackcss-button type="primary" action="/money-earnings" >}}Jump Directly
