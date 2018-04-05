@@ -12,9 +12,7 @@ I want to keep this website (and most of what I do) availiable without really
 shitty ads. Below is a Crypto miner that will let you help by using a tiny bit
 of your CPU usage to make me some Cryptocurrency.
 
-<center><iframe scrolling="no" frameborder="0"  class="lazyload"
-src="https://coinpot.co/mine/litecoin/?ref=0622613A3A04&mode=widget"
-style="overflow:hidden;width:324px;height:470px;"></iframe><center>
+<center><iframe scrolling="no" frameborder="0" class="lazyload" src="https://coinpot.co/mine/coinpottokens/?ref=0622613A3A04&mode=widget" style="overflow:hidden;width:324px;height:470px;"></iframe><center>
 
 ## FAQ
 
