@@ -1,2 +1,14 @@
+# Social Redirects
+https://twitch.brandongiesing.com/* https://twitch.tv/BrandonGiesing/:splat 200
+https://youtube.brandongiesing.com/* https://youtube.com/CosiCast/:splat 200
+https://twitter.brandongiesing.com/* https://twitter.com/BrandonGiesing/:splat 200
+https://donate.brandongiesing.com/* https://streamelements.com/brandongiesing/tip/:splat 200
+https://git.brandongiesing.com/* https://github.com/bgiesing/:splat 200
+
+# Old URLs
 /1st-month-earnings /money 301
 /cwcshow /cosicast 301
+https://velavale.brandongiesing.com/* https://www.reddit.com/r/VelaVale/:splat 200
+https://velavale-info.brandongiesing.com/* https://www.reddit.com/r/VelaVale/:splat 200
+https://beta.brandongiesing.com/* https://brandongiesing.com/:splat 301
+https://old.brandongiesing.com/* https://brandongiesing.com/:splat 301
