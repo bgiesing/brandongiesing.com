@@ -2,13 +2,16 @@
 author: "Brandon Giesing"
 categories: ["video-post-format", "CosiCast Shorties", "CosiCast"]
 date: 2017-05-03T04:19:00Z
-thumbnail: /images/uploads/bendy.jpg
 description: ""
 draft: false
 slug: "bendy-builders-bendy-and-the-ink-machine-shorties"
 tags: ["CosiCast Shorties", "CosiCast"]
 title: "Bendy Builders | Bendy and the Ink Machine"
 layout: blog
+
+resources:
+  - name: header
+    src: bendy.jpg
 
 ---
 

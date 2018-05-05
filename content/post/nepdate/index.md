@@ -2,8 +2,12 @@
 layout: blog
 title: 'BrandonGiesing.com: The Nepdate!'
 date: 2017-01-23T17:52:52.000Z
-thumbnail: /images/uploads/nepdate.jpg
 draft: false
+
+resources:
+  - src: nepdate.jpg
+    name: header
+
 ---
 
 Funny titles aside, welcome to a new year with a new redesign for the site! Keep
