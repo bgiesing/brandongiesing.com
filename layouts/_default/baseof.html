@@ -15,11 +15,13 @@
     {{ end }}
     {{ partial "meta/name-author.html" . }}
     {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
     {{ partial "meta/ogimage-maybe.html" . }}
     {{ partial "meta/theme-color.html" . }}
     {{ if eq .Kind "home" }}
       {{ partial "head/site-verification.html" . }}
     {{ end }}
+    {{ partial "meta/http-referrer.html" . }}
     {{ template "_internal/google_analytics_async.html" . }}
     {{ if .RSSLink }}
       <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
@@ -33,16 +35,8 @@
     {{ end }}
     {{ partial "head/favicon.html" . }}
     {{ partial "global-styles.html" . }}
+    {{ partial "async-scripts.html" . }}
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-    {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}<!-- http://regexr.com/3f9d1 -->
-    {{ if ge (len $lazylist) 1 }}
-      <script async src="/js/lazysizes.min.js"></script>
-    {{ end }}
-    {{ if ne .Site.Params.seo.disable_bpg true }}
-      <script async src="/js/bpgdec8a.js"></script>
-      <script async src="/js/bpgdec8.js"></script>
-      <script async src="/js/bpgdec.js"></script>
-    {{ end }}
     <meta name="flattr:id" content="z7o6xx">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
