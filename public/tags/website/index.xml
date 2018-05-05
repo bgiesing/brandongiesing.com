@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on BrandonGiesing.com</title>
+    <link>https://brandongiesing.com/tags/website/</link>
+    <description>Recent content in Website on BrandonGiesing.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 27 Aug 2017 04:51:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://brandongiesing.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here Comes The Steem Train! | Updates &amp; Stuff 5</title>
+      <link>https://brandongiesing.com/2017/08/27/here-comes-the-steem-train--updates--stuff-5/</link>
+      <pubDate>Sun, 27 Aug 2017 04:51:30 +0000</pubDate>
+      
+      <guid>https://brandongiesing.com/2017/08/27/here-comes-the-steem-train--updates--stuff-5/</guid>
+      <description>Time for more updates! This one focuses a bit less on the website for once and more on other various projects!
+Steem I&amp;rsquo;m now on this blogging platform called Steem which you get paid to post. If that sounds familar, you might remember multiple platforms in the past that promised the same (Tsu, Rabadaba, etc.) but this one is quite a bit different!
+Unlike those, Steem is not only a blog but a full blown platform consisting of their own Crypto Currency (think Bitcoin), a blockchain (also like Bitcoin, allows everything to be verifible and distributed), and multiple apps (some official and some unofficial) based on said Blockchain and currency:</description>
+    </item>
+    
+    <item>
+      <title>Ghost 1.0, Apps, and More! | Updates &amp; Stuff 4</title>
+      <link>https://brandongiesing.com/2017/08/12/ghost-1.0-apps-and-more--updates--stuff-4/</link>
+      <pubDate>Sat, 12 Aug 2017 07:09:01 +0000</pubDate>
+      
+      <guid>https://brandongiesing.com/2017/08/12/ghost-1.0-apps-and-more--updates--stuff-4/</guid>
+      <description>A lot has changed since the last post but a lot of it isn&amp;rsquo;t visible so lets discuss it!
+Website Updates New Server As much as I loved using NearlyFreeSpeech, there was some issues with it involving Ghost. Ghost 1.0 just came out and now requires more stuff to install which NearlyFreeSpeech doesn&amp;rsquo;t allow being a shared host.
+So to upgrade to Ghost 1.0, I&amp;rsquo;ve moved over to DigitalOcean instead.</description>
+    </item>
+    
+  </channel>
+</rss>
