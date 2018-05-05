@@ -1,14 +1,17 @@
 ---
 title: "Devices | Money Routine"
-slug: "/money-devices"
 prev: "/money"
-next: "/money-tips"
+next: "/money/tips"
+
+aliases:
+    - /money-devices
+
 ---
 
 {{< hackcss-buttongroup >}}
     {{< hackcss-button type="primary" action="/money" >}}Previous Page:
         Introduction & Changelog{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-tips" >}}Next Page: Tips{{<
+    {{< hackcss-button type="primary" action="/money/tips" >}}Next Page: Tips{{<
         /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 

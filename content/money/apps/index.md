@@ -1,12 +1,18 @@
 ---
 title: "Apps & Sites | Money Routine"
-slug: "/money-apps"
+prev: "/money/tips"
+next: "/money/earnings"
+
+aliases:
+    - /money-apps
+
+
 ---
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-tips" >}}Previous Page:
+    {{< hackcss-button type="primary" action="/money/tips" >}}Previous Page:
         Tips{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-earnings" >}}Next Page:
+    {{< hackcss-button type="primary" action="/money/earnings" >}}Next Page:
         Earnings{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
@@ -363,8 +369,8 @@ For Bitcoin, you can use FreeBitco.in as mentioned above.
     basically no risk as it's all profit, this is a great way to do it.
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-tips" >}}Previous Page:
+    {{< hackcss-button type="primary" action="/money/tips" >}}Previous Page:
         Tips{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-earnings" >}}Next Page:
+    {{< hackcss-button type="primary" action="/money/earnings" >}}Next Page:
         Earnings{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}

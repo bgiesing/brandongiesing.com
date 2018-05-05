@@ -1,12 +1,15 @@
 ---
 title: "Earnings | Money Routine"
-slug: "/money-earnings"
-prev: "/money-apps"
+prev: "/money/apps"
 next: "/money"
+
+aliases:
+    - /money-earnings
+
 ---
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-apps" >}}Previous Page:
+    {{< hackcss-button type="primary" action="/money/apps" >}}Previous Page:
         Apps & Sites{{< /hackcss-button >}}
     {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{<
         /hackcss-button >}}
@@ -45,7 +48,7 @@ src="https://docs.google.com/spreadsheets/d/1OWhIacVX-3vljYiWP_IF0NCGQ5Af8unj9hv
 width="100%" height="480px" class="lazyload"></iframe>
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-apps" >}}Previous Page:
+    {{< hackcss-button type="primary" action="/money/apps" >}}Previous Page:
         Apps & Sites{{< /hackcss-button >}}
     {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{<
         /hackcss-button >}}

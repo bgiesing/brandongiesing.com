@@ -1,12 +1,14 @@
-+++
-author = "Brandon Giesing"
-date = 2016-12-27T02:49:35Z
-description = ""
-draft = false
-slug = "perk-tips"
-title = "Perk Tips"
+---
+author: "Brandon Giesing"
+date: 2016-12-27T02:49:35Z
+description: ""
+draft: false
+title: "Perk Tips"
 
-+++
+aliases:
+    - /perk-tips
+
+---
 
 When people think of "Passive Video Earning Apps", Perk is one of the biggest
 ones. Recently, they haven't been the best but they are still decent enough with

@@ -1,7 +1,7 @@
 ---
 title: "Money Routine"
-prev: "/money-earnings"
-next: "/money-devices"
+prev: "/money/earnings"
+next: "/money/devices"
 
 ---
 
@@ -15,9 +15,9 @@ day and most likely make more than an average person would doing this. Your
 results may very.
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-earnings" >}}Jump Directly
+    {{< hackcss-button type="primary" action="/money/earnings" >}}Jump Directly
         To Earnings{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-devices" >}}Start with
+    {{< hackcss-button type="primary" action="/money/devices" >}}Start with
         Devices{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
@@ -250,8 +250,8 @@ Here I'll mention what updates I made to this page.
   - Initial Version as my 1st Month of Money
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-earnings" >}}Jump Directly
+    {{< hackcss-button type="primary" action="/money/earnings" >}}Jump Directly
         To Earnings{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-devices" >}}Start with
+    {{< hackcss-button type="primary" action="/money/devices" >}}Start with
         Devices{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}

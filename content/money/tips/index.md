@@ -1,14 +1,17 @@
 ---
 title: "Tips | Money Routine"
-slug: "/money-tips"
-prev: "/money-devices"
-next: "/money-apps"
+prev: "/money/devices"
+next: "/money/apps"
+
+aliases:
+    - /money-tips
+
 ---
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-devices" >}}Previous Page:
+    {{< hackcss-button type="primary" action="/money/devices" >}}Previous Page:
         Devices{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-apps" >}}Next Page: Apps &
+    {{< hackcss-button type="primary" action="/money/apps" >}}Next Page: Apps &
         Sites{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
@@ -60,8 +63,8 @@ you would pay the $50 to buy the item for them while they give you $40. Even
 though you do lose some money... if you really needed it, it's still worth it.
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money-devices" >}}Previous Page:
+    {{< hackcss-button type="primary" action="/money/devices" >}}Previous Page:
         Devices{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-apps" >}}Next Page: Apps &
+    {{< hackcss-button type="primary" action="/money/apps" >}}Next Page: Apps &
         Sites{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}

@@ -1,12 +1,14 @@
-+++
-author = "Brandon Giesing"
-date = 2016-12-27T00:36:00Z
-description = ""
-draft = false
-slug = "instagc-tips"
-title = "InstaGC Tips"
+---
+author: "Brandon Giesing"
+date: 2016-12-27T00:36:00Z
+description: ""
+draft: false
+title: "InstaGC Tips"
 
-+++
+aliases:
+    - /instagc-tips
+
+---
 
 InstaGC is a great site for a few simple reasons:
 
