@@ -3,6 +3,8 @@ title: "Money Routine"
 prev: "/money/earnings"
 next: "/money/devices"
 
+layout: single
+
 ---
 
 If you are wondering how I making money with devices passively running while I
@@ -255,3 +257,5 @@ Here I'll mention what updates I made to this page.
     {{< hackcss-button type="primary" action="/money/devices" >}}Start with
         Devices{{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
+
+<br>
