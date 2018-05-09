@@ -38,6 +38,7 @@
     {{ partial "async-scripts.html" . }}
     <meta name="flattr:id" content="z7o6xx">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer async></script>
+    <link rel="manifest" href="/manifest.json">
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
   <body class="hack solarized-dark main container">
