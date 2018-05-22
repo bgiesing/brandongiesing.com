@@ -12,24 +12,26 @@ I want to keep this website (and most of what I do) availiable without really
 shitty ads. Below is a Crypto miner that will let you help by using a tiny bit
 of your CPU usage to make me some Cryptocurrency.
 
-<center><iframe scrolling="no" frameborder="0" class="lazyload" src="https://coinpot.co/mine/coinpottokens/?ref=0622613A3A04&mode=widget" style="overflow:hidden;width:324px;height:470px;"></iframe><center>
+<center><iframe scrolling="no" frameborder="0" class="lazyload" src="https://coinpot.co/mine/coinpottokens/?ref=0622613A3A04&mode=widget" style="overflow:hidden;width:324px;height:470px;"></iframe></center>
 
 ## FAQ
 
-Is this bad for my machine? Can I adjust it to use more or less of my PCs power?
+### Is this bad for my machine? Can I adjust it to use more or less of my PCs power?
+
 Unless your machine is a potato, likely no. By default it tries to auto detect
 what your PC can handle but if your PC is slowing down, you can try decreasing
 the Threads and/or Speed by pressing the +  and -  icons.
 
-I don't like the idea of this, do I have to do it?  Absolutely not! While this
-is way less intrusive than ads, I understand people still might not want to take
+### I don't like the idea of this, do I have to do it?
+
+Absolutely not! While this is way less intrusive than ads, I understand people still might not want to take
 part or can't because their hardware is shit. Just hover over the Hashes/S and
 Total numbers and click the Pause button that appears.
 
 ### Can I block this
 
 Yes! Some adblockers already do but if yours doesn't, you can also download
-something like [NoCoin][nocoin] to explictly block Miners like this.
+something like [minerBlock][minerblock] to explictly block Miners like this.
 
 I would suggest doing this even if you do want to do this as some malicious
 people have started using it in ads without offering an opt-in/opt-out like me
@@ -60,7 +62,7 @@ There's 2 things you can do:
 ### This is cool! How can I do this on my own site
 
 It's powered by [CoinHive][coinhive] so sign up and then use [the code on their
-documentation][documentation]. If you need help, feel free to contact me.
+documentation][docs]. If you need help, feel free to contact me.
 
 ### I used your old code before CoinHive released theirs and it's broken, HALP
 
@@ -71,7 +73,7 @@ I highly recomend you replace the code with the new official miner though if
 possible as it's simplier, allows customization of colors, autostart, disabling
 branding, and more.
 
-[nocoin]: https://chrome.google.com/webstore/detail/no-coin/gojamcfopckidlocpkbelmpjcgmbgjcl
+[minerblock]: https://chrome.google.com/webstore/detail/minerblock/emikbbbebcdfohonlaifafnoanocnebl
 [dynamic-filtering]: https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide
 [coinhive]: https://coinhive.com
-[documentation]: https://coinhive.com/documentation/simple-ui
+[docs]: https://coinhive.com/documentation/simple-ui
