@@ -56,3 +56,13 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS", "JSON"]
+  
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    simple = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
