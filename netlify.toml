@@ -6,9 +6,9 @@
   command = "hugo --buildFuture"
 # The default version you use for production if you don't use context
 [build.environment]
-  HUGO_VERSION = "0.40.2"
+  HUGO_VERSION = "0.41"
 # The version you use for production
 [context.production.environment]
-  HUGO_VERSION = "0.40.2"
+  HUGO_VERSION = "0.41"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.40.2"
+  HUGO_VERSION = "0.41"
