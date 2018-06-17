@@ -21,6 +21,8 @@ InstaGC is a great site for a few simple reasons:
 
 ## Changelog
 
+- v3: June 16th, 2018
+  - Move EngageMe info to [normal tips page.](/tips)
 - v2: March 3rd, 2017
   - Videology is now VideoLab
   - Sort by most used method
@@ -56,21 +58,6 @@ Find it on the OfferToro offer wall.
 - Weekly Bonus based on how many videos you watch and the "quality".
   - "Quality" includes things like users muting videos for example and it's
     based on every user combined, not just you.
-
-### [EngageMe.TV](http://EngageMe.TV)
-
-Under the AdWall Offer Wall (otherwise known as Adscend Media), do any of the
-EngageMe.TV offers.
-
-- You can make an account directly on EngageMe.TV and link it to your InstaGC
-  account. This means you can just go to EngageMe.TV to earn which is faster
-  than digging through AdWall.
-- With InstaGC having instant cashout, the fast earnings you make with
-  EngageMe.TV can be very quickly redeemed if you need a dollar in a pinch.
-
-The Flash powered ones like App Trailers are more resource intensive but do get
-you more ads so try to run them if possible. If you can't, the HTML5 ones like
-How-To and Gaming work also.
 
 ### hyperMX, AdBistro, and Volume11 videos
 

@@ -34,6 +34,24 @@ Here I'll mention what updates I made to this page.
 > other big changes (new tips, websites, devices), and the third is mostly for
 > very minor things like spelling.
 
+- v6.2: June 16th, 2018:
+  - Devices
+    - New temp main device due to my Robin's battery getting shot
+    - Robin is now a dedicated device
+    - Both Citrines changed to CashMagnet
+    - Updated what devices are on what app/site.
+    - Removed Seagate drives from Accessories since I no longer use Storj.
+    - Removed Store link since I no longer have Amazon Affiliate links.
+  - Apps
+    - Earn.gg rebranded to Eloot.gg and removed Gambling.
+    - GoP2Win discontinued.
+    - TheTechSlugs added a ref link.
+    - Merge Cross Media Panel and Google Opinion Rewards
+    - Moved KoinMe to Former due to the false bans.
+    - Added Acorns.
+  - Tips
+    - New EngageMe tips on main Tip page replacing the outdated InstaGC/Perk
+      sections.
 - v6.1: Feburary 17, 2018:
   - Removed Swagbucks/MyPoints since I got banned
   - Add 2018 earnings

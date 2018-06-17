@@ -20,10 +20,9 @@ The following is a list of apps/sites I use or have used in the past divided
 into sections of what type of stuff you do to earn. Each one includes some basic
 info and tips plus some even have dedicated pages full of tips for them.
 
-> If they are linked or include a code, it's my referral link! Plus, they are
-> shortened with Shorte.st which shows an ad redirect. So if they don't have a
-> link or you don't want to use my referrals/paid links, just search for them
-> with your favorite search engine instead.
+> If they are linked or include a code, it's my referral link! So if they don't
+> have a link or you don't want to use my referrals, just search for them with
+> your favorite search engine instead.
 
 ## Current
 
@@ -35,6 +34,11 @@ have to be made by themselves, not a third-party (like EngageMe for instance for
 videos). These usually pay big cause the vast amount of stuff you can do and the
 unique exclusive features.
 
+- [Earnably (Web)](https://earnably.com/i/bgiesing)
+  - Bonus Codes on Earnably's social media and some Beermoney sites have extra
+    codes (TheTechSlug's Facebook Group, BrokeStudentSupply, etc.)
+  - Offerwalls, Surveys, EngageMe, VideoLab, VideoLoyalty, and more.
+  - Instant cashouts if you are eligible for the Trusted Accounts program.
 - [InstaGC (Web)](https://www.instagc.com/bgiesing)
   - Instant cashouts, great if you need to quickly get an extra dollar or so.
   - [Tips](/instagc-tips/)
@@ -42,15 +46,12 @@ unique exclusive features.
   - [Tips](/perk-tips/)
 - [EarnHoney (Web/Apps)](http://www.earnhoney.com/home/?referrer=11E79239C4)
   - Some ads are really bad about crashing computers but when it works, it works
-    really good.
+    good.
 - Checkpoints (Apps) [Use Code: `bgiesing` for referral]
   - Tap "Play All" under videos.
   - Check into to nearby businesses.
   - Surveys
-- [Earnably (Web)](https://earnably.com/i/bgiesing)
-  - Daily codes on Earnably's social media and some Beermoney sites have bonus
-    codes (TheTechSlug's Facebook Group, BrokeStudentSupply, etc.)
-  - Offerwalls, Surveys, EngageMe, VideoLab, VideoLoyalty, and more.
+
 
 ### Offerwalls
 
@@ -59,17 +60,16 @@ providers like EngageMe, VideoLab, and VideoLoyalty with nothing provided by
 themselves. Not the fastest earners but if you are a busy person, most of these
 run with 24/7 with very little intervention!
 
-- [Earn.gg (Web)](https://earn.gg?ref=bgiesing)
-  - EngageMe, VideoLab, Offer Walls, and Daily Bonus
+- [Eloot.gg (Web)](https://eloot.gg?ref=bgiesing)
+  - EngageMe, VideoLab, Offer Walls, and a Discord Faucet
   - Pays in Bitcoin, PayPal, Gift Cards (including Amazon) and some gaming
     services for CS.GO skins
-  - Gambling
-  - Works as a Twitch tipping service (ala Streamlabs/TwitchAlerts or Streamtip)
   - 5% referral commissions for life and 1,000 point join bonus
-- [GoP2Win (Web)](http://gop2win.com/?ref=272)
-  - Run by a fellow "beermoney" user
-  - EngageMe and Adwall
-- TheTechSlugs
+- [Branded Surveys (Web)](https://surveys.gobranded.com/users/register/89a8303e2a83811fc6f79c65b)
+  - Surveys and Offers
+  - One of the highest payouts on EngageMe/Smores
+  - Slow cashouts.
+- [TheTechSlugs (Web)](https://thetechslugs-rewards.com/register?r=491)
   - Offerwall/EngageMe site run by fellow Beermoney member, TheTechSlugs, known
     for their $1K+/month routine videos on YouTube.
   - Also offers random TTS points via the Money Volcano multiple times a day
@@ -85,9 +85,6 @@ These apps play videos 24/7 with little to no intervention. Unlike the Offerwall
 and Variety categories above, these ones use videos by themselves and not a
 third-party provider and also it's the only thing they do.
 
-- [KoinMe (Web)](http://koinme.com/af-hpY89xFa1e)
-  - Super stable and fast
-  - Caps at about $1 a day, can get more with Refferals
 - YooLotto/YooRewards (Apps) [Use Code: `F9OUTA` for referral]
   - Run "Watch & Earn" 24/7
   - Most stable phone app and allows Unlimted devices
@@ -119,15 +116,19 @@ These sites/apps run 99.9999% passive and pay you for your data. One of the
 slowest but most consistent and least effort earners. However if you don't want
 to sell your data even for a reward, avoid these.
 
-- Cross Media Panel (Web/Apps)
-  - Install Chrome/Firefox add-on and Android/iOS apps
+- Google Opinion Rewards (Web/Apps)
+  - Merger of Cross Media Panel and the Opinion Rewards Survey app
+  - Survey App (Android and iOS)
+    - Super easy surveys that are usually at most 5 questions and take a minute
+    - Instant Play Store credit on Android app, $2 PayPal min cashout on iOS
+  - Panel App (Android, redeem on Web)
+    - 100 points = $1
+    - 200 points/week if you have the app installed on 1 phone and 1 tablet.
+    - Min cashout is 500 points, only Gift Cards like Amazon.
 - [Panel App by Placed (Apps)](http://panelapp.me/wti1)
   - iOS and Android
   - Connect Facebook for a bonus
   - Do bonus poll questions when you get the notification for it
-- Storj Share (Desktop)
-  - Dedicate hard drive space to chunks of other user's encrypted files and get
-    paid for "renting" it.
 - ShopTracker (Desktop/Apps)
   - $3 Prepaid VISA for sending them your Amazon history once a month.
 
@@ -194,11 +195,6 @@ audio/video, and more.
   - **TIP:** Use Hit Notifier, MT Suite, and Turkopticon to find new tasks, see
     stats, and find reviewers about tasks to reduce rejections from bad
     requesters as they can reduce what HITs you get.
-- Google Opinion Rewards (Apps)
-  - Super easy surveys that are usually at most 5 questions and take a minute
-  - Get Play Store credit for Android apps/games or media like movies, music,
-    books, magazines, TV Shows, etc.
-  - [Currently iOS only] Get PayPal when you get to $2
 - FreeEats.com (SMS)
   - Sign up and get text messages, click the link and get paid instantly to
     PayPal
@@ -296,6 +292,10 @@ at all, they take way too long to do, or are scams you should avoid.
 
 ### Videos
 
+- KoinMe (Web)
+  - Got banned in a mass exodus that removed a lot of legitimate users.
+  - Super stable and fast
+  - Caps at about $1 a day, can get more with Refferals
 - [InboxDollars (Web+Apps)](http://inboxdollars.com/?r=bgiesing)
   - Confirm all PaidEmails (2 cents each)
   - Do InboxDollars TV (I do the Tech channel as it's short videos)
@@ -326,6 +326,12 @@ at all, they take way too long to do, or are scams you should avoid.
   - Make a hashtag to categorize your posts! It's easier for people to vote on
     your stuff if they can find it (since Rabadaba doesn't let people filter
     redabs out of your profile.
+
+### Panels
+
+- Storj Share (Desktop)
+  - Dedicate hard drive space to chunks of other user's encrypted files and get
+    paid for "renting" it.
 
 ### Tasks/Surveys
 
@@ -361,11 +367,19 @@ For Bitcoin, you can use FreeBitco.in as mentioned above.
 
 > Stocks are very volatile! Don't go crazy and lose everything!
 
+- [Acorns (Web/Apps)](https://acorns.com/invite/25RXXG)
+  - Automatically rounds up change from purchases and invests it into Stocks
+  - Cashback when purchasing through them that gets invested.
+  - 3 monthly plans:
+    - Acorns ($1/month): Merely what's mentioned above.
+    - Acorns + Acorns Later ($2/month): What's above + a retirement IRA account.
+    - Acorns + Later + Spend ($3/month): A full checking account with instant
+     roundups, more cashback in local stores, and no extra fees.
 - [Robinhood](https://robinhood.com/referral/brandog408/)
   - Free (as in no fees, not no money entirely) to do stock market trading
-  - By joining with someone's Referral (mine above), you will get a completely
-    free share (so both no fees and no money from you) on join and a free share
-    for anyone who signs up under you! So if you want to try stocks with
+  - By joining with someone's Referral (like mine above), you will get a
+    completely free share (so both no fees & no money from you) on join & a free
+    share for anyone who signs up under you! So if you want to try stocks with
     basically no risk as it's all profit, this is a great way to do it.
 
 {{< hackcss-buttongroup >}}

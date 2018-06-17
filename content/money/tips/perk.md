@@ -16,6 +16,8 @@ not as many options.
 
 ## Changelog
 
+- v3: June 16th, 2018
+  - Move EngageMe info to [normal tips page.](/tips)
 - v2: March 3rd, 2017
   - Add Netflix Trailers to recommended Perk TV list.
   - Sort the apps by which ones I use more often
@@ -63,16 +65,6 @@ not as many options.
     lot of the times it will play 5-15 times and each one is usually 11 points.
 - Perk.tv/Viggle.tv
   - Choose Low Quality mode under the menu (click your avatar)
-
-### [EngageMe.TV][engageme]
-
-Just like InstaGC, you can do any of the EngageMe.TV offers under the Adscend
-Media Offer Wall. (otherwise known as AdWall) Go to Perk's site and find Adscend
-Media under Complete Offers
-
-The Flash powered ones like App Trailers are more resource intensive but do get
-you more ads so try to run them if possible. If you can't, the HTML5 ones like
-How-To and Gaming work also.
 
 ### Search
 
