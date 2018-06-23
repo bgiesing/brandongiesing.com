@@ -2,7 +2,7 @@
 title: "Welcome to BrandonGiesing.com!"
 ---
 
-{{< figure src="/images/uploads/homepage-header.jpg" alt="BrandonGiesing.com"
+{{< figure src="/images/uploads/me-logo.png" alt="BrandonGiesing.com"
     width="100%" >}}
 
 Welcome to the brand-new BrandonGiesing.com! The home of Brandon Giesing and
