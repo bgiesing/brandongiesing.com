@@ -14,7 +14,7 @@ resources:
   - src: nepdate.jpg
     name: header
 images:
-  - "/post/nepdate/nepdate.jpg"
+  - "/post/2017-01-23-nepdate/nepdate.jpg"
 
 ---
 
