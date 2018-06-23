@@ -1,5 +1,7 @@
 ---
 title: "CosiCast"
+
+layout: single
 ---
 
 {{< privacytube CSsZjAO5Uas >}}
