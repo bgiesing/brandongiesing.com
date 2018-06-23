@@ -1,11 +1,17 @@
 ---
 author: "Brandon Giesing"
-date: 2017-11-05T15:00:00Z
+title: "BrandonGiesing.com: The 'Inky Abyss' Update"
 description: "New Website updates!"
 draft: false
+date: 2017-11-05T15:00:00Z
 slug: "inky-abyss"
-title: "BrandonGiesing.com: The 'Inky Abyss' Update."
 layout: blog
+categories:
+  - Announcements
+tags:
+  - Hugo
+  - Steem
+  - Website Upgrades
 
 ---
 

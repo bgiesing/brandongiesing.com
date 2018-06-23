@@ -1,11 +1,19 @@
 ---
-layout: blog
-title: 'Minnows4Harvey Update'
-description: Donation Failed...
+author: "Brandon Giesing"
+title: "Minnows4Harvey Update"
+description: "Donation Failed..."
+draft: false
 date: '2017-09-09T02:58:53-05:00'
 publishdate: '2017-09-09T02:58:00-05:00'
-draft: false
+layout: blog
+categories:
+  - Steem
+tags:
+  - Charity
+  - Hurricane Harvey
+
 ---
+
 ![harvey.png](https://steemitimages.com/DQmeuEfgZ1WKrt24w69Ao98veeMaz4feQEiCMXQ7HUsPsnx/harvey.png)
 
 Thank you guys so much for the support of the #Minnows4Harvey charity post I did a week ago! I raised $9.05, $7.09 of which went to me for donations. The other $1.95 went to Curators who aren't required to but it would be nice for them to donate their earnings also.

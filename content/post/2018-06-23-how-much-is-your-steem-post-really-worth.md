@@ -1,11 +1,17 @@
 ---
-layout: blog
-title: How much is your Steem post really worth?
-description: STUs Simplifed + Calculator!
+author: "Brandon Giesing"
+title: "How much is your Steem post really worth?"
+description: "STUs Simplifed + Calculator!"
+draft: false
 date: '2018-01-29T08:38:00-06:00'
 publishdate: '2018-01-29T08:26:00-06:00'
-draft: false
+layout: blog
+categories:
+  - Technology
+  - Steem
+
 ---
+
 I've noticed a lot here recently in the [DTube Discord server](https://discord.gg/dtube) that I'm having to explain this new concept called an STU. So let's simplify my life (and yours) by explaining what the actual heck is an STU and how you can easily calculate it.
 
 ---

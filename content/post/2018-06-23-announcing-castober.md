@@ -1,11 +1,19 @@
 ---
-layout: blog
-title: 'Announcing Castober!'
-description: Redefining and Remaking CosiCast
+author: "Brandon Giesing"
+title: "Announcing Castober!"
+description: "Redefining and Remaking CosiCast"
+draft: false
 date: '2017-10-10T13:05:29-05:00'
 publishdate: '2017-10-10T13:05:00-05:00'
-draft: true
+layout: blog
+categories:
+  - CosiCast
+  - CAST Channel
+tags:
+  - CosiCast Shorties
+
 ---
+
 ![Castober.png](https://steemitimages.com/DQme57VP5Wih97dWDvjB7BTxUvygCGyHJoDA2MyymPi9Vo3/Castober.png)
 
 Having just past the 2 year anniversary of making videos made me reflect on what I've made over these past couple of years. Seeing what I liked the most, what I hated, and thinking about what I can do to improve. I've noticed multiple things that I want to discuss about below and I'll do it through a special event I'm calling Castober.

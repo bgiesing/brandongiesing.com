@@ -1,19 +1,19 @@
 ---
 author: "Brandon Giesing"
-categories: ["announcements", "CosiCast", "video-post-format"]
-date: 2017-06-27T14:52:43Z
-description: ""
-draft: false
-slug: "casting-to-new-heights-big-cosicast-update-2"
-tags: ["announcements", "CosiCast"]
 title: "Casting to new heights! | Big CosiCast Update!"
+description: "CosiCast is getting a major overhaul with some HUGE changes!"
+draft: false
+date: 2017-06-27T14:52:43Z
+slug: "casting-to-new-heights-big-cosicast-update-2"
 layout: blog
+categories:
+  - Announcements
+  - CosiCast
 
 ---
 
-{{< privacytube GGjEiO02ki4 >}}
 
-CosiCast is getting a major overhaul with some HUGE changes!
+{{< privacytube GGjEiO02ki4 >}}
 
 ## Redefining Current Shows
 

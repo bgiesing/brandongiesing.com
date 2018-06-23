@@ -1,13 +1,17 @@
 ---
 author: "Brandon Giesing"
-categories: ["Updates & Stuff", "announcements", "Website"]
-date: 2017-08-12T07:09:01Z
+title: "Ghost 1.0, Apps, and More! | Updates & Stuff 4"
 description: "Time for more Updates & Stuff! This one covers a big website upgrade, some cool design tweaks, Telegram, and more!"
 draft: false
-slug: "updates-stuff-4"
-tags: ["Updates & Stuff", "announcements", "Website"]
-title: "Ghost 1.0, Apps, and More! | Updates & Stuff 4"
+date: 2017-08-12T07:09:01Z
+slug: "updates-4"
 layout: blog
+categories:
+  - Announcements
+  - Updates & Stuff
+tags:
+  - Ghost
+  - Website Upgrades
 
 ---
 

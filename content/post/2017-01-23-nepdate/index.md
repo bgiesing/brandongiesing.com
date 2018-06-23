@@ -1,9 +1,15 @@
 ---
-layout: blog
-title: 'BrandonGiesing.com: The Nepdate!'
-date: 2017-01-23T17:52:52.000Z
+author: "Brandon Giesing"
+title: "BrandonGiesing.com: The Nepdate!"
 draft: false
-
+date: 2017-01-23T17:52:52.000Z
+layout: blog
+categories:
+  - Announcements
+tags:
+  - Steem
+  - CosiCast
+  - Website Upgrades
 resources:
   - src: nepdate.jpg
     name: header

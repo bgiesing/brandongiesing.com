@@ -1,13 +1,17 @@
 ---
 author: "Brandon Giesing"
-categories: ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
-date: 2017-08-27T04:51:30Z
-description: ""
-draft: false
-slug: "updates-stuff"
-tags: ["Updates & Stuff", "announcements", "Website", "CosiCast", "Steem"]
 title: "Here Comes The Steem Train! | Updates & Stuff 5"
+draft: false
+date: 2017-08-27T04:51:30Z
+slug: "updates-5"
 layout: blog
+categories:
+  - Announcements
+  - Updates & Stuff
+tags:
+  - Steem
+  - CosiCast
+  - Website Upgrades
 
 ---
 

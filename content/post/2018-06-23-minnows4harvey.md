@@ -1,11 +1,19 @@
 ---
-layout: blog
-title: 'Minnows4Harvey'
-description: Let's Help Raise Some Steem For Hurricane Harvey Relief!
+author: "Brandon Giesing"
+title: "Minnows4Harvey"
+description: "Let's Help Raise Some Steem For Hurricane Harvey Relief!"
+draft: false
 date: '2017-09-02T00:57:00-05:00'
 publishdate: '2017-09-02T00:57:31-05:00'
-draft: false
+layout: blog
+categories:
+  - Steem
+tags:
+  - Charity
+  - Hurricane Harvey
+
 ---
+
 ![harvey.png](https://steemitimages.com/DQmeuEfgZ1WKrt24w69Ao98veeMaz4feQEiCMXQ7HUsPsnx/harvey.png)
 
 In case you missed it, Texas in the US has been wrecked by Hurricane Harvey and many people have lost homes and died.

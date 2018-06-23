@@ -1,11 +1,14 @@
 ---
 author: "Brandon Giesing"
-date: 2016-09-19T10:01:12Z
-description: ""
-draft: false
-slug: "welcome-to-the-new-site"
 title: "Welcome to the new BrandonGiesing.com!"
+draft: false
+date: 2016-09-19T10:01:12Z
+slug: "welcome-to-the-new-site"
 layout: blog
+categories:
+  - Announcements
+tags:
+  - Update
 
 ---
 

@@ -1,11 +1,16 @@
 ---
-layout: blog
-title: Casting Over To Steemit
-description: Hello Steemit community!
+author: "Brandon Giesing"
+title: "Casting Over To Steemit"
+description: "Hello Steemit community!"
+draft: false
 date: '2017-08-19T17:39:00-05:00'
 publishdate: '2017-08-19T17:39:00-05:00'
-draft: false
+layout: blog
+categories:
+  - Steem
+
 ---
+
 My name is Brandon Giesing, I run a YouTube/Vidme channel called [CosiCast](https://www.youtube.com/channel/UCHxTk6XrnpHHsicLyw6RHsQ) where I make edits/mashups of various things from anime to games. I also do a lot of stuff in the Beermoney and Bitcoin communities so when I found out about this, I just had to join. (Special Thanks to @GamerPool / @btcvenom for telling me about this on the /r/Beermoney Discord, go check them out!)
 
 ![canvas.png](https://steemitimages.com/DQmYxvc1YHPMvXQWvKmmqdD9hgsKHdFzE5B2FkDsnkF5Zwc/canvas.png)
