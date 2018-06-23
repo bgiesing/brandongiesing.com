@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Announcing #Castober!'
+title: 'Announcing Castober!'
 description: Redefining and Remaking CosiCast
 date: '2017-10-10T13:05:29-05:00'
 publishdate: '2017-10-10T13:05:00-05:00'

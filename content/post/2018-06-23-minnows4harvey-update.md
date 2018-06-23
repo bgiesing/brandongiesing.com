@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: '#Minnows4Harvey Update'
+title: 'Minnows4Harvey Update'
 description: Donation Failed...
 date: '2017-09-09T02:58:53-05:00'
 publishdate: '2017-09-09T02:58:00-05:00'

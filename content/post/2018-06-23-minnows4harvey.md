@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: '#Minnows4Harvey'
+title: 'Minnows4Harvey'
 description: Let's Help Raise Some Steem For Hurricane Harvey Relief!
 date: '2017-09-02T00:57:00-05:00'
 publishdate: '2017-09-02T00:57:31-05:00'
@@ -12,7 +12,7 @@ In case you missed it, Texas in the US has been wrecked by Hurricane Harvey and 
 
 # #Minnows4Harvey
 
-All money raised via this post or sent to me with the memo `#Minnows4Harvey` will be donated to one of the charities below to help support Hurricane Harvey relief! 
+All money raised via this post or sent to me with the memo `#Minnows4Harvey` will be donated to one of the charities below to help support Hurricane Harvey relief!
 
 Anybody who comments #Minnows4Harvey that either upvoted or shares proof they donated via the below methods will get an upvote from me.
 
@@ -36,7 +36,7 @@ Check Out [GamesDoneQuick](https://www.twitch.tv/gamesdonequick)! 3 Days of Spee
 
 - [Red Cross](https://www.redcross.org/donate/hurricane-harvey)
 - [Save The Children](http://www.savethechildren.org/site/c.8rKLIXMGIpI4E/b.9534789/k.9D36/Hurricane_Harvey.htm)
-- [Direct Relief](https://www.directrelief.org/emergency/hurricane-harvey-response/) 
+- [Direct Relief](https://www.directrelief.org/emergency/hurricane-harvey-response/)
 
 # Donation Proof
 
