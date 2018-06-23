@@ -36,49 +36,47 @@ Here I'll mention what updates I made to this page.
 
 - v6.2: June 16th, 2018:
   - Devices
-    - New temp main device due to my Robin's battery getting shot
-    - Robin is now a dedicated device
-    - Both Citrines changed to CashMagnet
-    - Updated what devices are on what app/site.
-    - Removed Seagate drives from Accessories since I no longer use Storj.
-    - Removed Store link since I no longer have Amazon Affiliate links.
+      - New temp main device due to my Robin's battery getting shot
+      - Robin is now a dedicated device
+      - Both Citrines changed to CashMagnet
+      - Updated what devices are on what app/site.
+      - Removed Seagate drives from Accessories since I no longer use Storj.
+      - Removed Store link since I no longer have Amazon Affiliate links.
   - Apps
-    - Earn.gg rebranded to Eloot.gg and removed Gambling.
-    - GoP2Win discontinued.
-    - TheTechSlugs added a ref link.
-    - Merge Cross Media Panel and Google Opinion Rewards
-    - Moved KoinMe to Former due to the false bans.
-    - Added Acorns.
+      - Earn.gg rebranded to Eloot.gg and removed Gambling.
+      - GoP2Win discontinued.
+      - TheTechSlugs added a ref link.
+      - Merge Cross Media Panel and Google Opinion Rewards
+      - Moved KoinMe to Former due to the false bans.
+      - Added Acorns.
   - Tips
-    - New EngageMe tips on main Tip page replacing the outdated InstaGC/Perk
-      sections.
+      - New EngageMe tips on main Tip page replacing the outdated InstaGC/Perk
+        sections.
 - v6.1: Feburary 17, 2018:
   - Removed Swagbucks/MyPoints since I got banned
   - Add 2018 earnings
   - Devices
-    - No longer using a lot of them
-    - Changed some apps.
+      - No longer using a lot of them
+      - Changed some apps.
 - v6: August 23rd, 2017:
-  - Apps
-    - Reorganized a lot of sections
-      - Divide up Videos into Offerwall sites (sites that merely wraparound
-        3rd-party providers including Offerwalls like Adwall and Video providers
-        like EngageMe) and Videos (sites that use their own video provider
-        without other site features like surveys, search, etc.)
-      - Rename Bitcoin section to Faucets to account for posible Faucets in
-        non-Bitcoin currencies and to put sites that aren't faucets but still
-        Bitcoin focused in the right category.
-    - Add Search Category
-    - Added many new apps including Steem, Qmee, ShopTracker, CitizenMe, etc.
-  - Earnings
-    - Added Referral Links to apps that have them.
-    - Added Search and Offerwalls category like the apps page.
-    - Now displays amounts rounded to 2 decimal places instead of only the whole
-      number, should fix apps like Google Opinion Rewards showing $0 cause the
-      rounding.
+    - Apps
+       - Reorganized a lot of sections
+         - Divide up Videos into Offerwall sites (sites that merely wraparound
+          3rd-party providers including Offerwalls like Adwall and Video providers
+          like EngageMe) and Videos (sites that use their own video provider
+          without other site features like surveys, search, etc.)
+         - Rename Bitcoin section to Faucets to account for posible Faucets in
+          non-Bitcoin currencies and to put sites that aren't faucets but still
+          Bitcoin focused in the right category.
+      - Add Search Category
+      - Added many new apps including Steem, Qmee, ShopTracker, CitizenMe, etc.
+    - Earnings
+      - Added Referral Links to apps that have them.
+      - Added Search and Offerwalls category like the apps page.
+      - Now displays amounts rounded to 2 decimal places instead of only the whole number, should fix apps like Google Opinion Rewards showing $0 cause the rounding.
   - Devices
-    - Added Fire 7 tablet
-    - Removed 1 Zone 3 because more Battery bloat, all but 1 died
+      - Added Fire 7 tablet
+      - Removed 1 Zone 3 because more Battery bloat, all but 1 died
 
 ## Previous Changes
 
@@ -86,39 +84,39 @@ Here I'll mention what updates I made to this page.
 
 - v5.2: July 6th, 2017:
   - Apps/Sites
-    - Updated Bitcoin section with info on the new CoinPot site merge
-    - Rearrange some sites based on usage.
+      - Updated Bitcoin section with info on the new CoinPot site merge
+      - Rearrange some sites based on usage.
   - Devices
-    - Built a new PC for Main, moved Acer All-in-one to current, move HP Stream
-      and TOSHIBA Laptop to Former
-    - Add Acer R11 Laptop I got for free.
+      - Built a new PC for Main, moved Acer All-in-one to current, move HP Stream
+        and TOSHIBA Laptop to Former
+      - Add Acer R11 Laptop I got for free.
 - v5.1: June 2nd, 2017:
   - Apps/Sites
-    - Added PrizeRebel and moved Earn.GG to Variety section
-    - Added new Passive Interest section for savings accounts and moved the
-      stocks section there.
+      - Added PrizeRebel and moved Earn.GG to Variety section
+      - Added new Passive Interest section for savings accounts and moved the
+        stocks section there.
 - v5: May 29th, 2017:
   - Page Split!
-    - The previous sections are now split into multiple pages.
-    - Currently mostly moved the current sections to separate pages but will
-      eventually add new sections and make it more into a guide with more
-      detailed tips and info.
+      - The previous sections are now split into multiple pages.
+      - Currently mostly moved the current sections to separate pages but will
+        eventually add new sections and make it more into a guide with more
+        detailed tips and info.
   - Devices
-    - Updated some Primary/Secondary apps stuff
-    - Moved tip about buying devices from Tips section to it's own section here.
-    - Add promotion for the Store to buy what I use.
+      - Updated some Primary/Secondary apps stuff
+      - Moved tip about buying devices from Tips section to it's own section here.
+      - Add promotion for the Store to buy what I use.
   - Tips
-    - Separating Tips into sections like Device Management.
+      - Separating Tips into sections like Device Management.
   - Apps/Sites
-    - Add LeadsLeap to Link Shortners/Ad Monetization
+      - Add LeadsLeap to Link Shortners/Ad Monetization
 
 ### v4
 
 - v4.4: May 13th, 2017:
   - Apps/Sites
-    - Rename YooLotto to YooLotto/YooRewards to reflect the beta app.
-    - Add Robinhood
-    - Move Rabadaba to former as they are "pet-only" now and removed cashouts
+      - Rename YooLotto to YooLotto/YooRewards to reflect the beta app.
+      - Add Robinhood
+      - Move Rabadaba to former as they are "pet-only" now and removed cashouts
       except Pet Store Gift Cards.
 - v4.3: May 3rd, 2017:
     - Devices
