@@ -42,7 +42,7 @@
     <link rel="manifest" href="/manifest.json">
   </head>
   {{ $theme_variant := .Site.Params.theme_variant | default "hack dark" }}
-  <body class="hack solarized-dark main container">
+  <body class="hack cosicast main container">
     <header>{{ block "header" . }}{{ end }}</header>
     <main>{{ block "main" . }}{{ end }}</main>
     <footer>{{ block "footer" . }}{{ end }}{{ partial "social.html" . }}</footer>

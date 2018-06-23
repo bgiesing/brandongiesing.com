@@ -2,7 +2,7 @@ baseURL = "https://brandongiesing.com/"
 languageCode = "en-US"
 title = "BrandonGiesing.com"
 theme = "afterdark"
-theme_variant = "hack solarized-dark"
+theme_variant = "hack cosicast"
 
 disqusShortname = "brandongiesing"
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
@@ -59,7 +59,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS", "JSON"]
-  
+
 [privacy]
   [privacy.googleAnalytics]
     disable = true
