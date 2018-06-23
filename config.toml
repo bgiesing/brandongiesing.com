@@ -48,10 +48,13 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
   post = "/:year/:month/:day/:title/"
 
 [params]
-  author = "Brandon Giesing" # Optional, controls author name display on posts
-  hide_author = true # Optional, set true to hide author name on posts
-  show_menu = true # Optional, set true to enable section menu
-  powered_by = false # Optional, set false to disable credits
+  author = "Brandon Giesing"
+  hide_author = true
+  show_menu = true
+  powered_by = false
+
+[params.seo]
+  telegram_channel = "CosiCorner"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

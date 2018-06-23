@@ -13,6 +13,9 @@ resources:
   - name: header
     src: bendy.jpg
 
+images:
+  - "/post/bendy/bendy.jpg"
+
 ---
 
 {{< privacytube mAbuDh5d9zI >}}

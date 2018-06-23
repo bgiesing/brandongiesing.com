@@ -7,6 +7,8 @@ draft: false
 resources:
   - src: nepdate.jpg
     name: header
+images:
+  - "/post/nepdate/nepdate.jpg"
 
 ---
 
