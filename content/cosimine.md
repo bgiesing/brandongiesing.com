@@ -20,8 +20,8 @@ of your CPU usage to make me some Cryptocurrency.
    data-whitelabel="true"
    data-background="#001"
    data-text="#fff"
-   data-graph="#fff000"
-   data-action="#ed008c">
+   data-graph="#ed008c"
+   data-action="#fff000">
 	<em>Loading...</em>
 </div></center>
 
@@ -49,10 +49,11 @@ people have started using it in ads without offering an opt-in/opt-out like me
 and others have done. It will allow you to whitelist this and other good sites
 while blocking others.
 
-It says "Disable Your Adblock", do I have to and How?  Because some websites
-were shady and added it without telling anyone (Looking at you Pirate Bay), many
-adblockers added CoinHive to their block lists. This means the miner might not
-work with Adblock enabled.
+### It says "Disable Your Adblock", do I have to and How?
+
+Because some websites were shady and added it without telling anyone (Looking at
+you Pirate Bay), many adblockers added CoinHive to their block lists. This means
+the miner might not work with Adblock enabled.
 
 There's 2 things you can do:
 
