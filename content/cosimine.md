@@ -12,7 +12,18 @@ I want to keep this website (and most of what I do) availiable without really
 shitty ads. Below is a Crypto miner that will let you help by using a tiny bit
 of your CPU usage to make me some Cryptocurrency.
 
-<center><iframe scrolling="no" frameborder="0" class="lazyload" src="https://coinpot.co/mine/coinpottokens/?ref=0622613A3A04&mode=widget" style="overflow:hidden;width:324px;height:470px;"></iframe></center>
+<center><script src="https://authedmine.com/lib/simple-ui.min.js" async defer></script>
+<div class="coinhive-miner" 
+	style="width: 100%; height: 300px"
+	data-key="UB0lonLFJXV0T5HYTiTcqgEJhcI9cxKW"
+   data-autostart="true"
+   data-whitelabel="true"
+   data-background="#001"
+   data-text="#fff"
+   data-graph="#fff000"
+   data-action="#ed008c">
+	<em>Loading...</em>
+</div></center>
 
 ## FAQ
 
