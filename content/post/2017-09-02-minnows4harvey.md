@@ -34,17 +34,17 @@ If you also make your own #Minnows4Harvey post, link it below and I'll add it to
 
 ![](https://steemitimages.com/DQmYwDsEqAvBotNtBXbjxEFjy6DnRmG5YvE5dGR7mkmfhQ2/image.png)
 
-Check Out [GamesDoneQuick](https://www.twitch.tv/gamesdonequick)! 3 Days of Speedrunning games on Twitch for the Houston Food Bank
+Check Out [GamesDoneQuick](https://twitch.tv/gamesdonequick)! 3 Days of Speedrunning games on Twitch for the Houston Food Bank
 
 ![](https://steemitimages.com/DQmbzB1ovk8UwutCCnKUZFJ6MiKgjF1zvaqFhxZ4vQT2kjT/image.png)
 
-[Twitch Texas](https://www.twitch.tv/twitchtexas) is doing a 3 day game marathon also if you prefer slower games.
+[Twitch Texas](https://twitch.tv/twitchtexas) is doing a 3 day game marathon also if you prefer slower games.
 
 ## Direct Donations
 
-- [Red Cross](https://www.redcross.org/donate/hurricane-harvey)
-- [Save The Children](http://www.savethechildren.org/site/c.8rKLIXMGIpI4E/b.9534789/k.9D36/Hurricane_Harvey.htm)
-- [Direct Relief](https://www.directrelief.org/emergency/hurricane-harvey-response/)
+- [Red Cross](https://redcross.org/donate/hurricane-harvey)
+- [Save The Children](http://savethechildren.org/site/c.8rKLIXMGIpI4E/b.9534789/k.9D36/Hurricane_Harvey.htm)
+- [Direct Relief](https://directrelief.org/emergency/hurricane-harvey-response/)
 
 # Donation Proof
 

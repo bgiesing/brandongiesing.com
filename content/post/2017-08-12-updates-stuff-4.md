@@ -93,5 +93,5 @@ Overall the site should be running way better now! If you notice any issues, let
 me know. See you guys next time!
 
 [digitalocean]: https://m.do.co/c/48175f5b14f3
-[vidme]: http://vid.me
+[vidme]: https://vid.me
 [telegram]: https://t.me/CosiCorner

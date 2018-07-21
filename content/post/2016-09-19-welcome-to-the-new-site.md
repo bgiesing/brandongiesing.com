@@ -104,5 +104,5 @@ Please tell me any feedback by commenting below with Disqus or emailing me at
 me@brandongiesing.com! Thanks!
 
 [ghost]: https://ghost.org
-[ghosted]: http://ghosted.it
-[old]: http://old.brandongiesing.com
+[ghosted]: https://ghosted.it
+[old]: https://brandongiesing.com

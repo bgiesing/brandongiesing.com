@@ -87,4 +87,4 @@ Thanks again for all the support and I'll see you guys next time!
 [my-website]: https://brandongiesing.com/2017/08/27/updates-stuff
 [steemit-post]: https://steemit.com/life/@brandongiesing/here-comes-the-steem-train-or-updates-and-stuff-5
 [blog]: https://steemit.com/@brandongiesing
-[vidme]: http://vid.me
+[vidme]: https://vid.me

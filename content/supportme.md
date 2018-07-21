@@ -46,7 +46,7 @@ if you want an alert to appear while I'm livestreaming.
 If you want to support me on an on-going basis, there's two separate ways you
 can do it:
 
-- [Patreon](https://www.patreon.com/BrandonGiesing)
+- [Patreon](https://patreon.com/BrandonGiesing)
 - [GameWisp](http://gamewisp.com/channel/brandongiesing)
 
 Both get you extra benefits at various tiers based on how much you choose to
@@ -102,4 +102,4 @@ Just contact me at <me@brandongiesing.com> or on my
 
 - My (shitty) Remixes on [Bandcamp](https://bgiesing.bandcamp.com)
 - Clothing, Stickers, and other merch products on
-  [Redbubble](http://www.redbubble.com/people/bgiesing)
+  [Redbubble](http://redbubble.com/people/bgiesing)

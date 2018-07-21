@@ -55,7 +55,7 @@ CASTchannel is my 2nd try at the idea, I'm currently working on it.
 
 ### Vox Variety (DISC)
 
-{{< figure src="https://www.sideprojectors.com/img/projects/3539-0-original.jpg"
+{{< figure src="https://sideprojectors.com/img/projects/3539-0-original.jpg"
 alt="Vox Variety Logo" width="100%" >}} Before Pravox Networks, Vox Variety
 tried to be an internet radio station mixing popular music with small indie
 artists who can't get on radio.
@@ -86,8 +86,8 @@ Based on PA GApps remover by TKRuzze, it added:
 
 {{< hackcss-buttongroup >}}
     {{< hackcss-button type="primary"
-        action="http://forum.xda-developers.com/showthread.php?t=2870264" >}}XDA
-        Thread (Unsupported){{< /hackcss-button >}}
+        action="https://forum.xda-developers.com/showthread.php?t=2870264"
+        >}}XDA Thread (Unsupported){{< /hackcss-button >}}
 {{< /hackcss-buttongroup >}}
 
 #### GApps
@@ -197,7 +197,7 @@ Google's Live Channels app.
   preset](https://github.com/Fleker/CumulusTV/issues/32)
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="http://cumulustv.herokuapp.com"
+    {{< hackcss-button type="primary" action="https://cumulustv.herokuapp.com"
         >}}Official Website{{< /hackcss-button >}}
     {{< hackcss-button type="primary"
         action="https://github.com/Fleker/CumulusTV" >}}GitHub Source Code{{<
@@ -215,14 +215,14 @@ MM/DD/YYYY)`.
 A website for news on Google's Chrome, Chrome OS, Chromebooks, Chromecast, and
 more.
 
-- [File Manager on NTP & New Chromoting UI (6/5/2011)](http://goo.gl/31XK7K)
-- [Your Chromebook and Windows (9/13/2011)](http://goo.gl/CjhJ8R)
-- [Ssssh!! Secret: Try This Mystery Keyboard (11/2/2011)](http://goo.gl/IVQrfo)
-- [Is This a Bug or an Easter Egg? (11/22/2011)](http://goo.gl/6IiTBj)
-- [Chrome's Settings Gets New Fluid UI (2/2/2012)](http://goo.gl/meKtXW)
-- [Chrome OS Gets A Quick Makeup (6/16/2012)](http://goo.gl/frNh5N)
+- [File Manager on NTP & New Chromoting UI (6/5/2011)](https://goo.gl/31XK7K)
+- [Your Chromebook and Windows (9/13/2011)](https://goo.gl/CjhJ8R)
+- [Ssssh!! Secret: Try This Mystery Keyboard (11/2/2011)](https://goo.gl/IVQrfo)
+- [Is This a Bug or an Easter Egg? (11/22/2011)](https://goo.gl/6IiTBj)
+- [Chrome's Settings Gets New Fluid UI (2/2/2012)](https://goo.gl/meKtXW)
+- [Chrome OS Gets A Quick Makeup (6/16/2012)](https://goo.gl/frNh5N)
 - [Coming Soon: Cast Your Desktop (Without the Extension)
-  (6/11/2015)](http://www.chromestory.com/2015/06/coming-soon-to-chromebooks-cast-your-desktop-without-the-google-cast-extension/)
+  (6/11/2015)](https://www.chromestory.com/2015/06/coming-soon-to-chromebooks-cast-your-desktop-without-the-google-cast-extension/)
 - [Here is the New Google Chrome Logo
   (9/2/2015)](https://www.chromestory.com/2015/09/here-is-the-new-google-chrome-logo)
 
@@ -231,15 +231,15 @@ more.
 Another Google Chrome news site like Chrome Story.
 
 - [You'll Soon Be Able to 'Cast' Your Entire Chromebook Desktop
-  (6/11/2015)](http://www.omgchrome.com/native-desktop-casting-coming-to-chrome-os/)
+  (6/11/2015)](https://www.omgchrome.com/native-desktop-casting-coming-to-chrome-os/)
 
 ### Google Operating System
 
 A website for news on all Google products.
 
 - [Google Payments
-  (6/10/2015)](http://googlesystem.blogspot.com/2015/06/google-payments.html)
+  (6/10/2015)](https://googlesystem.blogspot.com/2015/06/google-payments.html)
 - [Inline Search Results in Mobile Google Search
-  (8/19/2015)](http://googlesystem.blogspot.com/2015/08/inline-search-results-in-mobile-google.html)
+  (8/19/2015)](https://googlesystem.blogspot.com/2015/08/inline-search-results-in-mobile-google.html)
 - [Google Album Archive
-  (7/30/2016)](http://googlesystem.blogspot.com/2016/07/google-album-archive.html)
+  (7/30/2016)](https://googlesystem.blogspot.com/2016/07/google-album-archive.html)

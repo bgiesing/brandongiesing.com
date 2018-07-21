@@ -11,7 +11,7 @@ categories:
 
 ---
 
-My name is Brandon Giesing, I run a YouTube/Vidme channel called [CosiCast](https://www.youtube.com/channel/UCHxTk6XrnpHHsicLyw6RHsQ) where I make edits/mashups of various things from anime to games. I also do a lot of stuff in the Beermoney and Bitcoin communities so when I found out about this, I just had to join. (Special Thanks to @GamerPool / @btcvenom for telling me about this on the /r/Beermoney Discord, go check them out!)
+My name is Brandon Giesing, I run a YouTube/Vidme channel called [CosiCast](https://youtube.com/channel/UCHxTk6XrnpHHsicLyw6RHsQ) where I make edits/mashups of various things from anime to games. I also do a lot of stuff in the Beermoney and Bitcoin communities so when I found out about this, I just had to join. (Special Thanks to @GamerPool / @btcvenom for telling me about this on the /r/Beermoney Discord, go check them out!)
 
 ![canvas.png](https://steemitimages.com/DQmYxvc1YHPMvXQWvKmmqdD9hgsKHdFzE5B2FkDsnkF5Zwc/canvas.png)
 

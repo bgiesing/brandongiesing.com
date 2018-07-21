@@ -40,4 +40,4 @@ https://plus.google.com/+YourProfileName?rel=author
 
 That should be it! Now Google+ comments should work on your site!
 
-[1]: http://harleykwyn.com/google-comments-in-jekyll/
+[1]: https://web.archive.org/web/20141213020911/http://harleykwyn.com:80/google-comments-in-jekyll

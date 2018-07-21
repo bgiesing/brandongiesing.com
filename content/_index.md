@@ -13,15 +13,3 @@ various projects like CosiCast, CASTchannel, and the Beermoney Guide.
 I'm a 20 year old who loves Technology, Animation, Music, and more who spends my
 free time making websites, fast-paced edit videos, making money, and
 livestreaming on Twitch.
-
-<script async>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>

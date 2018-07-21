@@ -34,12 +34,12 @@ Energy - Michael Craig & Oliver Godfrey
 
 ### CAMILA CUEVAS
 
-- [Facebook](https://www.facebook.com/CamiAnimations/)
-- [DeviantArt](http://camilaanims.deviantart.com/)
-- [Tumblr](http://camilaart.tumblr.com/)
+- [Facebook](https://facebook.com/CamiAnimations/)
+- [DeviantArt](https://deviantart.com/camilaanims)
+- [Tumblr](https://camilaart.tumblr.com/)
 - [Twitter](https://twitter.com/camilacuevaszu)
-- [Twitch](https://www.twitch.tv/camila2929)
-- [Patreon](https://www.patreon.com/camilacuevas)
+- [Twitch](https://twitch.tv/camila2929)
+- [Patreon](https://patreon.com/camilacuevas)
 
 ### THE GLITCHTALE CAST/CREW
 

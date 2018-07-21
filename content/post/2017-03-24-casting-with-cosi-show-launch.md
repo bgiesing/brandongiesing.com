@@ -15,4 +15,4 @@ I launched a cool new variety radio show/podcast on [Anchor.fm][anchor]! Check
 it out at the [show page][cwc].
 
 [anchor]: https://anchor.fm
-[cwc]: http://brandongiesing.com/cwcshow
+[cwc]: https://brandongiesing.com/cwcshow

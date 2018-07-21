@@ -44,7 +44,7 @@ unique exclusive features.
   - [Tips](/instagc-tips/)
 - [Perk (Web/Apps)](https://perk.com/r/58c58a73/perk_aphone_points)
   - [Tips](/perk-tips/)
-- [EarnHoney (Web/Apps)](http://www.earnhoney.com/home/?referrer=11E79239C4)
+- [EarnHoney (Web/Apps)](https://www.earnhoney.com/home/?referrer=11E79239C4)
   - Some ads are really bad about crashing computers but when it works, it works
     good.
 - Checkpoints (Apps) [Use Code: `bgiesing` for referral]
@@ -142,7 +142,7 @@ withdraw as soon as price drops significantly to minimize loss.
 > These won't be included in the earnings below because of Bitcoin's constant
 > price changes.
 
-- [FreeBitco.in (Web)](http://freebitco.in/?r=1974584)
+- [FreeBitco.in (Web)](https://freebitco.in/?r=1974584)
   - Fill out the CAPATCHA and claim once an hour.
   - Disable Lottery in Settings and try to stock up on Reward Points (RP) by
     redeeming RP for a RP bonus on each roll. Once you have a nice stock of RPs
@@ -171,16 +171,16 @@ withdraw as soon as price drops significantly to minimize loss.
     - Claim once a day (by UTC time) as when it's built up, you will get a
       bigger mystery bonus and a daily bonus
     - Can do offers to make the bonus bigger and earn more.
-    - [MoonBitcoin (Web)](http://moonbit.co.in/?ref=302251460c30)
+    - [MoonBitcoin (Web)](https://moonbit.co.in/?ref=302251460c30)
       - [MoonBitcoin Only] Can do CoinHive Mining to increase the bonus
-    - [MoonLitecoin (Web)](http://moonliteco.in/?ref=fc77d3842e7b)
-    - [MoonDogecoin (Web)](http://moondoge.co.in/?ref=ea495a9cb972)
-    - [MoonDash (Web)](http://moondash.co.in/?ref=03A76891F0E4)
-    - [MoonCash (Web)](http://moonb.ch/?ref=86770F67F495)
-  - [BitFun (Web)](http://bitfun.co/?ref=64002ECDDE0D)
+    - [MoonLitecoin (Web)](https://moonliteco.in/?ref=fc77d3842e7b)
+    - [MoonDogecoin (Web)](https://moondoge.co.in/?ref=ea495a9cb972)
+    - [MoonDash (Web)](https://moondash.co.in/?ref=03A76891F0E4)
+    - [MoonCash (Web)](https://moonb.ch/?ref=86770F67F495)
+  - [BitFun (Web)](https://bitfun.co/?ref=64002ECDDE0D)
      - The longer you wait the bigger the claim will be, no bonus though so
        claim whenever you want.
-  - [BonusBitcoin (Web)](http://bonusbitcoin.co/?ref=459A9F8098E6)
+  - [BonusBitcoin (Web)](https://bonusbitcoin.co/?ref=459A9F8098E6)
      - Claim every 15 minutes, doesn't get bigger by waiting like the other two.
 
 ### Tasks/Surveys
@@ -233,7 +233,7 @@ Android due to iOS limitations.
 - SurveyCow (Apps)
   - Answer a simple multiple choice question everytime you unlock
   - Pays in PayPal
-- [SlideJoy (Apps)](https://www.getslidejoy.com/r2/HOI23Py3AR-t4MXc9ovwXw)
+- [SlideJoy (Apps)](https://getslidejoy.com/r2/HOI23Py3AR-t4MXc9ovwXw)
   - Lockscreen app that pay's a variable amount when you unlock your screen.
 
 ### Link Shortners/Ad Monetization
@@ -243,7 +243,7 @@ or a "redirect" page with an ad on a shortened link. Can be effective if you
 have lots of people viewing your content that will click links but be warned as
 a lot of them have some bad ads that can give viruses so choose carefully.
 
-- [Shorte.st (Web)](http://join-shortest.com/ref/5d0a38f059)
+- [Shorte.st (Web)](https://join-shortest.com/ref/5d0a38f059)
   - Link Shortening
   - Script for your site that shows entry/exit ads and auto shortens links.
   - Pays via PayPal
@@ -296,7 +296,7 @@ at all, they take way too long to do, or are scams you should avoid.
   - Got banned in a mass exodus that removed a lot of legitimate users.
   - Super stable and fast
   - Caps at about $1 a day, can get more with Refferals
-- [InboxDollars (Web+Apps)](http://inboxdollars.com/?r=bgiesing)
+- [InboxDollars (Web+Apps)](https://inboxdollars.com/?r=bgiesing)
   - Confirm all PaidEmails (2 cents each)
   - Do InboxDollars TV (I do the Tech channel as it's short videos)
   - Do the 50 daily videos in the video section (not TV, confusing right?)
@@ -314,7 +314,7 @@ at all, they take way too long to do, or are scams you should avoid.
 
 ### Social Networking
 
-- [Rabadaba (Web+Apps)](http://www.rabadaba.com/welcome/bgiesing)
+- [Rabadaba (Web+Apps)](https://rabadaba.com/welcome/bgiesing)
   - Changed into a pet-focused site, not bad if you want that but I personally
     used it for promoting art/videos so it's not useful for me specifically
     anymore.
@@ -340,7 +340,7 @@ at all, they take way too long to do, or are scams you should avoid.
 
 ### Others
 
-- [FeaturePoints (Apps)](http://featu.re/RP46ZM)
+- [FeaturePoints (Apps)](https://featu.re/RP46ZM)
   - Download apps to make money
   - Awesome referral program where you get 50% of what your friends get for
     life!

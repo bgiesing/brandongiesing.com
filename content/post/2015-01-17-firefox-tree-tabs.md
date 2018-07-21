@@ -50,11 +50,11 @@ and cooler when maximized and allows better window tiling!
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 [2]: https://adblockplus.org/en/
-[3]: https://www.eff.org/https-everywhere
+[3]: https://eff.org/https-everywhere
 [4]: https://ddg.gg
 [5]: https://tmp.garyr.net/
 [6]: https://getlazarus.com/
 [7]: https://sessionmanager.mozdev.org/
-[8]: https://www.s3blog.org/
+[8]: https://s3blog.org/
 [9]: https://addons.mozilla.org/en-US/firefox/addon/ft-deepdark/
 [10]: https://cupoflinux.com

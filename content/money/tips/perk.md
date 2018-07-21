@@ -83,7 +83,7 @@ Perk Codes are shared on their social media and are usually about 10-50 points.
 [SBCodez][sbcodez] posts them as soon as they come out in their chat box and on
 a 2nd Twitter account. (which you can use to get SMS/Push notifications)
 
-[engageme]: http://engageme.tv
-[perk]: http://perk.com
-[bonus-video]: http://perk.com/bonus/video
-[sbcodez]: http://sbcodez.com
+[engageme]: https://engageme.tv
+[perk]: https://perk.com
+[bonus-video]: https://perk.com/bonus/video
+[sbcodez]: https://sbcodez.com

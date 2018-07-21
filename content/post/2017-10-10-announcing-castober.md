@@ -107,7 +107,7 @@ Recurring Shows include:
 - Monstercat: Call of the Wild
 - Nostalgia Critic
 
-[Check it out right now!](http://intenu.com/CAST)
+[Check it out right now!](https://intenu.com/CAST)
 
 tl:dr: Remaking some old videos this month along with finally launching CAST Channel and some other new vids.
 

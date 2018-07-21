@@ -89,7 +89,7 @@ There's 3 types of codes:
     can enter for so many points
   - These aren't time-limited by an hour. They are usually available until the
     next day when they post a new code.
-  - [SBCodez](http://sbcodez.com) (who also does the SB codes) posts them as
+  - [SBCodez](https://sbcodez.com) (who also does the SB codes) posts them as
     soon as they come out in their chat box and on a 2nd Twitter account (which
     you can use to get SMS/Push notifications.)
 - Chat codes

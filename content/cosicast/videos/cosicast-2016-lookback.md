@@ -44,10 +44,10 @@ this year!
 ### Winter Early 2016
 
 Early in the year I was using an editor named Adobe Premiere Clip on a BLU
-Energy X Plus.This was a problem for a couple of reasons... First, Premire Clip
-had many bugs and the videos weren't as polished. Second, that phone had little
-space and the app downloaded all projects (even old ones) offline and if you
-deleted them, you could never make changes.
+Energy X Plus. This was a problem for a couple of reasons... First, Premiere
+Clip had many bugs and the videos weren't as polished. Second, that phone had
+little space and the app downloaded all projects (even old ones) offline and if
+you deleted them, you could never make changes.
 
 The first video of the year in January was the 3rd version of my Stamp on the
 Ground mashup. 1st one had just Gravity Falls, 2nd added Star vs the Forces of
@@ -55,10 +55,10 @@ Evil, and the 3rd one added many other things I liked to make a "life mashup".
 
 ### Spring 2016
 
-Jump to April and I recieved early access to an Android version of an iOS only
+Jump to April and I received early access to an Android version of an iOS only
 app named Replay. This was awesome as it made way fancier videos than Clip and
 it had less bugs. The main issue was it had a forced watermark but that was only
-temporary for the inital betas.
+temporary for the initial betas.
 
 The first video edited with Replay was The Seven Falls FMV. Since my device was
 so low powered still, I couldn't use basically any of those fancy effects and
@@ -81,7 +81,7 @@ Pravox" promos which evolved into Promo Promotions.
 
 ### Fall 2016
 
-Jump to September and this is when a big shift occured! First I got a new phone
+Jump to September and this is when a big shift occurred! First I got a new phone
 (the Nextbit Robin) so I could finally used 1080p footage with no issues or
 render bugs. Second, I introduced the first of the 4 series with the Turbo
 Flowers FMV! Before this I just called most of my videos "Mashups" but their was
@@ -127,7 +127,7 @@ some ideas!
    Prime.
 3. Expand the content I base from. Currently I'm basically in a bubble of
    Gravity Falls, Star vs., Undertale/Glitchtale, Creators (like The8BitDrummer,
-   Lost Pause, etc), and Neptunia but with a limited pool to pick from, I run
+   Lost Pause, etc.), and Neptunia but with a limited pool to pick from, I run
    out of ideas easily.
 4. Possible new series that aren't scheduled (like the current 4). One idea I've
    had for a while is "React Recap" where unlike traditional "Blind Reactions" I
@@ -141,5 +141,5 @@ Either way, thank you guys (and girls) so much for watching my content! While I
 rarely get comments so I don't know how many people actually watch, if you do
 I'm glad you keep coming back for more. I hope you have a great holiday season!
 
-[pluto]: http://pluto.TV
-[vidme]: http://vid.me
+[pluto]: https://pluto.tv
+[vidme]: https://vid.me

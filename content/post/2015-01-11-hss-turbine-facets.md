@@ -76,6 +76,6 @@ I hope that you enjoyed this installment of Home Screen Sunday (HSS)!
 If you want to send me a Home Screen to be featured, e-mail me at
 <me@brandongiesing.com> starting with the subject `[HSS Blog]`!
 
-[Facets]: http://goo.gl/XHmbrk
-[Squatch Icons]: http://goo.gl/Rsxayq
-[Action Launcher]: http://goo.gl/6UvYxY
+[Facets]: https://goo.gl/XHmbrk
+[Squatch Icons]: https://goo.gl/Rsxayq
+[Action Launcher]: https://goo.gl/6UvYxY
