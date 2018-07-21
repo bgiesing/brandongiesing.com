@@ -15,7 +15,7 @@ tags:
 
 I'm a Chrome Die-Hard, but today I am trying out Firefox with Tree Style Tabs. This may make me switch!
 
-![Firefox with Addons](http://i.imgur.com/HS4ykf8.png)
+![Firefox with Addons](https://i.imgur.com/HS4ykf8.png)
 
 ## What is Tree Style Tabs?
 
@@ -51,10 +51,10 @@ and cooler when maximized and allows better window tiling!
 [1]: https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 [2]: https://adblockplus.org/en/
 [3]: https://www.eff.org/https-everywhere
-[4]: http://ddg.gg
-[5]: http://tmp.garyr.net/
-[6]: http://getlazarus.com/
-[7]: http://sessionmanager.mozdev.org/
-[8]: http://www.s3blog.org/
+[4]: https://ddg.gg
+[5]: https://tmp.garyr.net/
+[6]: https://getlazarus.com/
+[7]: https://sessionmanager.mozdev.org/
+[8]: https://www.s3blog.org/
 [9]: https://addons.mozilla.org/en-US/firefox/addon/ft-deepdark/
-[10]: http://cupoflinux.com
+[10]: https://cupoflinux.com
