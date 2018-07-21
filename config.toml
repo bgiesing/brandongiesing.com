@@ -1,9 +1,7 @@
 baseURL = "https://brandongiesing.com/"
 languageCode = "en-US"
 title = "BrandonGiesing.com"
-theme = [
-  "afterdark"
-]
+theme = ["cosicast","afterdark"]
 
 [params.hackcss]
   disabled = false
