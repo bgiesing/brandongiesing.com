@@ -42,9 +42,9 @@ unique exclusive features.
 - [InstaGC (Web)](https://www.instagc.com/bgiesing)
   - Instant cashouts, great if you need to quickly get an extra dollar or so.
   - [Tips](/instagc-tips/)
-- [Perk (Web/Apps)](https://perk.com/r/58c58a73/perk_aphone_points)
+- [Perk (Web/Apps)](https://perk.com/r/58c58a73)
   - [Tips](/perk-tips/)
-- [EarnHoney (Web/Apps)](https://www.earnhoney.com/home/?referrer=11E79239C4)
+- [EarnHoney (Web/Apps)](https://www.earnhoney.com/home/?referrer=11E793B136)
   - Some ads are really bad about crashing computers but when it works, it works
     good.
 - Checkpoints (Apps) [Use Code: `bgiesing` for referral]
@@ -60,15 +60,15 @@ providers like EngageMe, VideoLab, and VideoLoyalty with nothing provided by
 themselves. Not the fastest earners but if you are a busy person, most of these
 run with 24/7 with very little intervention!
 
+- [Branded Surveys (Web)](https://surveys.gobranded.com/users/register/89a8303e2a83811fc6f79c65b)
+  - Surveys and Offers
+  - Currently the highest payouts on EngageMe/Smores at one whole penny.
+  - Slow cashouts.
 - [Eloot.gg (Web)](https://eloot.gg?ref=bgiesing)
   - EngageMe, VideoLab, Offer Walls, and a Discord Faucet
   - Pays in Bitcoin, PayPal, Gift Cards (including Amazon) and some gaming
     services for CS.GO skins
-  - 5% referral commissions for life and 1,000 point join bonus
-- [Branded Surveys (Web)](https://surveys.gobranded.com/users/register/89a8303e2a83811fc6f79c65b)
-  - Surveys and Offers
-  - One of the highest payouts on EngageMe/Smores
-  - Slow cashouts.
+  - 10% referral commissions for life and two 5,000 points join bonuses (1 for signing up, 1 when you hit 25k)
 - [TheTechSlugs (Web)](https://thetechslugs-rewards.com/register?r=491)
   - Offerwall/EngageMe site run by fellow Beermoney member, TheTechSlugs, known
     for their $1K+/month routine videos on YouTube.
@@ -176,7 +176,7 @@ withdraw as soon as price drops significantly to minimize loss.
     - [MoonLitecoin (Web)](https://moonliteco.in/?ref=fc77d3842e7b)
     - [MoonDogecoin (Web)](https://moondoge.co.in/?ref=ea495a9cb972)
     - [MoonDash (Web)](https://moondash.co.in/?ref=03A76891F0E4)
-    - [MoonCash (Web)](https://moonb.ch/?ref=86770F67F495)
+    - [MoonCash (Web)](http://moonbitcoin.cash/?ref=86770F67F495)
   - [BitFun (Web)](https://bitfun.co/?ref=64002ECDDE0D)
      - The longer you wait the bigger the claim will be, no bonus though so
        claim whenever you want.
@@ -247,11 +247,6 @@ a lot of them have some bad ads that can give viruses so choose carefully.
   - Link Shortening
   - Script for your site that shows entry/exit ads and auto shortens links.
   - Pays via PayPal
-- [CoinURL (Web)](https://coinurl.com/index.php?ref=bgiesing)
-  - Link Shortening
-  - Banner Ads
-  - Auto-shortening script
-  - Pays Bitcoin
 - [LeadsLeap (Web)](https://www.leadsleap.com/therealtracker/?r=bgiesing)
   - Unique link tracker that you earn more the longer the person stays on the
     page.
