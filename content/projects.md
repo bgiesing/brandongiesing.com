@@ -42,10 +42,11 @@ It was similar to Pluto.tv with a few differences:
 Ultimately, shut down because almost nobody ever watched and the few who didn't
 want to contribute making it impossible to continue.
 
+
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary"
-        action="https://bgiesing.github.io/pravox.net/" >}}Archived Website on
-        GitHub Pages{{< /hackcss-button >}}
+    {{< external href="https://bgiesing.github.io/pravox.net/" >}}
+      {{< hackcss-button type="primary" text="Archived Website" />}}
+    {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
 {{< figure src="https://i.imgur.com/4Ztd3Jo.png" alt="CASTchannel" width="100%"
@@ -66,16 +67,16 @@ Shutdown because Radionomy (the hoster) got sued and shut it down.
 
 {{< hackcss-buttongroup >}}
     {{< external href="https://voxvariety.netlify.com/" >}}
-      {{< hackcss-button text="Newest Bootstrap Version" />}}
+      {{< hackcss-button type="primary" text="Newest Version" />}}
     {{< /external >}}
     {{< external href="https://mdl--voxvariety.netlify.com/" >}}
-      {{< hackcss-button text="MDL Version" />}}
+      {{< hackcss-button type="primary" text="MDL Version" />}}
     {{< /external >}}
     {{< external href="https://materialize--voxvariety.netlify.com" >}}
-      {{< hackcss-button text="Materialize Version" />}}
+      {{< hackcss-button type="primary" text="Materialize Version" />}}
     {{< /external >}}
     {{< external href="https://mdwiki--voxvariety.netlify.com" >}}
-      {{< hackcss-button text="Original Version" />}}
+      {{< hackcss-button type="primary" text="Original Version" />}}
     {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
@@ -96,9 +97,9 @@ Based on PA GApps remover by TKRuzze, it added:
 - One zip for multiple OSes (GApps Remover had one for each)
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary"
-        action="https://forum.xda-developers.com/showthread.php?t=2870264"
-        >}}XDA Thread (Unsupported){{< /hackcss-button >}}
+    {{< external href="https://forum.xda-developers.com/showthread.php?t=2870264" >}}
+      {{< hackcss-button type="primary" text="XDA Thread (Unsupported)" />}}
+    {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
 #### GApps
@@ -111,9 +112,9 @@ A GApps package based on PA GApps that added:
 Discontinued with some functionality merged into Open GApps' AROMA package.
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary"
-        action="https://forum.xda-developers.com/showthread.php?t=2558177"
-        >}}XDA Thread (Unsupported){{< /hackcss-button >}}
+    {{< external href="https://forum.xda-developers.com/showthread.php?t=2558177" >}}
+      {{< hackcss-button type="primary" text="XDA Thread (Unsupported)" />}}
+    {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
 #### Famigo and Vox ROMs
@@ -169,11 +170,13 @@ I've made two big contributions to the upcoming rewrite on the frontend side
   Jekyll](https://github.com/UnderMybrella/EternalJukebox/pull/28)
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="https://eternal.abimon.org"
-        >}}Official Website{{< /hackcss-button >}}
-    {{< hackcss-button type="primary"
-        action="https://github.com/UnderMybrella/EternalJukebox" >}}GitHub
-        Source Code{{< /hackcss-button >}}
+    {{< external href="https://eternal.abimon.org" >}}
+      {{< hackcss-button type="primary" text="Official Website" />}}
+    {{< /external >}}
+    {{< external href="https://github.com/UnderMybrella/EternalJukebox" >}}
+      {{< hackcss-button type="primary" text="GitHub
+        Source Code" />}}
+    {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
 ### Open GApps (NAC)
@@ -189,10 +192,13 @@ After a dispute, I left the team but have no grudges against them and I still
 use it personally.
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="https://opengapps.org" >}}Official
-        Website{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="https://github.com/OpenGApps"
-        >}}GitHub Source Code{{< /hackcss-button >}}
+    {{< external href="https://opengapps.org" >}}
+      {{< hackcss-button type="primary" text="Official Website" />}}
+    {{< /external >}}
+    {{< external href="https://github.com/OpenGApps" >}}
+      {{< hackcss-button type="primary" text="GitHub
+        Source Code" />}}
+    {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
 ### Cumulus TV (NAC)
@@ -208,11 +214,13 @@ Google's Live Channels app.
   preset](https://github.com/Fleker/CumulusTV/issues/32)
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="https://cumulustv.herokuapp.com"
-        >}}Official Website{{< /hackcss-button >}}
-    {{< hackcss-button type="primary"
-        action="https://github.com/Fleker/CumulusTV" >}}GitHub Source Code{{<
-        /hackcss-button >}}
+    {{< external href="https://cumulustv.herokuapp.com" >}}
+      {{< hackcss-button type="primary" text="Official Website" />}}
+    {{< /external >}}
+    {{< external href="https://github.com/Fleker/CumulusTV" >}}
+      {{< hackcss-button type="primary" text="GitHub
+        Source Code" />}}
+    {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
 ## News Articles
