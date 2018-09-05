@@ -65,9 +65,18 @@ artists who can't get on radio.
 Shutdown because Radionomy (the hoster) got sued and shut it down.
 
 {{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary"
-        action="https://bgiesing.github.io/vox-variety-site/" >}}Archived
-        Website on GitHub Pages{{< /hackcss-button >}}
+    {{< external href="https://voxvariety.netlify.com/" >}}
+      {{< hackcss-button text="Newest Bootstrap Version" />}}
+    {{< /external >}}
+    {{< external href="https://mdl--voxvariety.netlify.com/" >}}
+      {{< hackcss-button text="MDL Version" />}}
+    {{< /external >}}
+    {{< external href="https://materialize--voxvariety.netlify.com" >}}
+      {{< hackcss-button text="Materialize Version" />}}
+    {{< /external >}}
+    {{< external href="https://mdwiki--voxvariety.netlify.com" >}}
+      {{< hackcss-button text="Original Version" />}}
+    {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
 ### Famigo/Voxive Android Tools (DISC)
