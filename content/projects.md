@@ -55,8 +55,10 @@ CASTchannel is my 2nd try at the idea, I'm currently working on it.
 
 ### Vox Variety (DISC)
 
-{{< figure src="https://sideprojectors.com/img/projects/3539-0-original.jpg"
-alt="Vox Variety Logo" width="100%" >}} Before Pravox Networks, Vox Variety
+{{< figure src="https://i.imgur.com/WtLYE0r.png"
+alt="Vox Variety Logo" width="100%" >}}
+
+Before Pravox Networks, Vox Variety
 tried to be an internet radio station mixing popular music with small indie
 artists who can't get on radio.
 
