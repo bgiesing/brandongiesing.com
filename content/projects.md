@@ -174,8 +174,7 @@ I've made two big contributions to the upcoming rewrite on the frontend side
       {{< hackcss-button type="primary" text="Official Website" />}}
     {{< /external >}}
     {{< external href="https://github.com/UnderMybrella/EternalJukebox" >}}
-      {{< hackcss-button type="primary" text="GitHub
-        Source Code" />}}
+      {{< hackcss-button type="primary" text="GitHub Source Code" />}}
     {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
@@ -196,8 +195,7 @@ use it personally.
       {{< hackcss-button type="primary" text="Official Website" />}}
     {{< /external >}}
     {{< external href="https://github.com/OpenGApps" >}}
-      {{< hackcss-button type="primary" text="GitHub
-        Source Code" />}}
+      {{< hackcss-button type="primary" text="GitHub Source Code" />}}
     {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
@@ -218,8 +216,7 @@ Google's Live Channels app.
       {{< hackcss-button type="primary" text="Official Website" />}}
     {{< /external >}}
     {{< external href="https://github.com/Fleker/CumulusTV" >}}
-      {{< hackcss-button type="primary" text="GitHub
-        Source Code" />}}
+      {{< hackcss-button type="primary" text="GitHub Source Code" />}}
     {{< /external >}}
 {{< /hackcss-buttongroup >}}
 
