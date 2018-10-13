@@ -1,4 +1,5 @@
 {{ $custom := resources.Get "css/custom.css" }}
+{{ $font := resources.Get "css/font.css" }}
 
 {{ if eq .Site.Params.hackcss.disabled true }}
   <style>{{ (slice $custom | resources.Concat "styles.css").Content | safeCSS }}</style>
@@ -24,9 +25,9 @@
     {{ end }}
   {{ else if eq .Site.Params.hackcss.palette "cosicast" }}
     {{ if eq .Site.Params.hackcss.mode "standard" }}
-      <style>{{ (slice $hack $standard $cosicast $theme $custom | resources.Concat "styles.css").Content | safeCSS }}</style>
+      <style>{{ (slice $hack $standard $cosicast $theme $custom $font | resources.Concat "styles.css").Content | safeCSS }}</style>
     {{ else }}
-      <style>{{ (slice $hack $cosicast $theme $custom | resources.Concat "styles.css").Content | safeCSS }}</style>
+      <style>{{ (slice $hack $cosicast $theme $custom $font | resources.Concat "styles.css").Content | safeCSS }}</style>
     {{ end }}
   {{ else }}
     {{ if eq .Site.Params.hackcss.mode "standard" }}
