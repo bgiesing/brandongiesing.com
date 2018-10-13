@@ -43,8 +43,13 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
   identifier = "supportme"
   url = "/supportme"
 [[menu.main]]
-  name = "Search"
+  name = "CosiMine"
   weight = 6
+  identifier = "cosimine"
+  url = "/cosimine"
+[[menu.main]]
+  name = "Search"
+  weight = 7
   identifier = "search"
   url = "/search"
 
