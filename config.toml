@@ -33,7 +33,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
   identifier = "money"
   url = "/money/"
 [[menu.main]]
-  name = "Other Projects"
+  name = "Projects"
   weight = 5
   identifier = "projects"
   url = "/projects"
