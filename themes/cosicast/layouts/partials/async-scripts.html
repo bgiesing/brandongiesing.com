@@ -6,3 +6,15 @@ fetchInject([{{ "/js/lazysizes.min.js" | relURL }}]);
 <meta name="flattr:id" content="z7o6xx">
 <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <link rel="manifest" href="/manifest.json">
+
+<script>
+   if('serviceWorker' in navigator) {
+     navigator.serviceWorker.register('/sw.js', { scope: '/' })
+       .then(function(registration) {
+             console.log('Service Worker Registered');
+       });
+     navigator.serviceWorker.ready.then(function(registration) {
+        console.log('Service Worker Ready');
+     });
+   }
+</script>

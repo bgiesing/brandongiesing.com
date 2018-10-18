@@ -1,6 +1,34 @@
 {
  "short_name": "BrandonGiesing",
  "name": "BrandonGiesing.com",
- "background_color": "#073642",
- "theme_color": "#002b36"
+ "background_color": "#000011",
+ "theme_color": "#000011",
+ "start_url": ".",
+ "display": "standalone",
+ "description": "The homepage of Brandon Giesing.",
+ "icons": [{
+  "src": "images/touch/48.png",
+  "sizes": "48x48",
+  "type": "image/png"
+ }, {
+  "src": "images/touch/72.png",
+  "sizes": "72x72",
+  "type": "image/png"
+ }, {
+  "src": "images/touch/96.png",
+  "sizes": "96x96",
+  "type": "image/png"
+ }, {
+  "src": "images/touch/144.png",
+  "sizes": "144x144",
+  "type": "image/png"
+ }, {
+  "src": "images/touch/192.png",
+  "sizes": "192x192",
+  "type": "image/png"
+ }, {
+  "src": "images/touch/512.png",
+  "sizes": "512x512",
+  "type": "image/png"
+ }]
 }
