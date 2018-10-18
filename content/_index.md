@@ -1,5 +1,6 @@
 ---
 title: "Welcome to BrandonGiesing.com!"
+description: "The homepage of Brandon Giesing."
 ---
 
 {{< figure src="/images/me-logo.svg" alt="BrandonGiesing.com"
