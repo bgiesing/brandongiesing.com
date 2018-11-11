@@ -8,12 +8,14 @@ aliases:
 
 ---
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/devices" >}}Previous Page:
-        Devices{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money/apps" >}}Next Page: Apps &
-        Sites{{< /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/devices" >}}Previous Page:
+          Devices{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/apps" >}}Next Page: Apps &
+          Sites{{< /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}
 
 While a lot of these things with very little intervention or setup, there's
 various ways you can maximize your earnings and keep your devices running
@@ -90,9 +92,11 @@ you would pay the $50 to buy the item for them while they give you $40. Even
 though you do lose some money since the rates aren't the best... if you really
 needed it, it's still worth it.
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/devices" >}}Previous Page:
-        Devices{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money/apps" >}}Next Page: Apps &
-        Sites{{< /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/devices" >}}Previous Page:
+          Devices{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/apps" >}}Next Page: Apps &
+          Sites{{< /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}

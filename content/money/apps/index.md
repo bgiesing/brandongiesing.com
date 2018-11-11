@@ -9,12 +9,14 @@ aliases:
 
 ---
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/tips" >}}Previous Page:
-        Tips{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money/earnings" >}}Next Page:
-        Earnings{{< /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/tips" >}}Previous Page:
+          Tips{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/earnings" >}}Next Page:
+          Earnings{{< /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}
 
 The following is a list of apps/sites I use or have used in the past divided
 into sections of what type of stuff you do to earn. Each one includes some basic
@@ -377,9 +379,11 @@ For Bitcoin, you can use FreeBitco.in as mentioned above.
     share for anyone who signs up under you! So if you want to try stocks with
     basically no risk as it's all profit, this is a great way to do it.
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/tips" >}}Previous Page:
-        Tips{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money/earnings" >}}Next Page:
-        Earnings{{< /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/tips" >}}Previous Page:
+          Tips{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/earnings" >}}Next Page:
+          Earnings{{< /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}

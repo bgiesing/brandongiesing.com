@@ -16,12 +16,14 @@ teen who has weight, sight, sleep, and knee issues. So I'm here doing this all
 day and most likely make more than an average person would doing this. Your
 results may very.
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/earnings" >}}Jump Directly
-        To Earnings{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money/devices" >}}Start with
-        Devices{{< /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/earnings" >}}Jump Directly
+          To Earnings{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/devices" >}}Start with
+          Devices{{< /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}
 
 ---
 
@@ -267,11 +269,11 @@ Here I'll mention what updates I made to this page.
 - v0: September 21st, 2016
   - Initial Version as my 1st Month of Money
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/earnings" >}}Jump Directly
-        To Earnings{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money/devices" >}}Start with
-        Devices{{< /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
-
-<br>
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/earnings" >}}Jump Directly
+          To Earnings{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/devices" >}}Start with
+          Devices{{< /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}

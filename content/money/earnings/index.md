@@ -8,12 +8,14 @@ aliases:
 
 ---
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/apps" >}}Previous Page:
-        Apps & Sites{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{<
-        /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/apps" >}}Previous Page:
+          Apps & Sites{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{<
+          /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}
 
 This page shows what I've made from what I described on the past few pages. As I
 said on the 1st page disclaimer, your results may vary tons so don't blame me if
@@ -47,9 +49,11 @@ width="100%" height="480px" class="lazyload"></iframe>
 src="https://docs.google.com/spreadsheets/d/1OWhIacVX-3vljYiWP_IF0NCGQ5Af8unj9hv7e4eRD7g/pubhtml?gid=636621524&amp;single=true&amp;widget=true&amp;headers=false"
 width="100%" height="480px" class="lazyload"></iframe>
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money/apps" >}}Previous Page:
-        Apps & Sites{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{<
-        /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money/apps" >}}Previous Page:
+          Apps & Sites{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money" >}}Back to Beginning{{<
+          /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}

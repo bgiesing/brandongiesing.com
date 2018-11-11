@@ -8,12 +8,14 @@ aliases:
 
 ---
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money" >}}Previous Page:
-        Introduction & Changelog{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money/tips" >}}Next Page: Tips{{<
-        /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money" >}}Previous Page:
+          Introduction & Changelog{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/tips" >}}Next Page: Tips{{<
+          /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}
 
 To earn like this, you are gonna need devices to earn a decent amount. You can
 start with either old ones you have laying around or buy really inexpensive
@@ -148,9 +150,11 @@ These run the occasional app but aren't running 24/7 like my dedicated devices.
     instead. Slightly cheaper, better speeds, and you can combine multiple to
     increase house coverage.
 
-{{< hackcss-buttongroup >}}
-    {{< hackcss-button type="primary" action="/money" >}}Previous Page:
-        Introduction & Changelog{{< /hackcss-button >}}
-    {{< hackcss-button type="primary" action="/money-tips" >}}Next Page: Tips{{<
-        /hackcss-button >}}
-{{< /hackcss-buttongroup >}}
+{{< hackcss-form >}}
+  {{< hackcss-buttongroup >}}
+      {{< hackcss-button type="primary" action="/money" >}}Previous Page:
+          Introduction & Changelog{{< /hackcss-button >}}
+      {{< hackcss-button type="primary" action="/money/tips" >}}Next Page: Tips{{<
+          /hackcss-button >}}
+  {{< /hackcss-buttongroup >}}
+{{< /hackcss-form >}}
