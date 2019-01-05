@@ -6,9 +6,9 @@
   command = "hugo --minify --buildFuture"
 # The default version you use for production if you don't use context
 [build.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.53"
 # The version you use for production
 [context.production.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.53"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.51"
+  HUGO_VERSION = "0.53"
