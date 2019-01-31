@@ -14,24 +14,11 @@ background to help out by using a tiny bit of your CPU usage to donate.
 
 # Crypto Miner
 
-This miner mines a tiny bit of Cryptocurrency (specifically Monero) using your
-CPU.
+At the bottom right of every page, you will find a miner which mines a tiny bit of
+Cryptocurrency (specifically Monero) using your CPU. To enable, simply click the bolt.
 
 NOTE: This will quickly drain battery and heat up your device, only use it on
 Desktops.
-
-<center><script src="https://authedmine.com/lib/simple-ui.min.js" async defer></script>
-<div class="coinhive-miner"
-	style="width: 100%; height: 300px"
-	data-key="UB0lonLFJXV0T5HYTiTcqgEJhcI9cxKW"
-   data-autostart="true"
-   data-whitelabel="true"
-   data-background="#001"
-   data-text="#fff"
-   data-graph="#ed008c"
-   data-action="#fff000">
-	<em>Loading...</em>
-</div></center>
 
 # Radio Miner
 
@@ -54,8 +41,6 @@ $3.50. **You can only listen to 1 of each at a time, 4 max.**
       {{< hackcss-button type="primary" text="Rock/Pop" />}}
     {{< /external >}}
 {{< /hackcss-buttongroup >}}
-
-
 
 ## FAQ
 
