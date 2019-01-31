@@ -1,7 +1,7 @@
 baseURL = "https://brandongiesing.com/"
 languageCode = "en-US"
 title = "BrandonGiesing.com"
-theme = ["cosicast","after-dark"]
+theme = ["cosicast","toxic-swamp","after-dark"]
 
 [params.hackcss]
   disabled = false
@@ -76,3 +76,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
+
+[params.modules.toxic_swamp]
+  enabled = true
+  address = "48qsTAhshB17UtbDbfQx7xJugDW6toex3jkTCC2kRpnFHP8aZnLbrcmDP8PvQs8XpjRggTV2DS1VSNGFxRkVYQjv1DvRSHH"
