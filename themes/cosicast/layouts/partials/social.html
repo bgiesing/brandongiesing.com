@@ -1,6 +1,8 @@
 <form class="btn-group">
   {{ range .Site.Data.social }}
-  <button formaction="{{ .url | safeURL }}" class="btn btn-primary" aria-label="{{ .name }}"><img src="/images/social/{{ .icon }}" alt="{{ .name }}"></button>
+  <label>
+    <button formaction="{{ .url | safeURL }}" class="btn btn-primary" aria-label="{{ .name }}"><img src="/images/social/{{ .icon }}" alt="{{ .name }}"></button>
+  </label>
   {{ end }}
-  <button formaction="https://mstdn.io/@BrandonGiesing" class="btn btn-primary" rel="me" aria-label="Mastodon"><img src="/images/social/mastodon.svg" alt="Mastodon"></button>
+  <label><button formaction="https://mstdn.io/@BrandonGiesing" class="btn btn-primary" rel="me" aria-label="Mastodon"><img src="/images/social/mastodon.svg" alt="Mastodon"></button></label>
 </form>
