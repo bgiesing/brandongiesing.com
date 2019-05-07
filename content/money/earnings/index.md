@@ -40,9 +40,9 @@ width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 > here. This year I added the Summary tab (which also shows expense categories)
 > to the public embed. I'm still keeping the specific expenses private however.
 
-<iframe
+<iframe title="2018 Earnings"
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXXvdC_nt8zmAEXwdY0Xkxgb1liubRD9PvFVdiEKUh5T3otyIU7clCEV50PnuA47MaqjSkQvOJbQe/pubhtml?gid=636621524&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="480px" class="lazyload"></iframe>
+width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 
 ## 2017 Earnings
 
@@ -55,9 +55,9 @@ width="100%" height="480px" class="lazyload"></iframe>
 > Expenses, it also contains any Income I receive including non-Beermoney
 > earnings. 99% of Earnings are from Beermoney however.
 
-<iframe
+<iframe title="2017 Earnings"
 src="https://docs.google.com/spreadsheets/d/1OWhIacVX-3vljYiWP_IF0NCGQ5Af8unj9hv7e4eRD7g/pubhtml?gid=636621524&amp;single=true&amp;widget=true&amp;headers=false"
-width="100%" height="480px" class="lazyload"></iframe>
+width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 
 {{< hackcss-form >}}
   {{< hackcss-buttongroup >}}

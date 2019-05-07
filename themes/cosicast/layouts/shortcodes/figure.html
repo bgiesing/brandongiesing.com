@@ -21,9 +21,9 @@ https://gohugo.io/content-management/shortcodes/#figure
 <figure{{ with $class }} class="{{ . }}"{{ end }}>
   {{ with $link }}<a href="{{ . }}"{{ if $linktarget }} target="{{ $linktarget }}"{{ end }}{{ if eq $linktarget "_blank" }} rel="external noopener noreferrer"{{ end }}>{{ end }}
     {{ if $lqipsrc }}
-      <img class="lazyload blur-up" src="{{ $lqipsrc }}" data-src="{{ $src }}" {{ if or $alt $caption }}alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}"{{ end }} data-sizes="auto" {{ if $width }}width="{{ $width }}"{{ end }} />
+      <img class="lazyload blur-up" loading=”lazy” src="{{ $lqipsrc }}" data-src="{{ $src }}" {{ if or $alt $caption }}alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}"{{ end }} data-sizes="auto" {{ if $width }}width="{{ $width }}"{{ end }} />
     {{ else }}
-      <img class="lazyload" data-src="{{ $src }}" {{ if or $alt $caption }}alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}"{{ end }} data-sizes="auto" {{ if $width }}width="{{ $width }}"{{ end }} />
+      <img class="lazyload" loading=”lazy” data-src="{{ $src }}" {{ if or $alt $caption }}alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}"{{ end }} data-sizes="auto" {{ if $width }}width="{{ $width }}"{{ end }} />
     {{ end }}
   {{ if $link }}</a>{{ end }}
   {{ if or (or $title $caption) $attr }}

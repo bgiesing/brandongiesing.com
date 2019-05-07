@@ -67,7 +67,7 @@ or "Donate with Coinbase Commerce" button below to send your coin to me.
 <center><script>function shapeshift_click(a,e){e.preventDefault();var
 link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return
 false;}</script> <a onclick="shapeshift_click(this, event);"
-href="https://shapeshift.io/shifty.html?destination=1CdfqBGAndvSmesb3Q7Kf6sBg8gHbqh6si&amp;output=BTC"><img
+href="https://shapeshift.io/shifty.html?destination=1CdfqBGAndvSmesb3Q7Kf6sBg8gHbqh6si&amp;output=BTC"><img loading=”lazy”
 src="https://shapeshift.io/images/shifty/large_dark_ss.png"
 class="ss-button"></a>
 
