@@ -24,6 +24,16 @@ you don't earn as much.
 > All earnings are my own on most sites. The only sites I have active referrals
 > on currently are InstaGC, Swagbucks, and FreeBitcoin
 
+## 2019 Earnings
+
+> Like last year, I'm continuing to use a spreadsheet to auto-update earnings
+> here. This year I added the Summary tab (which also shows expense categories)
+> to the public embed. I'm still keeping the specific expenses private however.
+
+<iframe title="2019 Earnings"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4tYjK7BbYefNY4SXb90yxXSH4C4GiYnWVdBN5i3GmI6Q1qgb2yoMOfvk3_z0KWGvyp-x0hAJkulC/pubhtml?gid=419427895&amp;single=true&amp;widget=true&amp;headers=false"
+width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
+
 ## 2018 Earnings
 
 > Like last year, I'm continuing to use a spreadsheet to auto-update earnings
