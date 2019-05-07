@@ -31,7 +31,7 @@ you don't earn as much.
 > to the public embed. I'm still keeping the specific expenses private however.
 
 <iframe title="2019 Earnings"
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4tYjK7BbYefNY4SXb90yxXSH4C4GiYnWVdBN5i3GmI6Q1qgb2yoMOfvk3_z0KWGvyp-x0hAJkulC/pubhtml?gid=419427895&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRj4tYjK7BbYefNY4SXb90yxXSH4C4GiYnWVdBN5i3GmI6Q1qgb2yoMOfvk3_z0KWGvyp-x0hAJkulC/pubhtml?gid=636621524&widget=true&headers=false"
 width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 
 ## 2018 Earnings
@@ -41,7 +41,7 @@ width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 > to the public embed. I'm still keeping the specific expenses private however.
 
 <iframe title="2018 Earnings"
-src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXXvdC_nt8zmAEXwdY0Xkxgb1liubRD9PvFVdiEKUh5T3otyIU7clCEV50PnuA47MaqjSkQvOJbQe/pubhtml?gid=636621524&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGXXvdC_nt8zmAEXwdY0Xkxgb1liubRD9PvFVdiEKUh5T3otyIU7clCEV50PnuA47MaqjSkQvOJbQe/pubhtml?gid=636621524&widget=true&headers=false"
 width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 
 ## 2017 Earnings
@@ -56,7 +56,7 @@ width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 > earnings. 99% of Earnings are from Beermoney however.
 
 <iframe title="2017 Earnings"
-src="https://docs.google.com/spreadsheets/d/1OWhIacVX-3vljYiWP_IF0NCGQ5Af8unj9hv7e4eRD7g/pubhtml?gid=636621524&amp;single=true&amp;widget=true&amp;headers=false"
+src="https://docs.google.com/spreadsheets/d/1OWhIacVX-3vljYiWP_IF0NCGQ5Af8unj9hv7e4eRD7g/pubhtml?gid=636621524&widget=true&headers=false"
 width="100%" height="480px" class="lazyload" loading=”lazy”></iframe>
 
 {{< hackcss-form >}}
