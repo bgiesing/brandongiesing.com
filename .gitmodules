@@ -1,6 +1,8 @@
 [submodule "themes/after-dark"]
 	path = themes/after-dark
 	url = https://git.habd.as/comfusion/after-dark.git
+	branch = master
 [submodule "themes/toxic-swamp"]
 	path = themes/toxic-swamp
 	url = https://git.habd.as/comfusion/toxic-swamp.git
+	branch = master
