@@ -23,10 +23,10 @@ Start in low-definition:
 {{ $start_with_hd := .Get "start_with_hd" | default "true" }}
 {{ if .IsNamedParams }}
   <div class="responsive-iframe{{ with $class }} {{ . }}{{ end }}">
-    <iframe class="lazyload" src="//coub.com/embed/{{ $id }}?muted={{ $muted }}&autostart={{ $autostart }}&originalSize={{ $original_size }}&startWithHD={{ $start_with_hd }}" allowfullscreen="true" frameborder="0"></iframe>
+    <iframe title="Coub" class="lazyload" loading=”lazy” src="//coub.com/embed/{{ $id }}?muted={{ $muted }}&autostart={{ $autostart }}&originalSize={{ $original_size }}&startWithHD={{ $start_with_hd }}" allowfullscreen="true" frameborder="0"></iframe>
   </div>
 {{ else }}
   <div class="responsive-iframe">
-    <iframe class="lazyload" src="//coub.com/embed/{{ .Get 0 }}?muted=false&autostart=false&originalSize=true&startWithHD=true" allowfullscreen="true" frameborder="0"></iframe>
+    <iframe title="Coub" class="lazyload" loading=”lazy” src="//coub.com/embed/{{ .Get 0 }}?muted=false&autostart=false&originalSize=true&startWithHD=true" allowfullscreen="true" frameborder="0"></iframe>
   </div>
 {{ end }}
