@@ -12,6 +12,9 @@ disqusShortname = "brandongiesing"
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 enableRobotsTXT = true # Suggested, enable robots.txt file
 
+[params.layout.menu.main]
+  hidden = false # set `false` or remove to show section menu
+
 [[menu.main]]
   name = "Home"
   weight = 1
