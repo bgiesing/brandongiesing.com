@@ -7,10 +7,12 @@ date: '2017-09-09T02:58:53-05:00'
 publishdate: '2017-09-09T02:58:00-05:00'
 layout: blog
 categories:
-  - Steem
+  - Announcements
 tags:
   - Charity
   - Hurricane Harvey
+  - Steem
+  - Steemit
 
 ---
 

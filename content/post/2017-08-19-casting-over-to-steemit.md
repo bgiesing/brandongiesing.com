@@ -7,7 +7,10 @@ date: '2017-08-19T17:39:00-05:00'
 publishdate: '2017-08-19T17:39:00-05:00'
 layout: blog
 categories:
+  - Announcements
+tags:
   - Steem
+  - Steemit
 
 ---
 

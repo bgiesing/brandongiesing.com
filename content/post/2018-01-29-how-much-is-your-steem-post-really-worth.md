@@ -8,7 +8,9 @@ publishdate: '2018-01-29T08:26:00-06:00'
 layout: blog
 categories:
   - Technology
+tags:
   - Steem
+  - Steemit
 
 ---
 

@@ -5,6 +5,11 @@ description: Redefining and Remaking CosiCast
 date: '2017-10-10T13:05:29-05:00'
 publishdate: '2017-10-10T13:05:00-05:00'
 draft: false
+categories:
+  - CosiCast
+tags:
+  - YouTube
+  - Videos
 ---
 {{< figure src="https://steemitimages.com/DQme57VP5Wih97dWDvjB7BTxUvygCGyHJoDA2MyymPi9Vo3/Castober.png" alt="Castober" width="100%" >}}
 
