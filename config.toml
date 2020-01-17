@@ -15,6 +15,16 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
 [params.layout.menu.main]
   hidden = false # set `false` or remove to show section menu
 
+[params.layout.home]
+hide_blog = true
+
+[[params.layout.home.section]]
+  type = "post"
+  limit = 3
+  weight = 1
+  thumbs = ["fill", "400x400"] # Optional, thumbnail image processing
+
+
 [[menu.main]]
   name = "Home"
   weight = 1
