@@ -11,7 +11,10 @@ tags:
   - Cup of Linux
   - mCOLe
 images:
-  - "/images/oldposts/2015-01-18-hss-mCOLe/mCOLe-hss.png"
+  - "/post/2015-01-18-hss-mCOLe/mCOLe-hss.png"
+resources:
+- src: mCOLe-hss.png
+  name: header thumbnail
 
 ---
 
@@ -25,8 +28,6 @@ or even Desktop!
 
 For today's entry, we have a simple setup by me based on [Manjaro Cup of Linux
 Edition (or mCOLe)][mCOLe] with a few tweaks!
-
-{{< figure src="/images/oldposts/2015-01-18-hss-mCOLe/mCOLe-hss.png" alt="mCOLe" width="100%" >}}
 
 ### REQUIREMENTS
 

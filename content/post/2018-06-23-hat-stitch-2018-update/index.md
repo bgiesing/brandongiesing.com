@@ -14,7 +14,7 @@ tags:
   - Website Upgrades
 resources:
   - src: hat-stitch-update.png
-    name: header
+    name: header thumbnail
 images:
   - "/post/2018-06-23-hat-stitch-2018-update/hat-stitch-update.png"
 

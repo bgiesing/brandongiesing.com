@@ -16,7 +16,7 @@ tags:
   - Technology
 resources:
   - src: stadia.png
-    name: header
+    name: header thumbnail
 images:
   - "/post/2019-06-07-stadia/stadia.png"
 

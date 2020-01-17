@@ -9,7 +9,10 @@ categories:
 tags:
   - Windows 10
 images:
-  - "/images/oldposts/2015-02-01-hss-win10/hss-win10.png"
+  - "/post/2015-02-01-hss-win10/cover.png"
+resources:
+  - src: cover.png
+    name: header thumbnail
 
 ---
 
@@ -23,8 +26,6 @@ or even Desktop!
 
 For today's entry, we are looking at my Windows 10 Start Menu arrangement. Not
 exactly a home screen but close enough!
-
-{{< figure src="/images/oldposts/2015-02-01-hss-win10/hss-win10.png" alt="Windows 10 Start Menu" width="100%" >}}
 
 ### REQUIREMENTS
 

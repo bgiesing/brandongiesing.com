@@ -12,7 +12,7 @@ tags:
   - Website Upgrades
 resources:
   - src: nepdate.jpg
-    name: header
+    name: header thumbnail
 images:
   - "/post/2017-01-23-nepdate/nepdate.jpg"
 

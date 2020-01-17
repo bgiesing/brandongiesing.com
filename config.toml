@@ -24,6 +24,13 @@ hide_blog = true
   weight = 1
   thumbs = ["fill", "400x400"] # Optional, thumbnail image processing
 
+[params.layout.post.featured]
+  limit = 4
+  items = [
+    "2019-06-07-stadia",
+    "2018-06-23-hat-stitch-2018-update",
+    "2017-10-02-twit-2017-thoughts",
+  ]
 
 [[menu.main]]
   name = "Home"
@@ -56,13 +63,8 @@ hide_blog = true
   identifier = "supportme"
   url = "/supportme"
 [[menu.main]]
-  name = "CosiMine"
-  weight = 6
-  identifier = "cosimine"
-  url = "/cosimine"
-[[menu.main]]
   name = "Search"
-  weight = 7
+  weight = 6
   identifier = "search"
   url = "/search"
 

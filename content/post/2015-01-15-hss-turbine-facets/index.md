@@ -11,7 +11,10 @@ tags:
   - Moto G
   - Action Launcher
 images:
-  - "/images/oldposts/2015-01-15-hss-turbine-facets/cover.png"
+  - "/post/2015-01-15-hss-turbine-facets/cover.png"
+resources:
+- src: cover.png
+  name: thumbnail
 
 ---
 
@@ -25,7 +28,7 @@ or even Desktop!
 
 First up, we have my current Android 5.0 Lollipop Home Screen on my Moto G.
 
-{{< figure src="/images/oldposts/2015-01-15-hss-turbine-facets/cover.png" alt="Turbine Facets" width="100%" >}}
+{{< figure src="./cover.png" alt="Turbine Facets" width="100%" >}}
 
 ### APP REQUIREMENTS
 
