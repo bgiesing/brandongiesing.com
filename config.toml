@@ -31,6 +31,7 @@ hide_blog = true
     "2018-06-23-hat-stitch-2018-update",
     "2017-10-02-twit-2017-thoughts",
   ]
+  thumbs = ["fill", "400x400"] # Optional, thumbnail image processing
 
 [[menu.main]]
   name = "Home"
