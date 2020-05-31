@@ -20,9 +20,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 <!doctype html>
 <html lang="{{ .Site.LanguageCode }}">
   <head>
-    <script type="module"></script>import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-
-    const el = document.createElement('pwa-update');
+    <script type="module">import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate'; const el = document.createElement('pwa-update');
     document.body.appendChild(el);</script>
     <link rel='manifest' href='/manifest.json'>
     {{ partial "meta/content-security-policy.html" . }}
