@@ -1,4 +1,4 @@
 [submodule "themes/after-dark"]
 	path = themes/after-dark
-	url = https://git.habd.as/comfusion/after-dark.git
+	url = https://codeberg.org/vhs/after-dark.git
 	branch = master
