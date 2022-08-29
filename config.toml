@@ -94,5 +94,5 @@ hide_blog = true
     privacyEnhanced = true
 
 [params.modules.toxic_swamp]
-  enabled = true
+  enabled = false
   address = "48qsTAhshB17UtbDbfQx7xJugDW6toex3jkTCC2kRpnFHP8aZnLbrcmDP8PvQs8XpjRggTV2DS1VSNGFxRkVYQjv1DvRSHH"

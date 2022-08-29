@@ -1,9 +1,9 @@
 [build]
   publish = "public"
-  command = "hugo --minify"
+  command = "hugo"
 # build a preview of the site [hugo --buildFuture]
 [context.deploy-preview]
-  command = "hugo --minify --buildFuture"
+  command = "hugo --buildFuture"
 # The default version you use for production if you don't use context
 [build.environment]
   HUGO_VERSION = "0.71.1"
