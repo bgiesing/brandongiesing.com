@@ -6,12 +6,12 @@
   command = "hugo --minify --buildFuture"
 # The default version you use for production if you don't use context
 [build.environment]
-  HUGO_VERSION = "0.71.1"
-  RUBY_VERSION = "2.6.2"
+  HUGO_VERSION = "0.102.0"
+  RUBY_VERSION = "2.7.2"
 # The version you use for production
 [context.production.environment]
-  HUGO_VERSION = "0.71.1"
-  RUBY_VERSION = "2.6.2"
+  HUGO_VERSION = "0.102.0"
+  RUBY_VERSION = "2.7.2"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.71.1"
-  RUBY_VERSION = "2.6.2"
+  HUGO_VERSION = "0.102.0"
+  RUBY_VERSION = "2.7.2"
