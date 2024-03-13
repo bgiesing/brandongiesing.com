@@ -1,9 +1,9 @@
 # Social Redirects
-https://twitch.brandongiesing.com/* https://twitch.tv/BrandonGiesing/:splat 200
-https://youtube.brandongiesing.com/* https://youtube.com/CosiCast/:splat 200
-https://twitter.brandongiesing.com/* https://twitter.com/BrandonGiesing/:splat 200
-https://donate.brandongiesing.com/* https://streamelements.com/brandongiesing/tip/:splat 200
-https://git.brandongiesing.com/* https://github.com/bgiesing/:splat 200
+https://twitch.brandongiesing.com/* https://twitch.tv/BrandonGiesing/:splat 302!
+https://youtube.brandongiesing.com/* https://youtube.com/CosiCast/:splat 302!
+https://twitter.brandongiesing.com/* https://twitter.com/BrandonGiesing/:splat 302!
+https://donate.brandongiesing.com/* https://streamelements.com/brandongiesing/tip/:splat 302!
+https://git.brandongiesing.com/* https://github.com/bgiesing/:splat 302!
 
 # Old Pages and Posts
 /1st-month-earnings /money 301
