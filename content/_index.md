@@ -11,6 +11,6 @@ various projects like CosiCast Live.
 
 ## About Me
 
-I'm a 22 year old who loves Technology, Animation, Music, and more who spends my
+I'm a 26 year old who loves Technology, Animation, Music, and more who spends my
 free time making websites, fast-paced edit videos, making money, and
 livestreaming on Twitch.
