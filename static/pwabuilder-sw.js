@@ -1,7 +1,7 @@
 //This is the service worker with the Advanced caching
 
-importScripts('https://arc.io/arc-sw-core.js')
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.0.0/workbox-sw.js');
+importScripts('https://arc.io/arc-sw-core.js');
+importScripts('https://cdn.jsdelivr.net/npm/workbox-cdn/workbox/workbox-sw.js');
 
 const CACHE = "pwabuilder-adv-cache";
 
