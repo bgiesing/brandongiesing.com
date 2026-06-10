@@ -1,0 +1,16 @@
+name: Scheduled Build
+
+on:
+  schedule:
+    # Run at 08:00 UTC on July 16th every year
+    - cron: '0 8 16 7 *'
+  # Allows you to manually run the workflow from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  trigger-netlify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify Build Hook
+        run: |
+          curl -X POST -d {} ${{ secrets.NETLIFY_BUILD_HOOK_URL }}

@@ -1,0 +1,6 @@
+{{- $birthday := .Get 0 | default "1997-07-15" | time -}}
+{{- $age := sub now.Year $birthday.Year -}}
+{{- if lt now.YearDay $birthday.YearDay -}}
+  {{- $age = sub $age 1 -}}
+{{- end -}}
+{{- $age -}}
