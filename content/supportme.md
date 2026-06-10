@@ -61,20 +61,20 @@ give:
 
 ### Cryptocoins
 
-If you use Bitcoin or other crypto-currencies, click the "Pay with ShapeShift"
-or "Donate with Coinbase Commerce" button below to send your coin to me.
+If you use Bitcoin or other crypto-currencies, you can donate via the NOWPayments widget below.
 
-<center><script>function shapeshift_click(a,e){e.preventDefault();var
-link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return
-false;}</script> <a onclick="shapeshift_click(this, event);"
-href="https://shapeshift.io/shifty.html?destination=1CdfqBGAndvSmesb3Q7Kf6sBg8gHbqh6si&amp;output=BTC"><img loading=”lazy”
-src="https://shapeshift.io/images/shifty/large_dark_ss.png"
-class="ss-button"></a>
-
-<div> <a class="donate-with-crypto"
-href="https://commerce.coinbase.com/checkout/095f55f4-8e5c-4706-ab27-41d7052681c6">
-<span>Donate with Coinbase Commerce</span> </a> <script
-src="https://commerce.coinbase.com/v1/checkout.js"> </script> </div></center>
+<center>
+<!-- NOWPayments Donation Widget. Replace YOUR_API_KEY_HERE with your actual NOWPayments API key from your dashboard (Donation Tools -> Widgets) -->
+<iframe 
+    src="https://nowpayments.io/embeds/donation-widget?api_key=3058adcb-3cdf-4ae1-ac13-45e4b3fba9f3" 
+    width="348" 
+    height="623" 
+    frameborder="0" 
+    scrolling="no" 
+    style="overflow-y: hidden; border: none;">
+    Can't load widget
+</iframe>
+</center>
 
 ## Buying Stuff
 

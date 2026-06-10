@@ -7,21 +7,10 @@ help support charity in the process!
 
 If you use Gumroad, you can pay what you want and I'll donate 50% of the
 proceeds from this Collection to the EFF and Wikimedia Foundation to help keep
-the internet a great and informative place! If you use Coinbase, it's a set
-price of $1 in Bitcoin, Litecoin, Bitcoin Cash, and Ethereum. Due to how it
-works, I can't donate the 50% to charity and I can't make it pay-what-you-want
-so I would prefer you use Gumroad but I understand some people might want to use
-Crypto for various reasons. You will have to provide Name and email so I can
-send you the files.
+the internet a great and informative place!
 
-<script src="https://gumroad.com/js/gumroad.js"></script> a
-<class="gumroad-button" href="https://gum.co/hPGKX" target="_blank">Pay What You
-<Want on Gumroad</a>
+<script src="https://gumroad.com/js/gumroad.js"></script> <a class="gumroad-button" href="https://gum.co/hPGKX" target="_blank">Pay What You Want on Gumroad</a>
 
-<div> <a class="buy-with-crypto"
-href="https://commerce.coinbase.com/checkout/b277ef37-24dd-4438-ba40-9c6a4126f70f">
-<span>Buy with Crypto</span> </a> <script
-src="https://commerce.coinbase.com/v1/checkout.js"> </script> </div>
 
 ---
 
