@@ -92,3 +92,8 @@ hide_blog = true
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

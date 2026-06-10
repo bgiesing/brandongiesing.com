@@ -66,16 +66,16 @@ artists who can't get on radio.
 Shutdown because Radionomy (the hoster) got sued and shut it down.
 
 {{< hackcss-buttongroup >}}
-    {{< external href="https://voxvariety.netlify.com/" >}}
+    {{< external href="https://voxvariety.netlify.app/" >}}
       {{< hackcss-button type="primary" text="Newest Version" />}}
     {{< /external >}}
-    {{< external href="https://mdl--voxvariety.netlify.com/" >}}
+    {{< external href="https://mdl--voxvariety.netlify.app/" >}}
       {{< hackcss-button type="primary" text="MDL Version" />}}
     {{< /external >}}
-    {{< external href="https://materialize--voxvariety.netlify.com" >}}
+    {{< external href="https://materialize--voxvariety.netlify.app" >}}
       {{< hackcss-button type="primary" text="Materialize Version" />}}
     {{< /external >}}
-    {{< external href="https://mdwiki--voxvariety.netlify.com" >}}
+    {{< external href="https://mdwiki--voxvariety.netlify.app" >}}
       {{< hackcss-button type="primary" text="Original Version" />}}
     {{< /external >}}
 {{< /hackcss-buttongroup >}}

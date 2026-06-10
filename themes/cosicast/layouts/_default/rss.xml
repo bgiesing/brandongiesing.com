@@ -29,7 +29,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
       <url>{{ . }}</url>
     </image>{{ end }}
     <ttl>1440</ttl>
-    <generator>{{ with .Site.Data.npm.latest }}{{ .name | humanize | title }} {{ .version }} (Hugo {{ hugo.Version }}){{ else }}Hugo {{ hugo.Version }}{{ end }}</generator>{{ with .Site.Language.Locale }}
+    <generator>{{ with hugo.Data.npm.latest }}{{ .name | humanize | title }} {{ .version }} (Hugo {{ hugo.Version }}){{ else }}Hugo {{ hugo.Version }}{{ end }}</generator>{{ with .Site.Language.Locale }}
     <language>{{ . }}</language>{{ end }}{{ with .Site.Params.author }}
     {{ if reflect.IsMap . }}
     <managingEditor>{{ .email }}{{ with .name }} ({{ . }}){{ end }}</managingEditor>
