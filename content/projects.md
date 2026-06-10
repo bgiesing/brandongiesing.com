@@ -155,14 +155,13 @@ themselves and Vox Remover could do the other half.
 
 ### The Eternal Jukebox (AC)
 
-{{< figure src="https://eternal.abimon.org/files/jukebox.png" alt="EternalJuke"
+{{< figure src="https://eternalbox.floriegl.tech/files/jukebox.png" alt="EternalJuke"
 width="100%" >}} Website that allows you to listen to a song infinitely without
 the repetitiveness of just looping by detecting multiple cut points. Was
 formally The Infinite Jukebox by EchoNest before Spotify bought EchoNest and a
 fan of the site took over with official blessing of the original creator.
 
-I've made two big contributions to the upcoming rewrite on the frontend side
-(not live on the site yet):
+I've made two big contributions to the rewrite on the frontend side:
 
 - [Complete UI Overhaul (Updated dependencies, new look,
   etc.))](https://github.com/UnderMybrella/EternalJukebox/pull/18)
@@ -170,7 +169,7 @@ I've made two big contributions to the upcoming rewrite on the frontend side
   Jekyll](https://github.com/UnderMybrella/EternalJukebox/pull/28)
 
 {{< hackcss-buttongroup >}}
-    {{< external href="https://eternal.abimon.org" >}}
+    {{< external href="https://eternalbox.floriegl.tech/" >}}
       {{< hackcss-button type="primary" text="Official Website" />}}
     {{< /external >}}
     {{< external href="https://github.com/UnderMybrella/EternalJukebox" >}}
