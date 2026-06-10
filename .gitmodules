@@ -1,4 +1,4 @@
 [submodule "themes/after-dark"]
 	path = themes/after-dark
 	url = https://codeberg.org/vhs/after-dark.git
-	branch = master
+	branch = trunk
