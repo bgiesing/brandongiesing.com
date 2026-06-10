@@ -1,4 +1,4 @@
-name: Scheduled Build
+name: Update Age
 
 on:
   schedule:
