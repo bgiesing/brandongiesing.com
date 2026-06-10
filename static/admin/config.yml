@@ -22,6 +22,12 @@ collections:
     - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
     - {label: "Body", name: "body", widget: "markdown"}
+  # Add nested and meta objects
+  nested:
+    depth: 100
+    summary: '{{title}}'
+    subfolders: true
+  meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 - name: "videos" # Used in routes, e.g., /admin/collections/blog
   label: "CosiCast Video" # Used in the UI
   folder: "content/cosicast/videos" # The path to the folder where the documents are stored
