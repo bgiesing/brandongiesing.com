@@ -1,5 +1,5 @@
 <form class="btn-group">
-  {{ range .Site.Data.social }}
+  {{ range hugo.Data.social }}
   <label>
     <button formaction="{{ .url | safeURL }}" class="btn btn-primary" aria-label="{{ .name }}"><img loading=”lazy” src="/images/social/{{ .icon }}" alt="{{ .name }}"></button>
   </label>

@@ -1,5 +1,5 @@
 baseURL = "https://brandongiesing.com/"
-languageCode = "en-US"
+locale = "en-US"
 title = "BrandonGiesing.com"
 theme = ["cosicast","after-dark"]
 
@@ -88,7 +88,7 @@ hide_blog = true
 [privacy]
   [privacy.instagram]
     simple = true
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
