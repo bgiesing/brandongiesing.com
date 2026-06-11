@@ -4,6 +4,7 @@ title: "Home Screen Sunday: Strip UI"
 description: "For HSS this week, we have a beta icon pack with unique stylings!"
 draft: false
 date: 2015-02-15
+publishdate: 2015-02-15
 categories:
   - Home Screen Sunday
 tags:
@@ -12,6 +13,7 @@ tags:
   - Strip
 images:
   - "/post/2015-02-15-hss-strip/cover.png"
+thumbnail: cover.png
 resources:
   - src: cover.png
     name: thumbnail
@@ -27,7 +29,7 @@ or even Desktop!
 ## LET'S DO IT!
 For this week, we are using a pre-release icon pack that has a lot of unique stylings! Let's take a look at the Strip UI Icon Pack and my homescreen.
 
-{{< figure src="./cover.png" alt="Strip" width="100%" >}}
+{{< figure src="thumbnail" alt="Strip" width="100%" >}}
 
 ### REQUIREMENTS
 For this weeks theme, you will need a few things **different**.

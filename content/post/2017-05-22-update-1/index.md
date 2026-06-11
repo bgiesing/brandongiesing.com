@@ -3,6 +3,7 @@ author: "Brandon Giesing"
 title: "New Host, Same Site | Updates & Stuff 1"
 draft: false
 date: 2017-05-22T01:52:30Z
+publishdate: 2017-05-22T01:52:30Z
 slug: "update-1"
 layout: blog
 categories:

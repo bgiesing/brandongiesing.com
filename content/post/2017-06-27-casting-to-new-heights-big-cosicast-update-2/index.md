@@ -4,6 +4,7 @@ title: "Casting to new heights! | Big CosiCast Update!"
 description: "CosiCast is getting a major overhaul with some HUGE changes!"
 draft: false
 date: 2017-06-27T14:52:43Z
+publishdate: 2017-06-27T14:52:43Z
 slug: "casting-to-new-heights-big-cosicast-update-2"
 layout: blog
 categories:

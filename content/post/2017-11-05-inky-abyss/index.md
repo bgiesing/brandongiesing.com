@@ -4,6 +4,7 @@ title: "BrandonGiesing.com: The 'Inky Abyss' Update"
 description: "New Website updates!"
 draft: false
 date: 2017-11-05T15:00:00Z
+publishdate: 2017-11-05T15:00:00Z
 slug: "inky-abyss"
 layout: blog
 categories:

@@ -4,6 +4,7 @@ title: "TWiT Schedule Fall 2017: My Thoughts"
 description: "My thoughts on TWiT's changes for Fall 2017."
 draft: false
 date: 2017-10-02T01:40:52Z
+publishdate: 2017-10-02T01:40:52Z
 slug: "twit-2017-thoughts"
 layout: blog
 categories:

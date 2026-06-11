@@ -4,6 +4,7 @@ title: "BrandonGiesing.com: 'Hat Stitch' 2018 Update"
 description: "It's been 7 months and lots of changes, time to recap!"
 draft: false
 date: "2018-06-23"
+publishdate: "2018-06-23"
 slug: "hat-stitch-2018-update"
 layout: blog
 categories:
@@ -15,6 +16,7 @@ tags:
 resources:
   - src: hat-stitch-update.png
     name: header thumbnail
+thumbnail: hat-stitch-update.png
 images:
   - "/post/2018-06-23-hat-stitch-2018-update/hat-stitch-update.png"
 

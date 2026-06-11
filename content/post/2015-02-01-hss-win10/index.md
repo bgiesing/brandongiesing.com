@@ -4,12 +4,14 @@ title: "Home Screen Sunday: Windows 10"
 description: "For this week's HSS entry, we have a look at my Windows 10 Start Menu!"
 draft: false
 date: 2015-02-01
+publishdate: 2015-02-01
 categories:
   - Home Screen Sunday
 tags:
   - Windows 10
 images:
   - "/post/2015-02-01-hss-win10/cover.png"
+thumbnail: cover.png
 resources:
   - src: cover.png
     name: header thumbnail

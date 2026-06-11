@@ -4,6 +4,7 @@ title: "Fix Google+ Comments on Thinny Jekyll Theme"
 description: "When I switched to the new site powered by Jekyll and Thinny, I also added Google+ comments. Problem was they weren't showing up."
 draft: false
 date: 2015-01-14
+publishdate: 2015-01-14
 categories:
   - Technology
 tags:

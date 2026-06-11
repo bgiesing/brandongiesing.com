@@ -3,6 +3,7 @@ author: "Brandon Giesing"
 title: "More, More, More, and most importantly, MORE! | Updates & Stuff 3"
 draft: false
 date: 2017-06-27T11:28:02Z
+publishdate: 2017-06-27T11:28:02Z
 slug: "updates-3"
 layout: blog
 categories:

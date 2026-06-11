@@ -3,6 +3,7 @@ author: "Brandon Giesing"
 title: "Social Media Update 2016: 'I would like a Jekyll with a splash of Tumblr and remove the Facebook'"
 draft: false
 date: 2016-03-22
+publishdate: 2016-03-22
 categories:
   - Announcements
 tags:

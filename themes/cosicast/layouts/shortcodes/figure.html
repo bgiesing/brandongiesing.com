@@ -7,45 +7,63 @@ Basic usage:
 Internal usage reference:
 https://gohugo.io/content-management/shortcodes/#figure
 */}}-->
-{{ $src := .Get "src" }}
-{{ $lqipsrc := .Get "lqipsrc" }}
-{{ $caption := .Get "caption" }}
-{{ $link := .Get "link" }}
-{{ $linktarget := .Get "linktarget" }}
-{{ $attr := .Get "attr" }}
-{{ $attrlink := .Get "attrlink" }}
-{{ $alt := .Get "alt" }}
-{{ $title := .Get "title" }}
-{{ $class := .Get "class" }}
-{{ $width := .Get "width" }}
-<figure{{ with $class }} class="{{ . }}"{{ end }}>
-  {{ with $link }}<a href="{{ . }}"{{ if $linktarget }} target="{{ $linktarget }}"{{ end }}{{ if eq $linktarget "_blank" }} rel="external noopener noreferrer"{{ end }}>{{ end }}
-    {{ if $lqipsrc }}
-      <img class="lazyload blur-up" loading=”lazy” src="{{ $lqipsrc }}" data-src="{{ $src }}" {{ if or $alt $caption }}alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}"{{ end }} data-sizes="auto" {{ if $width }}width="{{ $width }}"{{ end }} />
-    {{ else }}
-      <img class="lazyload" loading=”lazy” data-src="{{ $src }}" {{ if or $alt $caption }}alt="{{ with $alt }}{{ . }}{{ else }}{{ $caption }}{{ end }}"{{ end }} data-sizes="auto" {{ if $width }}width="{{ $width }}"{{ end }} />
-    {{ end }}
-  {{ if $link }}</a>{{ end }}
-  {{ if or (or $title $caption) $attr }}
-  <figcaption>{{ if isset .Params "title" }}
-    <header><b>{{ $title }}</b></header>{{ end }}
-    {{ if or $caption $attr }}
-    <small>{{ $caption }}
-    {{ with $attrlink }}<a href="{{ . }}"> {{ end }}
-      {{ $attr }}
-    {{ if $attrlink }}</a> {{ end }}
-    </small>{{ end }}
+<figure{{ with .Get "class" }} class="{{ . }}" {{ end }}>
+  {{- if .Get "link" -}}
+  <a href="{{ .Get " link" }}"{{ with .Get "target" }} target="{{ . }}" {{ end }}{{ with .Get "rel" }} rel="{{ . }}" {{
+    end }}>
+    {{- end -}}
+
+    {{- $u := urls.Parse (.Get "src") -}}
+    {{- $src := $u.String -}}
+    {{- if not $u.IsAbs -}}
+    {{- with or (.Page.Resources.Get $u.Path) (resources.Get $u.Path) -}}
+    {{- $src = .RelPermalink -}}
+    {{- end -}}
+    {{- end -}}
+
+    {{- $lqip := "" -}}
+    {{- if .Get "lqipsrc" -}}
+    {{- $lu := urls.Parse (.Get "lqipsrc") -}}
+    {{- $lqip = $lu.String -}}
+    {{- if not $lu.IsAbs -}}
+    {{- with or (.Page.Resources.Get $lu.Path) (resources.Get $lu.Path) -}}
+    {{- $lqip = .RelPermalink -}}
+    {{- end -}}
+    {{- end -}}
+    {{- end -}}
+
+    <img class="lazyload{{ if $lqip }} blur-up{{ end }}" {{- if $lqip }} src="{{ $lqip }}" {{ end }}
+      data-src="{{ $src }}" data-sizes="auto" {{- if or (.Get "alt" ) (.Get "caption" ) }} alt="{{ with .Get " alt" }}{{
+      . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}" {{- end -}} {{- with .Get "width" }}
+      width="{{ . }}" {{ end -}} {{- with .Get "height" }} height="{{ . }}" {{ end -}} {{- with .Get "loading" }}
+      loading="{{ . }}" {{ else }} loading="lazy" {{ end -}}><!-- Closing img tag -->
+    {{- if .Get "link" }}</a>{{ end -}}
+  {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+  <figcaption>
+    {{ with (.Get "title") -}}
+    <h4>{{ . }}</h4>
+    {{- end -}}
+    {{- if or (.Get "caption") (.Get "attr") -}}<p>
+      {{- .Get "caption" | markdownify -}}
+      {{- with .Get "attrlink" }}
+      <a href="{{ . }}">
+        {{- end -}}
+        {{- .Get "attr" | markdownify -}}
+        {{- if .Get "attrlink" }}</a>{{ end }}
+    </p>
+    {{- end }}
   </figcaption>
-  {{ end }}
-</figure>
-<style media="screen">
-  .blur-up {
-    -webkit-filter: blur(5px);
-    filter: blur(5px);
-    transition: filter 400ms, -webkit-filter 400ms;
-  }
-  .blur-up.lazyloaded {
-    -webkit-filter: blur(0);
-    filter: blur(0);
-  }
-</style>
+  {{- end }}
+  </figure>
+  <style media="screen">
+    .blur-up {
+      -webkit-filter: blur(5px);
+      filter: blur(5px);
+      transition: filter 400ms, -webkit-filter 400ms;
+    }
+
+    .blur-up.lazyloaded {
+      -webkit-filter: blur(0);
+      filter: blur(0);
+    }
+  </style>

@@ -4,6 +4,7 @@ title: "Testing Firefox with Tree Tabs"
 description: "I'm a Chrome Die-Hard, but today I am trying out Firefox with Tree Style Tabs. Will this make me switch?﻿"
 draft: false
 date: 2015-01-17
+publishdate: 2015-01-17
 categories:
   - Technology
 tags:

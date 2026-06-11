@@ -27,7 +27,7 @@ and you will see why!
 
 First, say you have a piece of text that looks like this:
 
-```
+```md
 ## LET'S DO IT!
 For today's entry, we have a simple setup by me based on [Manjaro Cup of Linux
 Edition (or mCOLe)][mCOLe] with a few tweaks!

@@ -3,6 +3,7 @@ author: "Brandon Giesing"
 title: "Store, Secure, Speed, Splitting, and more S words! | Updates & Stuff 2"
 draft: false
 date: 2017-05-29T10:53:38Z
+publishdate: 2017-05-29T10:53:38Z
 slug: "updates-2"
 layout: blog
 categories:

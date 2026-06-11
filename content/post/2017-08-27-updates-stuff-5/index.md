@@ -3,6 +3,7 @@ author: "Brandon Giesing"
 title: "Here Comes The Steem Train! | Updates & Stuff 5"
 draft: false
 date: 2017-08-27T04:51:30Z
+publishdate: 2017-08-27T04:51:30Z
 slug: "updates-5"
 layout: blog
 categories:

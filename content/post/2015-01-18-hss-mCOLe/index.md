@@ -4,6 +4,7 @@ title: "Home Screen Sunday: mCOLe"
 description: "For this week's HSS entry, we have a simple setup by me based on Manjaro Cup of Linux Edition (or mCOLe) with a few tweaks!"
 draft: false
 date: 2015-01-18
+publishdate: 2015-01-18
 categories:
   - Home Screen Sunday
 tags:
@@ -12,9 +13,10 @@ tags:
   - mCOLe
 images:
   - "/post/2015-01-18-hss-mCOLe/mCOLe-hss.png"
+thumbnail: mCOLe-hss.png
 resources:
 - src: mCOLe-hss.png
-  name: header thumbnail
+  name: thumbnail
 
 ---
 
@@ -36,7 +38,7 @@ possible on other Linux Distros but will be harder to set up.
 
 Also, you will need:
 
-{{< figure src="https://lh5.googleusercontent.com/-p_Di_A84LfY/U8fs1MrbQFI/AAAAAAAAG80/rxTKR6hqNZ0/w841-h473-no/Wallpaper.png" alt="Wallpaper" width="100%" >}}
+{{< figure src="thumbnail" alt="Wallpaper" width="100%" >}}
 
 - [This Wallpaper][wall]
 - [AutoKey]

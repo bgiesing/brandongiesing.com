@@ -3,6 +3,7 @@ author: "Brandon Giesing"
 title: "BrandonGiesing.com: The Nepdate!"
 draft: false
 date: 2017-01-23T17:52:52.000Z
+publishdate: 2017-01-23T17:52:52.000Z
 layout: blog
 categories:
   - Announcements
@@ -13,6 +14,7 @@ tags:
 resources:
   - src: nepdate.jpg
     name: header thumbnail
+thumbnail: nepdate.jpg
 images:
   - "/post/2017-01-23-nepdate/nepdate.jpg"
 

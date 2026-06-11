@@ -4,6 +4,7 @@ title: "Updates on Life"
 description: "Life is hard, here is why I missed Home Screen Sunday!"
 draft: false
 date: 2015-01-30
+publishdate: 2015-01-30
 categories:
   - Announcements
 

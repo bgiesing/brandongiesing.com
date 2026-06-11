@@ -4,6 +4,7 @@ title: "Home Screen Sunday: Turbine Facets"
 description: "For our first HSS, we have my current Android 5.0 Lollipop Home Screen on my Moto G."
 draft: false
 date: 2015-01-11
+publishdate: 2015-01-11
 categories:
   - Home Screen Sunday
 tags:
@@ -12,6 +13,7 @@ tags:
   - Action Launcher
 images:
   - "/post/2015-01-15-hss-turbine-facets/cover.png"
+thumbnail: cover.png
 resources:
 - src: cover.png
   name: thumbnail
@@ -28,7 +30,7 @@ or even Desktop!
 
 First up, we have my current Android 5.0 Lollipop Home Screen on my Moto G.
 
-{{< figure src="./cover.png" alt="Turbine Facets" width="100%" >}}
+{{< figure src="thumbnail" alt="Turbine Facets" width="100%" >}}
 
 ### APP REQUIREMENTS
 
