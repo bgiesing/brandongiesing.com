@@ -1,0 +1,38 @@
+{
+  "alerts": [],
+  "brief": {
+    "lines": [
+      "Treasure Hunters push: nine levels to go",
+      "Zip is unblocked and paid through Nov 24",
+      "Tonight's Compass News is out this evening"
+    ],
+    "title": "Daily Brief"
+  },
+  "calendar": {
+    "compiledAt": "2026-11-23T02:33:35Z",
+    "days": {
+      "2026-11-22": 1,
+      "2026-11-28": 1
+    },
+    "month": "2026-11"
+  },
+  "dash": [
+    "Today: Compass News Tonight 7:00 PM",
+    "Treasure Hunters push: nine levels to go",
+    "Zip is unblocked and paid through Nov 24",
+    "Tonight's Compass News is out this evening"
+  ],
+  "houseMode": "Home",
+  "nextEvent": {
+    "time": "1:00 PM",
+    "title": "Fortnite Treasure Hunters"
+  },
+  "scout": {
+    "note": "Compass pointing home",
+    "status": "Home"
+  },
+  "updatedAt": "2026-11-23T02:33:35Z",
+  "whoHome": [
+    "Brandon"
+  ]
+}
